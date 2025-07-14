@@ -194,22 +194,22 @@
 
 ---
 
-## 20. [Gencraft](https://gencraft.com/create) 🖌️
+## 20. [Stable Diffusion Online](https://stabledifffusion.com/) 🎯
 
-- 📋 **Qué es**: Plataforma IA potente que convierte texto en imágenes detalladas en estilo realista, artístico o anime.
-- 🔐 **Registro**: SÍ necesario (se puede usar correo temporal).
-- 🎟️ **Créditos**: 10 imágenes gratuitas al crear cuenta. Puedes crear más con otros correos temporales.
-- 🛠️ **Extras**: Permite seleccionar estilo (fantasía, retrato, cómic), agregar referencia visual y descargar en HD.
-- 🎯 **Beneficio**: Ideal para resultados de calidad profesional, con estilos pulidos y variados para creadores exigentes.
+- 📋 **Qué es**: Plataforma en línea que permite usar un modelo de Stable Diffusion para generar imágenes desde texto, sin necesidad de instalación ni cuenta.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin límites diarios, tokens ni créditos.
+- 🛠️ **Extras**: Soporta múltiples estilos (realista, acuarela, sketch, anime), ajustes de iluminación, color y encuadre.
+- 🎯 **Beneficio**: Excelente para creadores que quieren resultados de alta calidad sin complicarse y directamente desde el navegador. :contentReference[oaicite:0]{index=0}
 
 ---
 
-## 21. [Soulgen AI](https://soulgen.ai/) 💋
+## 21. [Artguru AI](https://www.artguru.ai/ai-text-to-image-generator/) 🎨
 
-- 📋 **Qué es**: Web IA especializada en crear imágenes de personajes realistas, estilo retrato, anime o modelos femeninos.
+- 📋 **Qué es**: Generador de imágenes IA versátil, soporta prompts desde texto a fotos, dibujos, personajes o fondos artísticos.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, aunque puede haber cola en horas pico.
-- 🛠️ **Extras**: Elige estilo NSFW o SFW, relación de aspecto, filtros de belleza, resolución, y más.
-- 🎯 **Beneficio**: Brutal para crear personajes estilo anime o realista con control visual detallado y sin límites.
+- ♾️ **Uso**: Ilimitado, sin registros ni marcas de agua.
+- 🛠️ **Extras**: Soporte de diversos estilos artísticos, descarga inmediata en calidad estándar o HD.
+- 🎯 **Beneficio**: Ideal para diseñadores, storytellers y creadores que desean variedad en estilos visuales sin tener que registrarse. :contentReference[oaicite:1]{index=1}
 
 ---
