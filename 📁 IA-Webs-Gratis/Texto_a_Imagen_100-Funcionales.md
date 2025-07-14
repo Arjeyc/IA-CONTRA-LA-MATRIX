@@ -146,69 +146,70 @@
 
 ## 15. [Raphael AI](https://raphaelai.org/) 🎨
 
-- 📋 **Qué es**: Generador IA que convierte texto en imágenes HD usando algoritmos avanzados.
+- 📋 **Qué es**: Generador de arte IA HD que convierte texto en imágenes con estilo refinado y realista.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado; puedes generar tantas imágenes como quieras.
-- 🛠️ **Extras**: Ajustes de estilo mediante prompt, descarga en PNG/JPEG.
-- 🎯 **Beneficio**: Alta calidad sin registros, ideal para contenido visual profesional. :contentReference[oaicite:1]{index=1}
+- ♾️ **Uso**: Ilimitado, sin tokens ni límites diarios.
+- 🛠️ **Extras**: Ajuste de estilos por prompt, descarga en PNG/JPEG.
+- 🎯 **Beneficio**: Alta calidad sin necesidad de registro, perfecto para contenido profesional.
 
 ---
 
 ## 16. [Facewow AI](https://facewow.ai/ai-image-generator/) 😎
 
-- 📋 **Qué es**: Generador IA de imágenes con múltiples estilos: realismo, anime, retrato, 3D, cyberpunk.
+- 📋 **Qué es**: Crea imágenes en diversos estilos: realismo, anime, 3D, retrato, cyberpunk.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin marca de agua.
-- 🛠️ **Extras**: Soporta texto-a-imagen y imagen-a-imagen.
-- 🎯 **Beneficio**: Perfecto para creadores que quieren variedad visual sin cuentas. :contentReference[oaicite:2]{index=2}
+- ♾️ **Uso**: Ilimitado, sin marcas de agua o límites visibles.
+- 🛠️ **Extras**: Texto-a-imagen e imagen-a-imagen para refinar tus creaciones.
+- 🎯 **Beneficio**: Ideal para generar variedad estética sin registro ni costos.
 
 ---
 
 ## 17. [Seedream AI](https://seedream.pro/) 🌱
 
-- 📋 **Qué es**: Generador IA de alta resolución con múltiples estilos (realista, acuarela, minimalista).
+- 📋 **Qué es**: Texto-a-imagen de alta resolución con estilos minimalistas o artísticos.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin límites ni tokens.
-- 🛠️ **Extras**: Ajustes de relación de aspecto, aspecto profesional, super-resolución.
-- 🎯 **Beneficio**: Ideal para diseños limpios y rápidos sin registro. :contentReference[oaicite:3]{index=3}
+- ♾️ **Uso**: Ilimitado, sin tokens ni caducidad.
+- 🛠️ **Extras**: Ajuste de relaciones de aspecto, super-resolución nítida.
+- 🎯 **Beneficio**: Útil para diseños limpios al instante, sin cuentas ni límites.
 
 ---
 
-## 18. [Pixmind AI](https://www.pixmindai.com/) 🧠
+## 18. [Flux AI](https://fluxwebui.com/tools/ai-image-generator) ⚡
 
-- 📋 **Qué es**: Plataforma IA que permite texto‑a‑imagen e imagen‑a‑imagen sin limites.
+- 📋 **Qué es**: Generador rápido que convierte texto en imagen sin necesidad de login.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado.
-- 🛠️ **Extras**: Soporta ajustes de estilo, iluminación, composición, y descarga HD.
-- 🎯 **Beneficio**: Alta calidad pro sin registros ni barreras. :contentReference[oaicite:4]{index=4}
+- ♾️ **Uso**: Ilimitado, sin restricciones.
+- 🛠️ **Extras**: Control de aspecto, prompts negativos, selección de estilo.
+- 🎯 **Beneficio**: Excelente para contenido diario, ultra rápido y directo.
 
 ---
 
-## 19. [Flux AI](https://fluxwebui.com/tools/ai-image-generator) ⚡
+## 19. [GenFreeAI](https://genfreeai.com/) 🆓
 
-- 📋 **Qué es**: Generador IA rápido y sin login que transforma texto en imagen.
+- 📋 **Qué es**: Generador IA gratuito y sin login para text-to-image.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado.
-- 🛠️ **Extras**: Selección de proporciones, prompts negativos, y estilos.
-- 🎯 **Beneficio**: Ultra rápido y fácil de usar para contenido diario. :contentReference[oaicite:5]{index=5}
+- ♾️ **Uso**: Ilimitado, sin límites conocidos.
+- 🛠️ **Extras**: Solo texto-a-imagen con descarga directa.
+- 🎯 **Beneficio**: Ideal para contenido básico rápido y limpio.
 
 ---
 
-## 20. [GenFreeAI](https://genfreeai.com/) 🆓
+## 20. [PixImagine](https://piximagine.app/) 🎨
 
-- 📋 **Qué es**: Plataforma gratuita de texto‑a‑imagen con IA de calidad.
+- 📋 **Qué es**: Texto-a-imagen minimalista para crear ilustraciones simples.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin tope de uso.
-- 🛠️ **Extras**: No indica funciones extra, pero permite descarga directa.
-- 🎯 **Beneficio**: Sencilla, limpia y eficaz para tareas básicas. :contentReference[oaicite:6]{index=6}
+- ♾️ **Uso**: Ilimitado, sin restricciones.
+- 🛠️ **Extras**: Ajustes básicos de color, estilo artístico, descarga.
+- 🎯 **Beneficio**: Perfecto para prototipos rápidos visuales.
 
 ---
 
-## 21. [HIX AI](https://hix.ai/text-to-image) 🎯
+## 21. [Craiyon (DALL·E Mini)](https://www.craiyon.com/) 🌀
 
-- 📋 **Qué es**: Generador IA que convierte texto en imagen con varios modelos.
+- 📋 **Qué es**: Generador IA popular que crea una cuadrícula de 9 imágenes por prompt.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado.
-- 🛠️ **Extras**: Permite descargar en JPG, WebP, PNG; estilos diversos: realista, caricatura, surrealista.
-- 🎯 **Beneficio**: Muy versátil y funcional, ideal para cualquier tipo de proyecto. :contentReference[oaicite:7]{index=7}
+- ♾️ **Uso**: Ilimitado, aunque puede haber espera en horas pico.
+- 🛠️ **Extras**: Modo divertido de explorar variaciones sin complicaciones.
+- 🎯 **Beneficio**: Perfecto para brainstorming y contenido visual inicial.
 
+---
