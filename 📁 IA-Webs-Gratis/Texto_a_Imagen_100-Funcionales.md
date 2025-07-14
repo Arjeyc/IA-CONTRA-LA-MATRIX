@@ -74,3 +74,69 @@
 - 🎯 **Beneficio**: Aunque básica, sigue siendo muy útil para generar ideas visuales rápidas. Ideal para brainstorming o inspiración rápida.
 
 ---
+## 8. [Perchance](https://perchance.org/ai-text-to-image-generator) ✨
+
+- 📋 **Qué es**: Plataforma súper sencilla para generar imágenes con IA desde texto. Ideal para pruebas rápidas y sin configuraciones técnicas.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado. Puedes usarlo todo el día sin que te bloquee.
+- 🛠️ **Extras**: Genera hasta 4 imágenes por prompt, opciones de estilos simples (fantasía, realismo, anime).
+- 🎯 **Beneficio**: Perfecto para lluvia de ideas visuales, tests rápidos y creadores que no quieren complicarse.
+
+---
+
+## 9. [YesChat – Text to Image](https://www.yeschat.ai/features/text-to-image-generator) 🌟
+
+- 📋 **Qué es**: Herramienta IA de generación visual desde texto que forma parte de la suite de YesChat. Imágenes limpias y resultados variados.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado. No usa tokens ni impone restricciones visibles.
+- 🛠️ **Extras**: También ofrece chatbot IA, generación de respuestas, chat PDF y analizador de texto.
+- 🎯 **Beneficio**: Ideal para quienes quieren tener varias funciones IA en una sola web y aprovechar la imagen sin límites.
+
+---
+
+## 10. [Halfmoon AI](https://halfmoon-ai.com/) 🌙
+
+- 📋 **Qué es**: Web IA que convierte texto a imagen en segundos usando un modelo propio (Halfmoon Image 1.0). El estilo es moderno y limpio.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado. Solo hay una pequeña cola de espera cuando hay mucha gente.
+- 🛠️ **Extras**: No tiene funciones extra, pero sí exporta en buena calidad y tiene botón para nueva imagen sin recargar página.
+- 🎯 **Beneficio**: Ideal para quienes buscan velocidad, sin registro y sin complicaciones técnicas.
+
+---
+
+## 11. [Dezgo](https://dezgo.com/) 🎨
+
+- 📋 **Qué es**: Plataforma muy versátil basada en Stable Diffusion. Permite ajustar el modelo, estilo y hasta usar LoRA personalizados (modelos preentrenados).
+- 🔐 **Registro**: NO obligatorio (pero al registrarte ganas más funciones).
+- 🎟️ **Créditos**: Gratuito en su versión básica. Algunas funciones avanzadas requieren cuenta, pero no usa tokens si no registras.
+- 🛠️ **Extras**: Image-to-image, control de estilos, modelo anime, zoom-out, upscale, input de imagen, eliminación de fondo.
+- 🎯 **Beneficio**: Perfecto para usuarios intermedios y avanzados que quieren resultados más controlados y creativos.
+
+---
+
+## 12. [AImageGen](https://aimagegen.com/) 🖼️
+
+- 📋 **Qué es**: Generador IA sin registro, simple pero efectivo. Solo escribes el prompt y recibes una imagen de calidad decente.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado.
+- 🛠️ **Extras**: No tiene edición ni opciones adicionales, pero permite descarga directa y comparte ejemplos creativos en la misma página.
+- 🎯 **Beneficio**: Ideal para quienes recién inician con IA visual y quieren resultados inmediatos sin líos.
+
+---
+
+## 13. [i2IMG](https://www.i2img.com/text-to-image) 🔁
+
+- 📋 **Qué es**: Generador IA gratuito con enfoque en ilustraciones básicas. Permite crear imágenes en distintos formatos (cuadrado, retrato, etc).
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado. Hasta ahora no ha presentado restricciones.
+- 🛠️ **Extras**: Selección de tamaños y orientaciones, descarga directa, limpio y sin anuncios molestos.
+- 🎯 **Beneficio**: Herramienta simple, limpia y funcional. Útil para crear ilustraciones con buena estética sin cuenta.
+
+---
+
+## 14. [Recraft AI](https://recraft.ai) 🖌️
+
+- 📋 **Qué es**: Plataforma avanzada para generar imágenes desde texto, orientada a diseño gráfico, branding, logos e ilustración editorial.
+- 🔐 **Registro**: SÍ, necesario (gratuito).
+- 🎟️ **Créditos**: Ilimitado en versión básica, pero con restricciones de resolución/exportación en SVG y PNG.
+- 🛠️ **Extras**: Genera imágenes vectoriales, arte digital, ilustraciones con enfoq
