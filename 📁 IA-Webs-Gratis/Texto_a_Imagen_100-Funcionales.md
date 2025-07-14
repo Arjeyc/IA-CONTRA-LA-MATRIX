@@ -194,22 +194,22 @@
 
 ---
 
-## 20. [PixImagine](https://piximagine.app/) 🎨
+## 20. [Gencraft](https://gencraft.com/create) 🖌️
 
-- 📋 **Qué es**: Texto-a-imagen minimalista para crear ilustraciones simples.
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin restricciones.
-- 🛠️ **Extras**: Ajustes básicos de color, estilo artístico, descarga.
-- 🎯 **Beneficio**: Perfecto para prototipos rápidos visuales.
+- 📋 **Qué es**: Plataforma IA potente que convierte texto en imágenes detalladas en estilo realista, artístico o anime.
+- 🔐 **Registro**: SÍ necesario (se puede usar correo temporal).
+- 🎟️ **Créditos**: 10 imágenes gratuitas al crear cuenta. Puedes crear más con otros correos temporales.
+- 🛠️ **Extras**: Permite seleccionar estilo (fantasía, retrato, cómic), agregar referencia visual y descargar en HD.
+- 🎯 **Beneficio**: Ideal para resultados de calidad profesional, con estilos pulidos y variados para creadores exigentes.
 
 ---
 
-## 21. [Craiyon (DALL·E Mini)](https://www.craiyon.com/) 🌀
+## 21. [Soulgen AI](https://soulgen.ai/) 💋
 
-- 📋 **Qué es**: Generador IA popular que crea una cuadrícula de 9 imágenes por prompt.
+- 📋 **Qué es**: Web IA especializada en crear imágenes de personajes realistas, estilo retrato, anime o modelos femeninos.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, aunque puede haber espera en horas pico.
-- 🛠️ **Extras**: Modo divertido de explorar variaciones sin complicaciones.
-- 🎯 **Beneficio**: Perfecto para brainstorming y contenido visual inicial.
+- ♾️ **Uso**: Ilimitado, aunque puede haber cola en horas pico.
+- 🛠️ **Extras**: Elige estilo NSFW o SFW, relación de aspecto, filtros de belleza, resolución, y más.
+- 🎯 **Beneficio**: Brutal para crear personajes estilo anime o realista con control visual detallado y sin límites.
 
 ---
