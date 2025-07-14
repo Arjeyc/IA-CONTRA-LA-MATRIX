@@ -67,5 +67,46 @@ Estas páginas web permiten generar imágenes desde texto (Text to Image) de for
 
 ---
 
-## 5. [Hotpot AI – Art Gener]()
+## 5. [Hotpot AI – Art Generator](https://hotpot.ai/art-generator) 🔥
+
+- 🎯 **Qué es**: Generador sencillo de imágenes desde texto con presets de estilo.
+- 🔐 **Registro**: NO necesario para uso básico
+- ♾️ **Límites**: Gratis limitado por día
+- 🛠️ **Herramientas adicionales**:
+  - Estilos predefinidos (fantasía, realista, caricatura, etc.)
+  - Upscaler (para mejorar calidad)
+  - Eliminador de fondo
+- ✅ Rápido, simple y útil para crear contenido inmediato
+
+> **Beneficio clave**: Sin registro y resultados aceptables
+
+---
+
+## 6. [NightCafe Studio](https://creator.nightcafe.studio/) 🌌
+
+- 🎯 **Qué es**: Plataforma clásica de arte IA con motores como SDXL, CLIP-Guided, VQGAN.
+- 🔐 **Registro**: SÍ
+- ♾️ **Límites**: Créditos diarios gratuitos
+- 🛠️ **Herramientas adicionales**:
+  - Creación de imágenes con diferentes motores IA
+  - Upscaler
+  - Galería personal
+  - Desafíos diarios para ganar créditos
+- ✅ Comunidad muy activa y contenido artístico de calidad
+
+> **Beneficio clave**: Estilo artístico amplio y funciones sociales
+
+---
+
+## 7. [DeepAI – Text to Image](https://deepai.org/machine-learning-model/text2img) 🔍
+
+- 🎯 **Qué es**: Generador IA muy básico y ligero.
+- 🔐 **Registro**: NO
+- ♾️ **Límites**: Ilimitado (sin bloqueos)
+- 🛠️ **Herramientas adicionales**: Ninguna. Solo text-to-image simple.
+- ✅ Ideal para probar IA rápida o integrarla vía API (para programadores)
+
+> **Beneficio clave**: 100% libre, sin cuenta ni restricciones
+
+---
 
