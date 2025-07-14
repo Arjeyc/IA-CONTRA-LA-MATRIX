@@ -214,13 +214,13 @@
 
 ---
 
-## 22. [TextToImage.app](https://texttoimage.app/) 🖌️
+## 22. [AIImageGenerator.is](https://aiimagegenerator.is/features/text-to-image) 🖼️
 
-- 📋 **Qué es**: Plataforma simple y gratuita para generar imágenes realistas desde texto usando Stable Diffusion.
+- 📋 **Qué es**: Generador AI que convierte texto en imágenes de alta calidad, completamente gratis y sin necesidad de registro.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado sin tokens ni cuenta.
-- 🛠️ **Extras**: Puedes ajustar la relación de aspecto (vertical, horizontal, cuadrado), calidad, estilo de imagen, y agregar prompt negativo.
-- 🎯 **Beneficio**: Interfaz limpia, sin publicidad invasiva, ideal para creadores que desean flujo rápido sin fricción.
+- ♾️ **Uso**: Ilimitado, sin límites diarios.
+- 🛠️ **Extras**: Permite elegir formatos (4:3, 3:4, 1:1), estilos realista o artístico, y opción de descargar imágenes directamente.
+- 🎯 **Beneficio**: Ideal para creadores que quieren resultados rápidos y limpios sin líos técnicos
 
 ---
 
@@ -274,11 +274,11 @@
 
 ---
 
-## 28. [FreeImage.AI](https://freeimage.ai/) 🪄
+## 28. [MindVideo.ai – Text to Image](https://www.mindvideo.ai/en/text-to-image/) 🌌
 
-- 📋 **Qué es**: Generador IA gratuito que ofrece imágenes HD desde texto, sin necesidad de registro.
+- 📋 **Qué es**: Herramienta accesible para generar imágenes desde texto, con selección de estilos como anime, retrato o fondos.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, aunque puede tener leve espera en horas pico.
-- 🛠️ **Extras**: Soporte para estilos artísticos, anime, realismo, y opción de descargar en alta resolución.
-- 🎯 **Beneficio**: Excelente para generar imágenes potentes y listas para usar en miniaturas, redes o contenidos sin preocuparte por límites ni suscripciones.
+- ♾️ **Uso**: Ilimitado, aunque puede haber tiempos de espera en momentos pico.
+- 🛠️ **Extras**: Ajuste de estilo visual, tamaños, y proceso en tiempo real para ver varias versiones antes de elegir.
+- 🎯 **Beneficio**: Perfecto para contenido narrativo o visual con estética específica, sin cuentas ni restricciones
 
