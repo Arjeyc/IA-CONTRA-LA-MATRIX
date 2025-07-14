@@ -282,3 +282,72 @@
 - 🛠️ **Extras**: Ajuste de estilo visual, tamaños, y proceso en tiempo real para ver varias versiones antes de elegir.
 - 🎯 **Beneficio**: Perfecto para contenido narrativo o visual con estética específica, sin cuentas ni restricciones
 
+---
+
+## 29. [Neural.love](https://neural.love/create) 🧠
+
+- 📋 **Qué es**: Web IA para generar imágenes realistas, arte conceptual, anime y escenarios con modelos avanzados.
+- 🔐 **Registro**: Opcional (NO necesario para probar).
+- 🎟️ **Créditos**: Te da 5 créditos gratuitos al día sin cuenta (1 imagen por crédito).
+- 🛠️ **Extras**: Estilo realista, anime, digital art; ajustes de calidad, número de imágenes y resolución HD.
+- 🎯 **Beneficio**: Resultados profesionales con arte cinemático y acceso diario gratis sin necesidad de login.
+
+---
+
+## 30. [Wombo Dream AI](https://dream.ai/create) 🎨
+
+- 📋 **Qué es**: Plataforma IA de generación artística con estilos ultra creativos y control total desde el prompt.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado (algunas funciones pro están bloqueadas, pero la generación base es gratuita).
+- 🛠️ **Extras**: +30 estilos artísticos (sci-fi, steampunk, dark, realista, etc.), opción de remasterizado y descarga directa.
+- 🎯 **Beneficio**: Ideal para contenido inspirador, miniaturas o ideas visuales impactantes y expresivas.
+
+---
+
+## 31. [Fotor GoArt AI](https://www.fotor.com/goart/) 🖌️
+
+- 📋 **Qué es**: Conversor IA que transforma tus imágenes o prompts en arte estilo Van Gogh, Ukiyo-e, Pop Art y más.
+- 🔐 **Registro**: NO necesario para probar.
+- 🎟️ **Créditos**: Ilimitado en estilos básicos. Algunos filtros requieren cuenta (usa correo temporal).
+- 🛠️ **Extras**: Más de 30 filtros artísticos, remasterización, exportar en alta resolución.
+- 🎯 **Beneficio**: Potente para quienes buscan transformar fotos existentes en arte viral o vintage.
+
+---
+
+## 32. [Tiamat AI](https://www.tiamatai.com/tools/imagegen) 🔥
+
+- 📋 **Qué es**: Web IA que genera imágenes tipo cómic, retratos cyberpunk, personajes o fondos tipo anime.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin marca de agua ni límites por día.
+- 🛠️ **Extras**: Varios estilos (Cyberpunk, Cartoon, Chibi), velocidad buena y descarga directa.
+- 🎯 **Beneficio**: Ideal para crear personajes de historias, cómics, o posters sin límites.
+
+---
+
+## 33. [Alpaca AI Generator](https://alpaca.art/) 🐑
+
+- 📋 **Qué es**: Plataforma IA para crear personajes estilo anime y fondos de mundos imaginarios con prompts.
+- 🔐 **Registro**: SÍ necesario (acepta correos desechables sin problema).
+- 🎟️ **Créditos**: 20 imágenes gratis por día (renovables diario).
+- 🛠️ **Extras**: Personajes anime, fondos de historia, conceptos RPG. Estilo único tipo Genshin Impact.
+- 🎯 **Beneficio**: Excelente para creadores de lore, manga, o universos visuales estilo anime.
+
+---
+
+## 34. [PhotoAI AI Artist](https://photoai.com/ai-art) 📷
+
+- 📋 **Qué es**: Web que permite crear imágenes con estilo fotográfico realista desde texto o ejemplos visuales.
+- 🔐 **Registro**: NO necesario para probar.
+- ♾️ **Uso**: Gratuito con estilos básicos. Registro amplía más funciones.
+- 🛠️ **Extras**: Estilo fotográfico realista, retratos, fondos naturales y urbana.
+- 🎯 **Beneficio**: Genial para crear portadas, miniaturas o personajes con rostro creíble.
+
+---
+
+## 35. [Sketchar AI](https://sketchar.tech/ai-generator) 🧬
+
+- 📋 **Qué es**: Herramienta IA para crear ilustraciones, bocetos artísticos o pinturas digitales desde texto.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado. Algunas funciones extra si creas cuenta (acepta correos temporales).
+- 🛠️ **Extras**: Ajustes de estilo (sketch, pintura, cartoon), exporta en alta calidad, velocidad estable.
+- 🎯 **Beneficio**: Perfecto para diseñadores, dibujantes o ilustradores que quieren ideas visuales rápidas.
