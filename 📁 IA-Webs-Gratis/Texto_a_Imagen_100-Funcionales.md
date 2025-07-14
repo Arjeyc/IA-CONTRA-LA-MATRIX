@@ -141,3 +141,74 @@
 - 🔐 **Registro**: SÍ, necesario (gratuito).
 - 🎟️ **Créditos**: Ilimitado en versión básica, pero con restricciones de resolución/exportación en SVG y PNG.
 - 🛠️ **Extras**: Genera imágenes vectoriales, arte digital, ilustraciones con enfoq
+
+---
+
+## 15. [Raphael AI](https://raphaelai.org/) 🎨
+
+- 📋 **Qué es**: Generador IA que convierte texto en imágenes HD usando algoritmos avanzados.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado; puedes generar tantas imágenes como quieras.
+- 🛠️ **Extras**: Ajustes de estilo mediante prompt, descarga en PNG/JPEG.
+- 🎯 **Beneficio**: Alta calidad sin registros, ideal para contenido visual profesional. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 16. [Facewow AI](https://facewow.ai/ai-image-generator/) 😎
+
+- 📋 **Qué es**: Generador IA de imágenes con múltiples estilos: realismo, anime, retrato, 3D, cyberpunk.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin marca de agua.
+- 🛠️ **Extras**: Soporta texto-a-imagen y imagen-a-imagen.
+- 🎯 **Beneficio**: Perfecto para creadores que quieren variedad visual sin cuentas. :contentReference[oaicite:2]{index=2}
+
+---
+
+## 17. [Seedream AI](https://seedream.pro/) 🌱
+
+- 📋 **Qué es**: Generador IA de alta resolución con múltiples estilos (realista, acuarela, minimalista).
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin límites ni tokens.
+- 🛠️ **Extras**: Ajustes de relación de aspecto, aspecto profesional, super-resolución.
+- 🎯 **Beneficio**: Ideal para diseños limpios y rápidos sin registro. :contentReference[oaicite:3]{index=3}
+
+---
+
+## 18. [Pixmind AI](https://www.pixmindai.com/) 🧠
+
+- 📋 **Qué es**: Plataforma IA que permite texto‑a‑imagen e imagen‑a‑imagen sin limites.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado.
+- 🛠️ **Extras**: Soporta ajustes de estilo, iluminación, composición, y descarga HD.
+- 🎯 **Beneficio**: Alta calidad pro sin registros ni barreras. :contentReference[oaicite:4]{index=4}
+
+---
+
+## 19. [Flux AI](https://fluxwebui.com/tools/ai-image-generator) ⚡
+
+- 📋 **Qué es**: Generador IA rápido y sin login que transforma texto en imagen.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado.
+- 🛠️ **Extras**: Selección de proporciones, prompts negativos, y estilos.
+- 🎯 **Beneficio**: Ultra rápido y fácil de usar para contenido diario. :contentReference[oaicite:5]{index=5}
+
+---
+
+## 20. [GenFreeAI](https://genfreeai.com/) 🆓
+
+- 📋 **Qué es**: Plataforma gratuita de texto‑a‑imagen con IA de calidad.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin tope de uso.
+- 🛠️ **Extras**: No indica funciones extra, pero permite descarga directa.
+- 🎯 **Beneficio**: Sencilla, limpia y eficaz para tareas básicas. :contentReference[oaicite:6]{index=6}
+
+---
+
+## 21. [HIX AI](https://hix.ai/text-to-image) 🎯
+
+- 📋 **Qué es**: Generador IA que convierte texto en imagen con varios modelos.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado.
+- 🛠️ **Extras**: Permite descargar en JPG, WebP, PNG; estilos diversos: realista, caricatura, surrealista.
+- 🎯 **Beneficio**: Muy versátil y funcional, ideal para cualquier tipo de proyecto. :contentReference[oaicite:7]{index=7}
+
