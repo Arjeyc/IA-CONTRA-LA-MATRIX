@@ -294,13 +294,13 @@
 
 ---
 
-## 30. [YesChat AI Text-to-Image](https://www.yeschat.ai/features/text-to-image-generator) 🌟
+## 30. [Musely AI Image Generator](https://musely.ai/tools/ai-image-generator-no-sign-up) 🎨
 
-- 📋 **Qué es**: Generador IA que transforma texto en imágenes realistas o artísticas directamente en el navegador.
-- 🔐 **Registro**: NO necesario — entras y generas sin cuenta.
-- ♾️ **Uso**: Ilimitado, sin tokens ni límites diarios :contentReference[oaicite:1]{index=1}.
-- 🛠️ **Extras**: Diferentes estilos (realista, fantasía, cómic), descarga en formato HD.
-- 🎯 **Beneficio**: Ideal para creación rápida y variada sin fricción; resultado profesional en segundos.
+- 📋 **Qué es**: Plataforma de generación IA que crea imágenes con prompts detallados, sin registro, y ofrece varios estilos y atmósferas.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, gratuito, sin marcar agua ni restricciones :contentReference[oaicite:2]{index=2}.
+- 🛠️ **Extras**: 15 estilos artísticos (realista, acuarela, anime...), control de mood (14 atmósferas), varias relaciones de aspecto, paletas de color, iluminación y elementos personalizados.
+- 🎯 **Beneficio**: Ideal para crear imágenes contextualizadas con ambiente (ej: "oficina nocturna iluminada") sin configuraciones complejas.
 
 ---
 
