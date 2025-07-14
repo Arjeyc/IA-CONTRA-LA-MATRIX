@@ -294,60 +294,60 @@
 
 ---
 
-## 30. [Wombo Dream AI](https://dream.ai/create) 🎨
+## 30. [YesChat AI Text-to-Image](https://www.yeschat.ai/features/text-to-image-generator) 🌟
 
-- 📋 **Qué es**: Plataforma IA de generación artística con estilos ultra creativos y control total desde el prompt.
+- 📋 **Qué es**: Generador IA que transforma texto en imágenes realistas o artísticas directamente en el navegador.
+- 🔐 **Registro**: NO necesario — entras y generas sin cuenta.
+- ♾️ **Uso**: Ilimitado, sin tokens ni límites diarios :contentReference[oaicite:1]{index=1}.
+- 🛠️ **Extras**: Diferentes estilos (realista, fantasía, cómic), descarga en formato HD.
+- 🎯 **Beneficio**: Ideal para creación rápida y variada sin fricción; resultado profesional en segundos.
+
+---
+
+## 31. [WorkinTool AI Image Generator](https://www.workintool.com/image-converter/ai-image-generator.html) 🎨
+
+- 📋 **Qué es**: Herramienta IA que permite generar imágenes desde texto con varios estilos (3D, cómic, ilustración).
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado (algunas funciones pro están bloqueadas, pero la generación base es gratuita).
-- 🛠️ **Extras**: +30 estilos artísticos (sci-fi, steampunk, dark, realista, etc.), opción de remasterizado y descarga directa.
-- 🎯 **Beneficio**: Ideal para contenido inspirador, miniaturas o ideas visuales impactantes y expresivas.
+- ♾️ **Uso**: Ilimitado, sin anuncios ni marca de agua :contentReference[oaicite:2]{index=2}.
+- 🛠️ **Extras**: Ajuste de proporción, estilos temáticos, upload de referencia visual.
+- 🎯 **Beneficio**: Perfecto para creadores que buscan variedad y control en una sola web.
 
 ---
 
-## 31. [Fotor GoArt AI](https://www.fotor.com/goart/) 🖌️
+## 32. [MagicHour AI Generator](https://magichour.ai/products/ai-image-generator) ✨
 
-- 📋 **Qué es**: Conversor IA que transforma tus imágenes o prompts en arte estilo Van Gogh, Ukiyo-e, Pop Art y más.
-- 🔐 **Registro**: NO necesario para probar.
-- 🎟️ **Créditos**: Ilimitado en estilos básicos. Algunos filtros requieren cuenta (usa correo temporal).
-- 🛠️ **Extras**: Más de 30 filtros artísticos, remasterización, exportar en alta resolución.
-- 🎯 **Beneficio**: Potente para quienes buscan transformar fotos existentes en arte viral o vintage.
-
----
-
-## 32. [Tiamat AI](https://www.tiamatai.com/tools/imagegen) 🔥
-
-- 📋 **Qué es**: Web IA que genera imágenes tipo cómic, retratos cyberpunk, personajes o fondos tipo anime.
+- 📋 **Qué es**: Generador IA rápido y sin login que produce imágenes artísticas desde texto.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin marca de agua ni límites por día.
-- 🛠️ **Extras**: Varios estilos (Cyberpunk, Cartoon, Chibi), velocidad buena y descarga directa.
-- 🎯 **Beneficio**: Ideal para crear personajes de historias, cómics, o posters sin límites.
+- 🎟️ **Créditos**: Incluye 20 imágenes gratuitas diarias antes de limitar :contentReference[oaicite:3]{index=3}.
+- 🛠️ **Extras**: Usa prompt para generar imágenes, también puede crear videos breves a partir de ellas.
+- 🎯 **Beneficio**: Ideal para contenido frequent y creativo sin sacarte del flujo.
 
 ---
 
-## 33. [Alpaca AI Generator](https://alpaca.art/) 🐑
+## 33. [Image-Generator.com](https://www.image-generator.com/) 🖼️
 
-- 📋 **Qué es**: Plataforma IA para crear personajes estilo anime y fondos de mundos imaginarios con prompts.
-- 🔐 **Registro**: SÍ necesario (acepta correos desechables sin problema).
-- 🎟️ **Créditos**: 20 imágenes gratis por día (renovables diario).
-- 🛠️ **Extras**: Personajes anime, fondos de historia, conceptos RPG. Estilo único tipo Genshin Impact.
-- 🎯 **Beneficio**: Excelente para creadores de lore, manga, o universos visuales estilo anime.
-
----
-
-## 34. [PhotoAI AI Artist](https://photoai.com/ai-art) 📷
-
-- 📋 **Qué es**: Web que permite crear imágenes con estilo fotográfico realista desde texto o ejemplos visuales.
-- 🔐 **Registro**: NO necesario para probar.
-- ♾️ **Uso**: Gratuito con estilos básicos. Registro amplía más funciones.
-- 🛠️ **Extras**: Estilo fotográfico realista, retratos, fondos naturales y urbana.
-- 🎯 **Beneficio**: Genial para crear portadas, miniaturas o personajes con rostro creíble.
-
----
-
-## 35. [Sketchar AI](https://sketchar.tech/ai-generator) 🧬
-
-- 📋 **Qué es**: Herramienta IA para crear ilustraciones, bocetos artísticos o pinturas digitales desde texto.
+- 📋 **Qué es**: Plataforma IA que convierte texto en imágenes de alta calidad.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado. Algunas funciones extra si creas cuenta (acepta correos temporales).
-- 🛠️ **Extras**: Ajustes de estilo (sketch, pintura, cartoon), exporta en alta calidad, velocidad estable.
-- 🎯 **Beneficio**: Perfecto para diseñadores, dibujantes o ilustradores que quieren ideas visuales rápidas.
+- ♾️ **Uso**: Ilimitado, sin cuentas ni tokens :contentReference[oaicite:4]{index=4}.
+- 🛠️ **Extras**: Ajustes de tamaño, calidad y estilo antes de generar.
+- 🎯 **Beneficio**: Rápido, directo y 100% libre — genial para ideas de último minuto.
+
+---
+
+## 34. [AImageGen](https://aimagegen.com/) 🖼️
+
+- 📋 **Qué es**: Generador IA de texto a imagen simple, sin registro, resultado limpio.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin marcas, sin restricciones :contentReference[oaicite:5]{index=5}.
+- 🛠️ **Extras**: Varios tamaños, descarga instantánea, sin configuración extra.
+- 🎯 **Beneficio**: Perfecto para educación, brainstorming y creaciones cotidianas.
+
+---
+
+## 35. [Flux AI Image Generator](https://flux-ai.app/generate) ⚡
+
+- 📋 **Qué es**: Web IA que genera imágenes desde texto con múltiples estilos (foto, anime, conceptual).
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado :contentReference[oaicite:6]{index=6}.
+- 🛠️ **Extras**: Ajuste de formato y estilo, descarga en JPG/PNG/WEBP.
+- 🎯 **Beneficio**: Ultra práctico para crear visuales con estilo variado al instante.
