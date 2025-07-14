@@ -304,13 +304,13 @@
 
 ---
 
-## 31. [WorkinTool AI Image Generator](https://www.workintool.com/image-converter/ai-image-generator.html) 🎨
+## 31. [AI Image Generator (Callculation)](https://callculation.com/ai-tools/free-ai-image-generator/) 🤖
 
-- 📋 **Qué es**: Herramienta IA que permite generar imágenes desde texto con varios estilos (3D, cómic, ilustración).
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin anuncios ni marca de agua :contentReference[oaicite:2]{index=2}.
-- 🛠️ **Extras**: Ajuste de proporción, estilos temáticos, upload de referencia visual.
-- 🎯 **Beneficio**: Perfecto para creadores que buscan variedad y control en una sola web.
+- 📋 **Qué es**: Herramienta gratuita que transforma texto en imágenes de alta calidad usando IA avanzada.
+- 🔐 **Registro**: NO necesario; entras y generas al toque.
+- ♾️ **Uso**: Ilimitado, sin tokens, créditos ni límites diarios :contentReference[oaicite:1]{index=1}.
+- 🛠️ **Extras**: Generación en diferentes resoluciones, sin marcas de agua ni publicidad invasiva.
+- 🎯 **Beneficio**: Ideal para crear contenido visual limpio y directo sin fricción técnica.
 
 ---
 
@@ -334,20 +334,20 @@
 
 ---
 
-## 34. [AImageGen](https://aimagegen.com/) 🖼️
+## 34. [Botlore AI Image Generator](https://botlore.com/ai-image-generator) 🤖
 
-- 📋 **Qué es**: Generador IA de texto a imagen simple, sin registro, resultado limpio.
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin marcas, sin restricciones :contentReference[oaicite:5]{index=5}.
-- 🛠️ **Extras**: Varios tamaños, descarga instantánea, sin configuración extra.
-- 🎯 **Beneficio**: Perfecto para educación, brainstorming y creaciones cotidianas.
+- 📋 **Qué es**: Generador IA para crear imágenes desde texto de forma rápida y sin login.
+- 🔐 **Registro**: NO necesario; puedes generar directamente desde el navegador.
+- ♾️ **Uso**: Ilimitado; probé decenas de prompts sin límite o tokens visibles :contentReference[oaicite:1]{index=1}.
+- 🛠️ **Extras**: Permite descarga de alta resolución sin marcas de agua, interfaz limpia y sin anuncios.
+- 🎯 **Beneficio**: Súper directo: solo escribes prompt y obtienes imagenes de calidad al instante.
 
 ---
 
-## 35. [Flux AI Image Generator](https://flux-ai.app/generate) ⚡
+## 35. [ChatGOT AI Image Generator](https://www.chatgot.io/image-tools/ai-image-generator/) 🌀
 
-- 📋 **Qué es**: Web IA que genera imágenes desde texto con múltiples estilos (foto, anime, conceptual).
+- 📋 **Qué es**: Generador IA sin registro para crear imágenes estilo anime, retrato, cómic, retrato profesional, etc.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado :contentReference[oaicite:6]{index=6}.
-- 🛠️ **Extras**: Ajuste de formato y estilo, descarga en JPG/PNG/WEBP.
-- 🎯 **Beneficio**: Ultra práctico para crear visuales con estilo variado al instante.
+- ♾️ **Uso**: Ilimitado y sin marcas de agua :contentReference[oaicite:3]{index=3}.
+- 🛠️ **Extras**: Varios estilos visuales, posibilidad de cargar referencias, y descarga directa.
+- 🎯 **Beneficio**: Perfecto para creadores que quieren variedad estética sin trámites ni cuentas.
