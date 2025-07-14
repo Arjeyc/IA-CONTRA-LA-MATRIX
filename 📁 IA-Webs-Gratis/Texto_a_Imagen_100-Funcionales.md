@@ -200,7 +200,7 @@
 - 🔐 **Registro**: NO necesario.
 - ♾️ **Uso**: Ilimitado, sin límites diarios, tokens ni créditos.
 - 🛠️ **Extras**: Soporta múltiples estilos (realista, acuarela, sketch, anime), ajustes de iluminación, color y encuadre.
-- 🎯 **Beneficio**: Excelente para creadores que quieren resultados de alta calidad sin complicarse y directamente desde el navegador. :contentReference[oaicite:0]{index=0}
+- 🎯 **Beneficio**: Excelente para creadores que quieren resultados de alta calidad sin complicarse y directamente desde el navegador. 
 
 ---
 
@@ -210,17 +210,17 @@
 - 🔐 **Registro**: NO necesario.
 - ♾️ **Uso**: Ilimitado, sin registros ni marcas de agua.
 - 🛠️ **Extras**: Soporte de diversos estilos artísticos, descarga inmediata en calidad estándar o HD.
-- 🎯 **Beneficio**: Ideal para diseñadores, storytellers y creadores que desean variedad en estilos visuales sin tener que registrarse. :contentReference[oaicite:1]{index=1}
+- 🎯 **Beneficio**: Ideal para diseñadores, storytellers y creadores que desean variedad en estilos visuales sin tener que registrarse. 
 
 ---
 
-## 22. [Stable Diffusion Online](https://stabledifffusion.com/) 🎯
+## 22. [TextToImage.app](https://texttoimage.app/) 🖌️
 
-- 📋 **Qué es**: Interfaz web para generar imágenes con modelos Stable Diffusion (3.5, etc.) directamente desde el navegador.
+- 📋 **Qué es**: Plataforma simple y gratuita para generar imágenes realistas desde texto usando Stable Diffusion.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin tokens ni restricciones.
-- 🛠️ **Extras**: Estilos realista, acuarela, sketch, anime; ajustes de iluminación, encuadre y proporciones.
-- 🎯 **Beneficio**: Calidad pro sin instalación ni cuentas. Ideal para creadores que buscan resultados rápidos y profesionales. :contentReference[oaicite:1]{index=1}
+- ♾️ **Uso**: Ilimitado sin tokens ni cuenta.
+- 🛠️ **Extras**: Puedes ajustar la relación de aspecto (vertical, horizontal, cuadrado), calidad, estilo de imagen, y agregar prompt negativo.
+- 🎯 **Beneficio**: Interfaz limpia, sin publicidad invasiva, ideal para creadores que desean flujo rápido sin fricción.
 
 ---
 
@@ -230,7 +230,7 @@
 - 🔐 **Registro**: NO necesario.
 - ♾️ **Uso**: Ilimitado y sin marcas de agua.
 - 🛠️ **Extras**: Image-to-image, background remover, estilos artísticos, edición de imagen, generación de contenido adicional (texto, voz, etc.).
-- 🎯 **Beneficio**: Super completa, sin registro, vale tanto para edición IA como creación pura. :contentReference[oaicite:2]{index=2}
+- 🎯 **Beneficio**: Super completa, sin registro, vale tanto para edición IA como creación pura.
 
 ---
 
@@ -240,7 +240,7 @@
 - 🔐 **Registro**: NO necesario.
 - ♾️ **Uso**: Ilimitado, sin límites diarios.
 - 🛠️ **Extras**: Herramientas para headshots (perfil profesional), fondos, recortes, background remover, upscaler.
-- 🎯 **Beneficio**: Tiene funciones que combinan generación de imágenes con edición, ideal para perfiles o branding. :contentReference[oaicite:3]{index=3}
+- 🎯 **Beneficio**: Tiene funciones que combinan generación de imágenes con edición, ideal para perfiles o branding. 
 
 ---
 
@@ -250,7 +250,7 @@
 - 🔐 **Registro**: NO necesario.
 - ♾️ **Uso**: Ilimitado, sin límites.
 - 🛠️ **Extras**: Diferentes estilos artísticos, descarga rápida y sin marcas de agua.
-- 🎯 **Beneficio**: Ultra simple y directo, útil para contenido visual inmediato. :contentReference[oaicite:4]{index=4}
+- 🎯 **Beneficio**: Ultra simple y directo, útil para contenido visual inmediato. :
 
 ---
 
@@ -260,25 +260,25 @@
 - 🔐 **Registro**: NO necesario.
 - ♾️ **Uso**: Ilimitado.
 - 🛠️ **Extras**: Descarga de alta resolución, velocidad rápida, sin anuncios molestos.
-- 🎯 **Beneficio**: Funcionalidad pura: escribes prompt, obtienes imagen – listo. :contentReference[oaicite:5]{index=5}
+- 🎯 **Beneficio**: Funcionalidad pura: escribes prompt, obtienes imagen – listo. :
 
 ---
 
-## 27. [JollyAI](https://jollyai.online/) 🌈
+## 27. [Fotor AI Image Generator](https://www.fotor.com/features/ai-image-generator/) 🧠
 
-- 📋 **Qué es**: Generador AI de imágenes gratuito sin registro, centrado en arte y contenido ilustrativo.
+- 📋 **Qué es**: Plataforma conocida por su editor, ahora con generador de imágenes IA desde texto, sin necesidad de cuenta.
+- 🔐 **Registro**: NO necesario para probarlo. Aunque si creas cuenta (con correo desechable), accedes a más estilos y funciones.
+- ♾️ **Uso**: Ilimitado con funciones básicas. Algunos estilos avanzados requieren cuenta gratuita.
+- 🛠️ **Extras**: Estilos realista, anime, dibujos; puedes editar luego la imagen creada (colores, filtros, recorte) directamente en Fotor.
+- 🎯 **Beneficio**: Ideal para creadores que quieren hacer una imagen y pasarla directo a edición sin salir de la web.
+
+---
+
+## 28. [FreeImage.AI](https://freeimage.ai/) 🪄
+
+- 📋 **Qué es**: Generador IA gratuito que ofrece imágenes HD desde texto, sin necesidad de registro.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado y sin anuncios.
-- 🛠️ **Extras**: Opciones de estilo artístico, prompt negativo, sin log-in required.
-- 🎯 **Beneficio**: Ideal para ajustes creativos rápidos sin complicaciones. :contentReference[oaicite:6]{index=6}
-
----
-
-## 28. [Ideogram AI](https://ideogram.ai/) 🧬
-
-- 📋 **Qué es**: Modelo IA capaz de generar imágenes con texto legible y visualmente atractivo.
-- 🔐 **Registro**: SÍ necesario (pero permite correos temporales).
-- 🎟️ **Créditos**: 50 imágenes gratis al mes tras registro.
-- 🛠️ **Extras**: Soporte avanzado para texto dentro de la imagen, estilos claros y edición básica.
-- 🎯 **Beneficio**: Útil cuando necesitas incluir letras o señales visuales legibles en tus creaciones. :contentReference[oaicite:7]{index=7}
+- ♾️ **Uso**: Ilimitado, aunque puede tener leve espera en horas pico.
+- 🛠️ **Extras**: Soporte para estilos artísticos, anime, realismo, y opción de descargar en alta resolución.
+- 🎯 **Beneficio**: Excelente para generar imágenes potentes y listas para usar en miniaturas, redes o contenidos sin preocuparte por límites ni suscripciones.
 
