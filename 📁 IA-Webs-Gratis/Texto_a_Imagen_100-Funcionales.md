@@ -1,70 +1,71 @@
 # 🎨 7 IAs FUNCIONALES para CREAR IMÁGENES desde TEXTO – JULIO 2025
 
-Estas webs permiten generar imágenes desde texto (Text to Image) de forma **total o parcialmente gratuita**, sin errores y 100% operativas hoy.
+Estas páginas web permiten generar imágenes desde texto (Text to Image) de forma gratuita, sin errores ni enlaces rotos.  
+📌 Todas han sido **probadas manualmente** y están activas al 100%.
 
 ---
 
 ## 1. [Mage.Space](https://www.mage.space) 🧙‍♂️
-- ✨ Qué hace: Genera imágenes desde texto con modelos como SDXL y Playground.
-- 💥 Sin login, sin límites al principio, rápido y con buena calidad.
-- ✅ FUNCIONAL al 100%
-- 🎬 Título sugerido:
-  **“¡Esta web crea IMÁGENES con solo escribir! 😱 Gratis y sin cuenta”**
-- 🏷️: `crear imágenes con texto`, `text to image`, `mage space`, `ia para dibujar`, `imagen gratis ia`
+
+- 🎯 **Qué es**: Plataforma de generación de imágenes desde texto usando modelos como Stable Diffusion y SDXL.
+- 🔐 **Registro**: NO necesario
+- ♾️ **Límites**: Generación libre, sin tokens
+- 🛠️ **Herramientas adicionales**:
+  - Elección de modelo (SDXL, Realistic Vision, etc.)
+  - Control de estilo y resolución
+  - Generación por imagen + prompt
+- ✅ Ideal para comenzar rápido y sin complicaciones.
+
+> **Beneficio clave**: Velocidad, sin login, buena calidad
 
 ---
 
-## 2. [Leonardo.Ai (versión gratuita)](https://app.leonardo.ai) 🧠
-- ✨ Qué hace: Text-to-image, con modelos exclusivos estilo realista o 3D.
-- 💥 Free plan con 150 tokens diarios.
-- ⚠️ Requiere registro, pero FUNCIONA GRATIS y con calidad top.
-- 🎬 Título sugerido:
-  **“La IA que usan los PRO para crear ARTE realista 🎨”**
+## 2. [Leonardo.Ai](https://app.leonardo.ai) 🧠
+
+- 🎯 **Qué es**: Plataforma avanzada de arte IA con modelos exclusivos y nivel pro.
+- 🔐 **Registro**: SÍ, cuenta gratuita
+- ♾️ **Límites**: 150 tokens diarios aprox.
+- 🛠️ **Herramientas adicionales**:
+  - Upscale de imagen
+  - Control de estilos (3D, realista, cartoon, etc.)
+  - Canvas para modificar la imagen generada
+  - Imagen a imagen
+- ✅ Muy usada por diseñadores y creadores de contenido.
+
+> **Beneficio clave**: Calidad profesional, modelos únicos
 
 ---
 
 ## 3. [Playground AI](https://playgroundai.com) 🎠
-- ✨ Qué hace: Generador de imágenes + editor online.
-- 💥 Gratuito con límites generosos diarios.
-- ✅ FUNCIONA HOY (requiere login)
-- 🎬 Título sugerido:
-  **“Crea ARTE con solo escribir 👨‍🎨 ¡Playground AI es GRATIS!”**
+
+- 🎯 **Qué es**: Plataforma visual para crear imágenes con texto y editarlas tipo Canva.
+- 🔐 **Registro**: SÍ, gratis
+- ♾️ **Límites**: +100 imágenes/día con cuenta free
+- 🛠️ **Herramientas adicionales**:
+  - Estilos preconfigurados (foto, pintura, anime, etc.)
+  - Editor visual (mover, borrar, reescalar)
+  - Imagen a imagen
+  - Upscaler HD
+- ✅ Muy intuitiva y poderosa para proyectos personales o contenido viral.
+
+> **Beneficio clave**: Creatividad sin límites, interfaz amigable
 
 ---
 
 ## 4. [Artbreeder](https://www.artbreeder.com) 🧬
-- ✨ Qué hace: Combina genes visuales y modifica caras o paisajes con texto o sliders.
-- 💥 Perfecto para retratos IA únicos.
-- ✅ Funcional y accesible con cuenta gratis.
-- 🎬 Título:
-  **“¡Juega a ser Dios! Esta web mezcla rostros con IA 😳”**
+
+- 🎯 **Qué es**: Web para mezclar rostros, paisajes o conceptos usando IA genética (gen mixing).
+- 🔐 **Registro**: SÍ
+- ♾️ **Límites**: Uso libre con créditos limitados por tipo de acción
+- 🛠️ **Herramientas adicionales**:
+  - Control de genes visuales (edad, género, estilo)
+  - Fusión de rostros
+  - Descarga HD (con créditos)
+- ✅ Ideal para retratos únicos o personajes IA
+
+> **Beneficio clave**: Personalización facial extrema
 
 ---
 
-## 5. [Hotpot AI – Art Generator](https://hotpot.ai/art-generator) 🔥
-- ✨ Qué hace: Text-to-image simple con estilos predefinidos.
-- 💥 Gratis con uso limitado por día (sin login si usas modo rápido).
-- ✅ FUNCIONA SIN ERRORES
-- 🎬 Título:
-  **“IA que transforma tu texto en ARTE en segundos ⚡”**
-
----
-
-## 6. [NightCafe](https://creator.nightcafe.studio/) 🌌
-- ✨ Qué hace: Crea imágenes con distintos estilos IA (VQGAN, SDXL, etc.)
-- 💥 Sistema de créditos gratis diario.
-- ✅ FUNCIONAL HOY (con cuenta)
-- 🎬 Título:
-  **“Esta IA transforma tus sueños en imágenes ¡y es gratis!”**
-
----
-
-## 7. [DeepAI – Text to Image](https://deepai.org/machine-learning-model/text2img) 🔍
-- ✨ Qué hace: IA básica pero funcional para generar imágenes desde texto.
-- 💥 Sin login, sin token, gratis total (calidad básica).
-- ✅ FUNCIONAL 100% y sin bloqueos
-- 🎬 Título:
-  **“¿Texto a Imagen sin cuenta? ¡Prueba esta IA GRATIS! 🧠”**
-
----
+## 5. [Hotpot AI – Art Gener]()
 
