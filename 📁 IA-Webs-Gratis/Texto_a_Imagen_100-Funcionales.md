@@ -213,3 +213,72 @@
 - 🎯 **Beneficio**: Ideal para diseñadores, storytellers y creadores que desean variedad en estilos visuales sin tener que registrarse. :contentReference[oaicite:1]{index=1}
 
 ---
+
+## 22. [Stable Diffusion Online](https://stabledifffusion.com/) 🎯
+
+- 📋 **Qué es**: Interfaz web para generar imágenes con modelos Stable Diffusion (3.5, etc.) directamente desde el navegador.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin tokens ni restricciones.
+- 🛠️ **Extras**: Estilos realista, acuarela, sketch, anime; ajustes de iluminación, encuadre y proporciones.
+- 🎯 **Beneficio**: Calidad pro sin instalación ni cuentas. Ideal para creadores que buscan resultados rápidos y profesionales. :contentReference[oaicite:1]{index=1}
+
+---
+
+## 23. [Pictionizer](https://www.pictionizer.com/en) 🧠
+
+- 📋 **Qué es**: Plataforma que genera imágenes ilimitadas desde texto, con opciones de edición y otros contenidos IA.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado y sin marcas de agua.
+- 🛠️ **Extras**: Image-to-image, background remover, estilos artísticos, edición de imagen, generación de contenido adicional (texto, voz, etc.).
+- 🎯 **Beneficio**: Super completa, sin registro, vale tanto para edición IA como creación pura. :contentReference[oaicite:2]{index=2}
+
+---
+
+## 24. [Magic Studio AI Art Generator](https://magicstudio.com/ai-art-generator/) 🌟
+
+- 📋 **Qué es**: Generador de arte IA rápido, gratuito y sin login requerido.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin límites diarios.
+- 🛠️ **Extras**: Herramientas para headshots (perfil profesional), fondos, recortes, background remover, upscaler.
+- 🎯 **Beneficio**: Tiene funciones que combinan generación de imágenes con edición, ideal para perfiles o branding. :contentReference[oaicite:3]{index=3}
+
+---
+
+## 25. [LAHgen AI](https://image.aixboost.com/) ⚡
+
+- 📋 **Qué es**: Creador de imágenes IA gratuito, sin cuentas, con generación ilimitada.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin límites.
+- 🛠️ **Extras**: Diferentes estilos artísticos, descarga rápida y sin marcas de agua.
+- 🎯 **Beneficio**: Ultra simple y directo, útil para contenido visual inmediato. :contentReference[oaicite:4]{index=4}
+
+---
+
+## 26. [Botlore AI Image Generator](https://botlore.com/ai-image-generator) 🤖
+
+- 📋 **Qué es**: Generador de imágenes IA tipo Stable Diffusion, sin registro ni límites.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado.
+- 🛠️ **Extras**: Descarga de alta resolución, velocidad rápida, sin anuncios molestos.
+- 🎯 **Beneficio**: Funcionalidad pura: escribes prompt, obtienes imagen – listo. :contentReference[oaicite:5]{index=5}
+
+---
+
+## 27. [JollyAI](https://jollyai.online/) 🌈
+
+- 📋 **Qué es**: Generador AI de imágenes gratuito sin registro, centrado en arte y contenido ilustrativo.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado y sin anuncios.
+- 🛠️ **Extras**: Opciones de estilo artístico, prompt negativo, sin log-in required.
+- 🎯 **Beneficio**: Ideal para ajustes creativos rápidos sin complicaciones. :contentReference[oaicite:6]{index=6}
+
+---
+
+## 28. [Ideogram AI](https://ideogram.ai/) 🧬
+
+- 📋 **Qué es**: Modelo IA capaz de generar imágenes con texto legible y visualmente atractivo.
+- 🔐 **Registro**: SÍ necesario (pero permite correos temporales).
+- 🎟️ **Créditos**: 50 imágenes gratis al mes tras registro.
+- 🛠️ **Extras**: Soporte avanzado para texto dentro de la imagen, estilos claros y edición básica.
+- 🎯 **Beneficio**: Útil cuando necesitas incluir letras o señales visuales legibles en tus creaciones. :contentReference[oaicite:7]{index=7}
+
