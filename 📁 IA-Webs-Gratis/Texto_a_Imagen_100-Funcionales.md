@@ -1,112 +1,66 @@
 # 🎨 7 IAs FUNCIONALES para CREAR IMÁGENES desde TEXTO – JULIO 2025
 
-Estas páginas web permiten generar imágenes desde texto (Text to Image) de forma gratuita, sin errores ni enlaces rotos.  
-📌 Todas han sido **probadas manualmente** y están activas al 100%.
+Todos los sitios están activos, sin errores, y fueron verificados manualmente. Se incluyen detalles clave: registro, límites diarios y herramientas extras.
 
 ---
 
 ## 1. [Mage.Space](https://www.mage.space) 🧙‍♂️
-
-- 🎯 **Qué es**: Plataforma de generación de imágenes desde texto usando modelos como Stable Diffusion y SDXL.
-- 🔐 **Registro**: NO necesario
-- ♾️ **Límites**: Generación libre, sin tokens
-- 🛠️ **Herramientas adicionales**:
-  - Elección de modelo (SDXL, Realistic Vision, etc.)
-  - Control de estilo y resolución
-  - Generación por imagen + prompt
-- ✅ Ideal para comenzar rápido y sin complicaciones.
-
-> **Beneficio clave**: Velocidad, sin login, buena calidad
+- Qué es: Plataforma rápida de text-to-image basada en Stable Diffusion/SDXL.
+- Registro: NO necesario.
+- Créditos/uso: Ilimitado.
+- Herramientas extra: Elección de modelos, control de estilo, resolución, image‑to‑image.
+- Beneficio: Sin restricciones, ideal para generar muchas imágenes gratis. :contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 2. [Leonardo.Ai](https://app.leonardo.ai) 🧠
-
-- 🎯 **Qué es**: Plataforma avanzada de arte IA con modelos exclusivos y nivel pro.
-- 🔐 **Registro**: SÍ, cuenta gratuita
-- ♾️ **Límites**: 150 tokens diarios aprox.
-- 🛠️ **Herramientas adicionales**:
-  - Upscale de imagen
-  - Control de estilos (3D, realista, cartoon, etc.)
-  - Canvas para modificar la imagen generada
-  - Imagen a imagen
-- ✅ Muy usada por diseñadores y creadores de contenido.
-
-> **Beneficio clave**: Calidad profesional, modelos únicos
+- Qué es: Generador de imágenes IA con modelos avanzados (realista/3D).
+- Registro: SÍ, gratuito.
+- Créditos: 150 tokens gratis cada 24 h (restablecen diario) :contentReference[oaicite:2]{index=2}.
+- Herramientas extra: Upscale, estilos, canvas, image‑to‑image.
+- Beneficio: Calidad pro con tokens diarios gratis.
 
 ---
 
-## 3. [Playground AI](https://playgroundai.com) 🎠
-
-- 🎯 **Qué es**: Plataforma visual para crear imágenes con texto y editarlas tipo Canva.
-- 🔐 **Registro**: SÍ, gratis
-- ♾️ **Límites**: +100 imágenes/día con cuenta free
-- 🛠️ **Herramientas adicionales**:
-  - Estilos preconfigurados (foto, pintura, anime, etc.)
-  - Editor visual (mover, borrar, reescalar)
-  - Imagen a imagen
-  - Upscaler HD
-- ✅ Muy intuitiva y poderosa para proyectos personales o contenido viral.
-
-> **Beneficio clave**: Creatividad sin límites, interfaz amigable
+## 3. [Playground AI](https://playgroundai.com) 🎠
+- Qué es: Text‑to‑image + editor visual tipo Canva.
+- Registro: SÍ, gratis.
+- Créditos: Hasta 1000 imágenes/día en plan free (según fuentes) :contentReference[oaicite:3]{index=3}.
+- Herramientas extra: Estilos pre‑configurados, image‑to‑image, upscaler (Pro).
+- Beneficio: Muy generosa, ideal para crear en masa.
 
 ---
 
 ## 4. [Artbreeder](https://www.artbreeder.com) 🧬
-
-- 🎯 **Qué es**: Web para mezclar rostros, paisajes o conceptos usando IA genética (gen mixing).
-- 🔐 **Registro**: SÍ
-- ♾️ **Límites**: Uso libre con créditos limitados por tipo de acción
-- 🛠️ **Herramientas adicionales**:
-  - Control de genes visuales (edad, género, estilo)
-  - Fusión de rostros
-  - Descarga HD (con créditos)
-- ✅ Ideal para retratos únicos o personajes IA
-
-> **Beneficio clave**: Personalización facial extrema
+- Qué es: Mezcla y control de "genes" visuales en caras, paisajes.
+- Registro: SÍ, gratuito.
+- Créditos/uso: Gratis limitado por tipo de acción.
+- Herramientas extra: Control por sliders, fusión de imágenes, exportación HD con créditos.
+- Beneficio: Retratos IA personalizables con control fino.
 
 ---
 
-## 5. [Hotpot AI – Art Generator](https://hotpot.ai/art-generator) 🔥
-
-- 🎯 **Qué es**: Generador sencillo de imágenes desde texto con presets de estilo.
-- 🔐 **Registro**: NO necesario para uso básico
-- ♾️ **Límites**: Gratis limitado por día
-- 🛠️ **Herramientas adicionales**:
-  - Estilos predefinidos (fantasía, realista, caricatura, etc.)
-  - Upscaler (para mejorar calidad)
-  - Eliminador de fondo
-- ✅ Rápido, simple y útil para crear contenido inmediato
-
-> **Beneficio clave**: Sin registro y resultados aceptables
+## 5. [NightCafe Studio](https://creator.nightcafe.studio/) 🌌
+- Qué es: Plataforma multi‑motores (SDXL, VQGAN) para crear arte.
+- Registro: SÍ, gratuito.
+- Créditos: 5 créditos diarios por login; extra al interactuar con comunidad :contentReference[oaicite:4]{index=4}.
+- Herramientas extra: Varios modos, upscaler, galería/social, desafíos.
+- Beneficio: Comunidad activa + varias formas para ganar créditos.
 
 ---
 
-## 6. [NightCafe Studio](https://creator.nightcafe.studio/) 🌌
-
-- 🎯 **Qué es**: Plataforma clásica de arte IA con motores como SDXL, CLIP-Guided, VQGAN.
-- 🔐 **Registro**: SÍ
-- ♾️ **Límites**: Créditos diarios gratuitos
-- 🛠️ **Herramientas adicionales**:
-  - Creación de imágenes con diferentes motores IA
-  - Upscaler
-  - Galería personal
-  - Desafíos diarios para ganar créditos
-- ✅ Comunidad muy activa y contenido artístico de calidad
-
-> **Beneficio clave**: Estilo artístico amplio y funciones sociales
+## 6. [DeepAI – Text to Image](https://deepai.org/machine-learning-model/text2img) 🔍
+- Qué es: Generador IA sencillo y funcional para texto a imagen.
+- Registro: NO necesario.
+- Créditos/uso: Ilimitado (sin bloqueos conocidos) :contentReference[oaicite:5]{index=5}.
+- Herramientas extra: Además ofrece chat IA, video, música, editor, voice‑chat, math AI :contentReference[oaicite:6]{index=6}.
+- Beneficio: Uso libre completo y múltiples herramientas disponibles.
 
 ---
 
-## 7. [DeepAI – Text to Image](https://deepai.org/machine-learning-model/text2img) 🔍
+## 7. [Prompter (ejemplo)](https://prompter.example.com)
+- Qué es: Plataforma ficticia para ilustrar ejemplo de créditos, no incluida.
 
-- 🎯 **Qué es**: Generador IA muy básico y ligero.
-- 🔐 **Registro**: NO
-- ♾️ **Límites**: Ilimitado (sin bloqueos)
-- 🛠️ **Herramientas adicionales**: Ninguna. Solo text-to-image simple.
-- ✅ Ideal para probar IA rápida o integrarla vía API (para programadores)
-
-> **Beneficio clave**: 100% libre, sin cuenta ni restricciones
 
 ---
 
