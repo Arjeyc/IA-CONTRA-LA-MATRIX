@@ -351,3 +351,75 @@
 - ♾️ **Uso**: Ilimitado y sin marcas de agua :contentReference[oaicite:3]{index=3}.
 - 🛠️ **Extras**: Varios estilos visuales, posibilidad de cargar referencias, y descarga directa.
 - 🎯 **Beneficio**: Perfecto para creadores que quieren variedad estética sin trámites ni cuentas.
+
+---
+
+## 36. [Dreamlike.art](https://dreamlike.art/create) 🌙
+
+- 📋 **Qué es**: Plataforma creativa que permite generar imágenes de alta calidad a partir de texto. Usa modelos propios como Dreamlike Diffusion para lograr estilos únicos (realismo, anime, arte conceptual).
+- 🔐 **Registro**: NO necesario para probar; con cuenta puedes generar más imágenes.
+- 🎟️ **Créditos**: 5 imágenes gratis por IP sin registro; si te registras (puede ser con correo desechable), recibes 24 créditos cada 24h.
+- 🛠️ **Extras**: Selección de modelos (SD 1.5, 2.1, etc.), control de pasos, resolución, seed, y estilo.
+- 🎯 **Beneficio**: Ideal para artistas o creadores que quieren calidad y control total sin pagar.
+
+---
+
+## 37. [RoboArt AI](https://roboart.ai) 🤖
+
+- 📋 **Qué es**: Web IA muy directa y funcional para generar imágenes desde texto en segundos. Ofrece múltiples estilos como retrato, dibujo, paisaje y arte digital.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado. No hay créditos, ni límite de prompts diarios.
+- 🛠️ **Extras**: Estilos predefinidos, opción de guardar imagen en alta resolución, sin marcas de agua.
+- 🎯 **Beneficio**: Muy útil para quienes quieren resultados rápidos y sin complicaciones.
+
+---
+
+## 38. [ImgCreator.AI](https://imgcreator.ai) 🧠
+
+- 📋 **Qué es**: Herramienta de generación de imágenes con IA desarrollada por DeepBrain AI. Ofrece calidad premium para arte digital.
+- 🔐 **Registro**: NO obligatorio. Puedes generar con restricciones mínimas sin cuenta. Si creas una, mejor aún (acepta correos temporales).
+- 🎟️ **Créditos**: 3 imágenes gratis sin cuenta; con cuenta gratuita puedes conseguir más.
+- 🛠️ **Extras**: Estilos (realismo, cómic, anime, etc.), soporte de imagen a imagen, y editor visual.
+- 🎯 **Beneficio**: Recomendado para creadores que buscan resultados estilizados y una plataforma seria.
+
+---
+
+## 39. [ClipDrop – Stable Diffusion](https://clipdrop.co/stable-diffusion) 📦
+
+- 📋 **Qué es**: Interfaz web gratuita para usar el modelo original de Stable Diffusion sin necesidad de instalación.
+- 🔐 **Registro**: NO necesario para probar; con cuenta (incluso temporal) accedes a más funciones.
+- 🎟️ **Créditos**: 50 imágenes mensuales gratis sin cuenta. Con cuenta, más beneficios.
+- 🛠️ **Extras**: Imagen a imagen, upscaler, fondo transparente, remoción de objetos, edición de rostros.
+- 🎯 **Beneficio**: Potente para diseño rápido y herramientas visuales complementarias en una sola web.
+
+---
+
+## 40. [Hotpot AI – Editor Libre](https://hotpot.ai/art-generator) 🔥
+
+- 📋 **Qué es**: Aunque su generador principal es de pago, el editor de arte básico permite crear imágenes gratis con pocos clics.
+- 🔐 **Registro**: NO obligatorio para herramientas simples; acepta correos desechables si decides registrarte.
+- ♾️ **Uso**: Ilimitado en la zona libre, aunque funciones avanzadas requieren plan pago.
+- 🛠️ **Extras**: Upscaler, background remover, colorizador de fotos, arte digital rápido.
+- 🎯 **Beneficio**: Excelente para mejorar imágenes o crear artes básicos sin esfuerzo.
+
+---
+
+## 41. [MageMaker AI](https://www.magemaker.io/) 🔮
+
+- 📋 **Qué es**: Generador IA enfocado en estilos mágicos, fantasía y ciencia ficción. Muy útil para storytelling visual.
+- 🔐 **Registro**: NO necesario para el generador básico.
+- ♾️ **Uso**: Ilimitado sin cuenta. Con registro (opcional) puedes guardar y compartir.
+- 🛠️ **Extras**: Estilos predefinidos, resolución personalizable y biblioteca de inspiración.
+- 🎯 **Beneficio**: Perfecto para creadores de cuentos, universos visuales o juegos indie.
+
+---
+
+## 42. [Dream Studio Lite (Stable Diffusion)](https://stability.ai/blog/stable-studio) 🧪
+
+- 📋 **Qué es**: La versión oficial y ligera del entorno de Stable Diffusion por Stability AI. Interfaz simplificada y directa al modelo original.
+- 🔐 **Registro**: SÍ necesario (acepta correos temporales).
+- 🎟️ **Créditos**: 25 imágenes gratis mensuales; se pueden renovar con nuevos correos.
+- 🛠️ **Extras**: Imagen a imagen, control de estilos, tamaño, pasos, orientación, prompt negativo.
+- 🎯 **Beneficio**: Acceso directo al motor más famoso de texto a imagen desde una fuente oficial, ideal para entusiastas.
+
+
