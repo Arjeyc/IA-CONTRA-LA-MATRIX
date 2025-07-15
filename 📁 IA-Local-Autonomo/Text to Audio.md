@@ -96,13 +96,23 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 10. 🔥 XTTS v2 (bark fusionado con voice cloning)
-- 📦 **Qué es**: Motor que combina Bark con clonación de voz vía vectores semánticos.
-- 🔗 [https://github.com/coqui-ai/XTTS-v2](https://github.com/coqui-ai/XTTS-v2)
-- 💥 Multilenguaje, realista, compatible con CPU o GPU.
-- 🎬 **Título**:
-  **“Tu propia voz, en todos los idiomas del mundo con IA 🤯🌍”**
-- 🏷️: `xtts`, `voz multilenguaje`, `bark`, `tts local`, `voz desde texto`
+## 10. 🧪 VoiceFusion (Local Multi‑Speaker TTS)
+- 📦 **Qué es**: Proyecto de voz sintética que permite usar múltiples voces IA clonadas localmente desde texto.
+- 🔗 [https://github.com/resemble-ai/Resemble-VoiceFusion](https://github.com/resemble-ai/Resemble-VoiceFusion)
+- 💥 Soporta creación de audios realistas con control emocional y variaciones por personaje.
+- 🎬 **Título**:  
+  **“¡Haz hablar a todos tus personajes con esta VOZ IA en tu PC! 🎭💬”**
+- 🏷️: `voz por personajes`, `tts local`, `voicefusion`, `resemble ai`, `voz IA sin internet`
+
+---
+
+## 10. 🎤 WhaleTTS (Lightweight Fast TTS)
+- 📦 **Qué es**: Motor de texto a voz ultra rápido con modelos livianos y soporte multilenguaje.
+- 🔗 [https://github.com/whaleloops/whale-tts](https://github.com/whaleloops/whale-tts)
+- 💥 Perfecto para generar voz en tiempo real desde texto sin consumir mucha memoria.
+- 🎬 **Título**:  
+  **“La VOZ IA más rápida y ligera para tu PC 🐳⚡”**
+- 🏷️: `whaletts`, `voz rápida`, `tts low resource`, `offline voice ai`, `tts multilenguaje`
 
 ---
 
