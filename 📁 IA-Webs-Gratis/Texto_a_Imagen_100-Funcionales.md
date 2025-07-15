@@ -433,13 +433,13 @@
 
 ---
 
-## 44. [Text‑to‑Image (yizhangliu) — Hugging Face Space](https://huggingface.co/spaces/yizhangliu/Text-to-Image) 🎨
+## 44. [Stable Diffusion 2‑1 (stabilityai) — Hugging Face Space](https://huggingface.co/spaces/stabilityai/stable-diffusion) 🛠️
 
-- 📋 **Qué es**: App comunitaria que genera imágenes desde texto, usando modelos avanzados.
+- 📋 **Qué es**: Interfaz oficial de Stability AI que usa Stable Diffusion 2.1 para generar imágenes con calidad profesional.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, siempre que el Space esté “Running”.
-- 🛠️ **Extras**: Permite modificar prompts antes de generar; interfaz limpia estilo Gradio. :contentReference[oaicite:0]{index=0}
-- 🎯 **Beneficio**: Útil para creaciones rápidas y personalizadas sin instalación ni cuentas.
+- ♾️ **Uso**: Ilimitado mientras el Space esté activo. :contentReference[oaicite:1]{index=1}
+- 🛠️ **Extras**: Permite prompt negativo, ajustar guidance scale y resolution.
+- 🎯 **Beneficio**: Acceso directo al motor más sólido sin cuentas ni instalaciones.
 
 ---
 
@@ -483,20 +483,20 @@
 
 ---
 
-## 49. [Stable Diffusion Online](https://stabledifffusion.com/) 🎯
+## 49. [Stable Diffusion XL (google) — Hugging Face Space](https://huggingface.co/spaces/google/sdxl) 🌟
 
-- 📋 **Qué es**: Interfaz web de Stable Diffusion para generar imágenes desde texto de forma gratuita.
+- 📋 **Qué es**: Interfaz basada en SDXL de Google (TPUv5e), calidad cinematográfica en navegador.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin tokens ni límites detectables.
-- 🛠️ **Extras**: Ajustes de estilo como acuarela, sketch, anime y control de encuadre.  
-- 🎯 **Beneficio**: Gran fluidez y variedad visual sin instalaciones ni cuentas.
+- ♾️ **Uso**: Ilimitado mientras el Space esté activo. :contentReference[oaicite:5]{index=5}
+- 🛠️ **Extras**: Estilos cinematográfico, realista o anime.
+- 🎯 **Beneficio**: Calidad de nivel profesional sin cuentas, directamente online.
 
 ---
 
-## 50. [Hugging Face – Stable Diffusion 2‑1 (stabilityai)](https://huggingface.co/spaces/stabilityai/stable-diffusion) 🛠️
+## 50. [Stable Diffusion 3‑Medium (stabilityai) — Hugging Face Space](https://huggingface.co/spaces/stabilityai/stable-diffusion-3-medium) 🎬
 
-- 📋 **Qué es**: Space oficial de Stability AI que permite generar imágenes con Stable Diffusion 2.1.
+- 📋 **Qué es**: Interfaz de SD3‑Medium, modelo reciente con mejor tipografía y complejidad.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado mientras el Space esté “Running”. :contentReference[oaicite:4]{index=4}
-- 🛠️ **Extras**: Control de prompt negativo, guidance scale y calidad.
-- 🎯 **Beneficio**: Calidad oficial sin cuentas ni instalaciones, directo desde Hugging Face.
+- ♾️ **Uso**: Ilimitado si el Space está corriendo. :contentReference[oaicite:6]{index=6}
+- 🛠️ **Extras**: Mayor fidelidad en imágenes con texto, soporte de prompts complejos.
+- 🎯 **Beneficio**: Ideal para crear imágenes detalladas con texto y arte complejo sin instalaciones.
