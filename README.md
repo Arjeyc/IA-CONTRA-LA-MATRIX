@@ -40,7 +40,7 @@ Descubre herramientas locales de IA que puedes instalar en tu propia PC para man
 
 ### 🖼️ Explorar Repositorios de Texto a Imagen (Text to Image)
 
-🔎 [Buscar “Stable Diffusion local” en GitHub](https://github.com/search?q=stable+diffusion+local&type=repositories&s=stars&o=desc)
+🔎 [Buscar “Text to Image” en GitHub](https://github.com/search?q=text+to+image&type=repositories&s=stars&o=desc)
 
 **📚 Qué es:** Búsqueda filtrada por estrellas en GitHub con proyectos para generar imágenes desde texto directamente en tu PC.
 
