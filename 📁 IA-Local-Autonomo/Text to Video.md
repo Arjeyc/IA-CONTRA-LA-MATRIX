@@ -36,13 +36,13 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 4. 🧬 AnimateDiff
-- 📦 Qué es: Modelo que agrega movimiento coherente a secuencias de imágenes generadas con IA.
-- 🔗 [https://github.com/continue-revolution/sd-webui-animatediff](https://github.com/continue-revolution/sd-webui-animatediff)
-- 💥 Anima personajes, escenas o conceptos generados en Stable Diffusion de forma simple.
-- 🎬 Título:  
-  **“Convierte tus imágenes IA en ANIMACIONES alucinantes 🎥🔥”**
-- 🏷️: `animatediff`, `video animado`, `estilo anime`, `movimiento IA`
+## 4. 📦 CogVideoX-Fun – Versión enriquecida de CogVideoX
+- 📦 **Qué es**: Fork mejorado de CogVideoX con soporte I2V/V2V, audio y nodos ComfyUI.
+- 🔗 [https://github.com/aigc-apps/CogVideoX-Fun](https://github.com/aigc-apps/CogVideoX-Fun)
+- 💥 Compatible con ComfyUI, incluye demo, Loopable, text->video en varios modelos.
+- 🎬 **Título**:  
+  **“CogVideoX‑Fun: anima, loop, y crea audio visual con IA local 🤩🎥”**
+- 🏷️: `cogvideox fun`, `comfyui`, `multimodal video`, `local ai`
 
 ---
 
