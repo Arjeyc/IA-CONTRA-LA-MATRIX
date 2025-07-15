@@ -361,3 +361,63 @@
 - ♾️ **Uso**: Hasta 10 imágenes gratis por IP al día; luego se recarga con cada nueva sesión.
 - 🛠️ **Extras**: Parámetros ajustar tamaño y velocidad, sin configuraciones extensas.
 - 🎯 **Beneficio**: Genial para tests rápidos o primeros bocetos visuales.
+
+---
+
+## 37. [Raphael AI](https://raphaelai.org/) 🎨
+
+- 📋 **Qué es**: Generador IA que crea imágenes HD desde texto usando modelos avanzados.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin tokens ni límites diarios :contentReference[oaicite:1]{index=1}.
+- 🛠️ **Extras**: Varios estilos (realista, acuarela, fantasía), ajuste de aspecto, y descarga rápida en PNG/JPEG.
+- 🎯 **Beneficio**: Calidad profesional en una plataforma limpia y directa.
+
+---
+
+## 38. [AIImageGenerator.io](https://aiimagegenerator.io/) 🎯
+
+- 📋 **Qué es**: Plataforma con modelos como DALL·E 3, SD3, SDXL para generar imágenes desde texto.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin registros ni tokens visibles :contentReference[oaicite:2]{index=2}.
+- 🛠️ **Extras**: Más de 70 estilos, presets, control de modelo y resolución.
+- 🎯 **Beneficio**: Ideal para quienes desean variedad y poder creativo sin fricción.
+
+---
+
+## 39. [AImageGen](https://aimagegen.com/) 🖼️
+
+- 📋 **Qué es**: Generador sencillo de texto a imagen, sin necesidad de login.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, totalmente gratuito :contentReference[oaicite:3]{index=3}.
+- 🛠️ **Extras**: Varios tamaños, descarga directa sin marcas.
+- 🎯 **Beneficio**: Perfecto para creaciones rápidas y limpias sin complicaciones.
+
+---
+
+## 40. [WriteCream Free AI Image Generator](https://www.writecream.com/free-ai-image-generator-from-text/) ✍️
+
+- 📋 **Qué es**: Herramienta que convierte texto en imágenes con varios formatos (16:9, social, retrato).
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin registro :contentReference[oaicite:4]{index=4}.
+- 🛠️ **Extras**: Selección de aspecto ratio para thumbnails, redes sociales, presentaciones.
+- 🎯 **Beneficio**: Útil para contenido audiovisual enfocado en creación social media y formatos específicos.
+
+---
+
+## 41. [Magic Studio AI Art Generator](https://magicstudio.com/ai-art-generator/) 🌟
+
+- 📋 **Qué es**: Crea arte IA a partir de texto, sin login requerido, rápido y profesional.
+- 🔐 **Registro**: NO necesario :contentReference[oaicite:5]{index=5}.
+- ♾️ **Uso**: Ilimitado.
+- 🛠️ **Extras**: Editor para headshots, fondos, upscaling y recorte.
+- 🎯 **Beneficio**: Ideal para crear imágenes y mejorarlas sin salir del sitio.
+
+---
+
+## 42. [Pixmind AI](https://www.pixmindai.com/) 🧠
+
+- 📋 **Qué es**: Generador IA gratuito que soporta texto a imagen e imagen a imagen, sin login.
+- 🔐 **Registro**: NO necesario :contentReference[oaicite:6]{index=6}.
+- ♾️ **Uso**: Ilimitado.
+- 🛠️ **Extras**: Múltiples estilos (realista, anime, sci‑fi), ajustes de color y composición, descarga HD.
+- 🎯 **Beneficio**: Gran variedad visual y resultados de calidad profesional sin cuentas.
