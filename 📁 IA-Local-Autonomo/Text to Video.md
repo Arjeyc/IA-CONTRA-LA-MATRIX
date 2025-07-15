@@ -66,33 +66,33 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 7. 🎬 Stable Video Diffusion (SVD)
-- 📦 Qué es: Modelo oficial de StabilityAI para crear video desde imagen o texto con alto realismo.
-- 🔗 [https://github.com/Stability-AI/stable-video-diffusion](https://github.com/Stability-AI/stable-video-diffusion)
-- 💥 Requiere una imagen inicial pero también se puede combinar con texto a imagen (ej. SDXL).
+## 7. 🎞️ VideoCrafter2 (Text to Video desde cero)
+- 📦 Qué es: Modelo avanzado de generación de video desde texto, creado por OpenGVLab. Funciona en local con instrucciones claras.
+- 🔗 [https://github.com/OpenGVLab/VideoCrafter](https://github.com/OpenGVLab/VideoCrafter)
+- 💥 Capaz de crear clips de video de 4 a 8 segundos desde un prompt, sin imagen previa.
 - 🎬 Título:
-  **“Tu imagen COBRA VIDA: Genera VIDEO con Stable Video Diffusion 😳🎥”**
-- 🏷️: `stability ai`, `video desde imagen`, `svd`, `generador local video`
+  **“¿Texto a video sin conexión? Prueba VideoCrafter2 en tu PC 😮🎬”**
+- 🏷️: `videocrafter2`, `generador video local`, `text to video`, `video ai offline`
 
 ---
 
-## 8. ⚙️ Deforum (Stable Diffusion Video)
-- 📦 Qué es: Extensión para AUTOMATIC1111 que permite generar video interpolado desde prompts y movimientos de cámara.
-- 🔗 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui)
-- 💥 Puedes hacer zoom, rotaciones, loops y más con solo texto + parámetros.
+## 8. 🛠️ SVD Turbo (HuggingFace + local)
+- 📦 Qué es: Implementación optimizada del modelo SVD-Turbo para generar videos más rápido en local.
+- 🔗 [https://github.com/Dao-AILab/svd-turbo](https://github.com/Dao-AILab/svd-turbo)
+- 💥 Convierte una imagen (hecha por texto o no) en un video corto y fluido con pocos recursos.
 - 🎬 Título:
-  **“¡Haz CINEMÁTICAS en tu PC con IA y solo texto! 😱📹”**
-- 🏷️: `deforum`, `stable diffusion`, `cinemática IA`, `video desde texto`
+  **“¡Crea video animado desde una imagen con IA LOCAL! 🚀📸”**
+- 🏷️: `svd turbo`, `video desde imagen`, `generador video pc`, `text to video fusion`
 
 ---
 
-## 9. 🌀 TokenFlow + AnimateDiff
-- 📦 Qué es: Sistema local que combina TokenFlow (flujo de movimiento) con AnimateDiff para lograr interpolación ultra fluida.
-- 🔗 [https://github.com/guoyww/TokenFlow](https://github.com/guoyww/TokenFlow)
-- 💥 Se usa para refinar movimiento cuadro a cuadro en videos generados por IA.
+## 9. 🧱 InvokeAI + Motion Plugin
+- 📦 Qué es: Sistema completo tipo AUTOMATIC1111 con plugin de animación para crear video desde texto + imagen.
+- 🔗 [https://github.com/invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- 💥 Interfaz limpia, con extensiones para animaciones interpoladas. Puedes usar imágenes creadas por SDXL o prompt directo.
 - 🎬 Título:
-  **“ANIMACIONES FLUIDAS con IA en tu PC: TokenFlow + AnimateDiff 💫🖥️”**
-- 🏷️: `tokenflow`, `video fluido IA`, `interpolación IA`, `text to video local`
+  **“¡Tu IA local de imagen ahora también crea VIDEO! 😲🎥”**
+- 🏷️: `invokeai`, `video desde texto`, `stable diffusion motion`, `text to video local`
 
 ---
 
