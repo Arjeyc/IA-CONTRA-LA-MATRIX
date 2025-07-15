@@ -79,12 +79,12 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 9. 🧱 Matataki – Local Text-to-Image Suite
-- 📦 **Qué es**: Proyecto open-source minimalista que permite ejecutar Stable Diffusion 1.5, SDXL y LoRAs localmente con UI moderna.
-- 🔗 [https://github.com/cocktailpeanut/matataki](https://github.com/cocktailpeanut/matataki)
-- 💥 Corre local con instalación automática de modelos. Soporta txt2img, img2img, controlnet y más. Incluye visor de resultados.
-- 🎬 **Título**: “Esta IA de imágenes se instala SOLA y corre como una App 🧠⚡”
-- 🏷️: `matataki ai`, `stable diffusion`, `text to image`, `generador de imágenes offline`, `local ai suite`
+## 9. 🖼️ SD.Next – Interfaz Moderna para Stable Diffusion Local
+- 📦 **Qué es**: Una de las mejores alternativas modernas a AUTOMATIC1111, con rendimiento optimizado y UI más fluida.
+- 🔗 [https://github.com/vladmandic/automatic](https://github.com/vladmandic/automatic)
+- 💥 Soporta SD 1.5, SDXL, ControlNet, LoRA, Inpainting, img2img y modelos personalizados. Muy estable y más rápido en muchas PCs.
+- 🎬 **Título**: “¿Y si Stable Diffusion fuera más RÁPIDO y más BONITO? 🧠💻”
+- 🏷️: `sdnext`, `stable diffusion offline`, `text to image local`, `ui moderna`, `generador sin internet`
 
 ---
 
