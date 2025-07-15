@@ -106,7 +106,7 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-# 11. 🎙️ Rupu TTS – App sencilla con GUI (Coqui‑based)
+## 11. 🎙️ Rupu TTS – App sencilla con GUI (Coqui‑based)
 - 📦 **Qué es**: Aplicación de escritorio liviana para generar audio desde texto sin necesidad de instalar dependencias complejas.
 - 🔗 [https://github.com/ruputron/rupu_tts](https://github.com/ruputron/rupu_tts)
 - 💥 Basada en Coqui TTS, permite exportar archivos .wav/.mp3/.flac y funciona completamente offline en Windows.
