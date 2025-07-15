@@ -19,7 +19,7 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ## 2. 🌀 Stability Matrix
 - 📦 Qué es: Suite local con múltiples IAs preinstaladas.
-- 🔗 [https://stabilitymatrix.ai](https://stabilitymatrix.ai)
+- 🔗 [https://stabilitymatrix.ai](https://stabilitymatrix.ai](https://lykos.ai/)
 - 💥 Incluye generación de imagen, texto, audio y más.
 - 🎬 Título:
   **“LIBÉRATE de la nube con esta IA que se instala sola 💻⚡”**
