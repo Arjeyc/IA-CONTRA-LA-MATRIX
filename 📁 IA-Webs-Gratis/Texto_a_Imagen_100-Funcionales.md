@@ -433,71 +433,70 @@
 
 ---
 
-## 44. [Flux AI Image Generator (PicLumen)](https://piclumen.com/flux-ai-image-generator/) ⚡
+## 44. [Text‑to‑Image (yizhangliu) — Hugging Face Space](https://huggingface.co/spaces/yizhangliu/Text-to-Image) 🎨
 
-- 📋 **Qué es**: Función de PicLumen que permite usar el modelo FLUX.1-schnell directamente desde la misma web.
-- 🔐 **Registro**: NO necesario :contentReference[oaicite:8]{index=8}.
-- ♾️ **Uso**: Ilimitado, gratuito, sin tokens.
-- 🛠️ **Extras**: Estilos avanzados, alta calidad, sin anuncios.
-- 🎯 **Beneficio**: Todo el poder de FLUX sin cuentas extra, ideal para imágenes realistas directas.
-
----
-
-## 45. [FreeImgen.com](https://freeimgen.com/) 🎨
-
-- 📋 **Qué es**: Generador IA gratuito con modelos FLUX AI y Janus Pro para arte realista y fantasía.
+- 📋 **Qué es**: App comunitaria que genera imágenes desde texto, usando modelos avanzados.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin marca de agua.
-- 🛠️ **Extras**: Control de modelo, resolución, descarga directa :contentReference[oaicite:9]{index=9}.
-- 🎯 **Beneficio**: Perfecto para imágenes libres, calidad profesional sin líos.
+- ♾️ **Uso**: Ilimitado, siempre que el Space esté “Running”.
+- 🛠️ **Extras**: Permite modificar prompts antes de generar; interfaz limpia estilo Gradio. :contentReference[oaicite:0]{index=0}
+- 🎯 **Beneficio**: Útil para creaciones rápidas y personalizadas sin instalación ni cuentas.
 
 ---
 
-## 46. [Arting.AI](https://arting.ai/) 🧠
+## 45. [Instant‑Image (KingNish) — Hugging Face Space](https://huggingface.co/spaces/KingNish/Instant-Image) 🚀
 
-- 📋 **Qué es**: Sitio todo-en-uno: texto→imagen, imagen→imagen y video IA.
+- 📋 **Qué es**: Espacio que ofrece generación de imágenes en varios estilos (cinematográfico, realista, fantasía).
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado.
-- 🛠️ **Extras**: Multipropósito para diversos contenidos visuales.
-- 🎯 **Beneficio**: Ideal para creadores que quieren todo en un solo lugar.
+- ♾️ **Uso**: Ilimitado mientras esté activo.
+- 🛠️ **Extras**: Opciones de estilo avanzadas para prompts creativos. :contentReference[oaicite:1]{index=1}
+- 🎯 **Beneficio**: Gran diversidad visual con solo un prompt, ideal para creatividad expresiva.
 
 ---
 
-## 47. [ClapTools – AI Image Generator](https://claptools.com/ai-image-generator/) 🎉
+## 46. [Text‑to‑Image (Pratikpy) — Hugging Face Space](https://huggingface.co/spaces/Pratikpy/Text-to-image-generator) 🖼️
 
-- 📋 **Qué es**: Generador IA rápido y directo, sin login, con estilos básicos gráficos.
+- 📋 **Qué es**: Space simple pero efectivo para generar imágenes a partir de texto con ajustes de calidad y tamaño.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado.
-- 🛠️ **Extras**: Estilos: cartoon, retrato, foto. Generación rápida en segundos.
-- 🎯 **Beneficio**: Perfecto para generación express de ideas visuales.
+- ♾️ **Uso**: Ilimitado mientras el Space esté activo.
+- 🛠️ **Extras**: Permite elegir tamaño y calidad antes de generar imágenes. :contentReference[oaicite:2]{index=2}
+- 🎯 **Beneficio**: Funcional para ideas rápidas con resultados estables y personalizables.
 
 ---
 
-## 48. [MockoFUN AI Image Generator](https://www.mockofun.com/ai-image-generator-from-text/) 🎭
+## 47. [Text‑to‑Image (gaxih) — Hugging Face Space](https://huggingface.co/spaces/gaxih/text-to-image) 🌟
 
-- 📋 **Qué es**: Generador IA centrado en avatares, retoque y filtros.
-- 🔐 **Registro**: NO necesario (para uso básico).
-- ♾️ **Uso**: Ilimitado dentro de límites diarios.
-- 🛠️ **Extras**: Avatar, face swap, fondo transparente, filtros de estilo.
-- 🎯 **Beneficio**: Ideal para crear contenido visual personalizado y avanzado rápido.
-
----
-
-## 49. [NeuralWriter Image Generator](https://neuralwriter.com/image-generator-tool/) ✍️
-
-- 📋 **Qué es**: Generador IA minimalista sin registro que también puede crear GIFs.
+- 📋 **Qué es**: Espacio de Gradio que genera imágenes desde tus descripciones con buena estética.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado.
-- 🛠️ **Extras**: GIFs animados desde prompt, interfaz limpia.
-- 🎯 **Beneficio**: Útil para contenido visual ligero y creativo sin complicaciones.
+- ♾️ **Uso**: Ilimitado mientras el Space esté activo.
+- 🛠️ **Extras**: Permite elegir estilo, proporción y control de calidad. :contentReference[oaicite:3]{index=3}
+- 🎯 **Beneficio**: Directo y fácil, ideal para generar contenido rápidamente sin complicaciones.
 
 ---
 
-## 50. [UnlimitedAIgenerator.com](https://www.unlimitedaigenerator.com/) 🤖
+## 48. [Leonardo AI](https://leonardo.ai/) 💡
 
-- 📋 **Qué es**: Plataforma gratuita con modelos Flux.1-Dev y Recraft V3 para arte de alta calidad.
+- 📋 **Qué es**: Plataforma profesional para imágenes realistas, concept art y más.
+- 🔐 **Registro**: SÍ (requisitos mínimos, puedes usar email temporal).
+- 🎟️ **Créditos**: 150 tokens diarios gratis, se renuevan cada 24 h.
+- 🛠️ **Extras**: Canvas editable, estilos variados, escala HD, imagen-a-imagen y comunidad.  
+- 🎯 **Beneficio**: Calidad profesional y control total, ideal para contenido visual premium.
+
+---
+
+## 49. [Stable Diffusion Online](https://stabledifffusion.com/) 🎯
+
+- 📋 **Qué es**: Interfaz web de Stable Diffusion para generar imágenes desde texto de forma gratuita.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin marcas ni límites.
-- 🛠️ **Extras**: Control de estilo, privacidad (no guarda prompts), resultados fotográficos :contentReference[oaicite:10]{index=10}.
-- 🎯 **Beneficio**: Generación ilimitada de arte sin fricción, ideal para creadores multimedia.
+- ♾️ **Uso**: Ilimitado, sin tokens ni límites detectables.
+- 🛠️ **Extras**: Ajustes de estilo como acuarela, sketch, anime y control de encuadre.  
+- 🎯 **Beneficio**: Gran fluidez y variedad visual sin instalaciones ni cuentas.
 
+---
+
+## 50. [Hugging Face – Stable Diffusion 2‑1 (stabilityai)](https://huggingface.co/spaces/stabilityai/stable-diffusion) 🛠️
+
+- 📋 **Qué es**: Space oficial de Stability AI que permite generar imágenes con Stable Diffusion 2.1.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado mientras el Space esté “Running”. :contentReference[oaicite:4]{index=4}
+- 🛠️ **Extras**: Control de prompt negativo, guidance scale y calidad.
+- 🎯 **Beneficio**: Calidad oficial sin cuentas ni instalaciones, directo desde Hugging Face.
