@@ -79,21 +79,21 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 9. 🧩 Pinokio App  
-- 📦 **Qué es**: Aplicación multiplataforma que instala IA con 1 clic (como ComfyUI, SD, Whisper, etc).  
-- 🔗 [https://pinokio.computer](https://pinokio.computer)  
-- 💥 Compatible con Windows, macOS y Linux.  
-- 🎬 **Título**: “Este programa instala TODAS las IAs en tu PC con UN CLIC 😱”  
-- 🏷️: `pinokio ai`, `instalar ia`, `local`, `toolbox ai`, `opensource`
+## 9. 🧩 LocalAI
+- 📦 **Qué es**: Suite de IA todo-en-uno para ejecutar modelos de texto, imagen, audio y más localmente. Compatible con OpenAI API.
+- 🔗 [https://localai.io](https://localai.io)
+- 💥 No requiere conexión permanente ni GPU potente. Ideal para correr IAs en servidores caseros o PCs sin internet.
+- 🎬 **Título**: “¿Y si pudieras tener ChatGPT y DALL·E en tu PC SIN INTERNET? 😱”
+- 🏷️: `localai`, `ia sin internet`, `text to image offline`, `open source ai`, `stable diffusion local`
 
 ---
 
-## 10. 🌀 Stability Matrix  
-- 📦 **Qué es**: Suite de IA todo-en-uno que se instala en tu PC con generadores de imagen, texto, audio y más.  
-- 🔗 [https://stabilitymatrix.ai](https://lykos.ai)  
-- 💥 Ideal para creadores que quieren autonomía total sin internet.  
-- 🎬 **Título**: “LIBÉRATE de la nube con esta IA que se instala sola 💻⚡”  
-- 🏷️: `stability matrix`, `generador de imagen offline`, `crear videos`, `libertad digital`
+## 10. 🚀 Local AI Playground
+- 📦 **Qué es**: Instalador para correr modelos de IA (texto, imagen, voz) localmente con UI simple.
+- 🔗 [https://www.localai.app](https://www.localai.app)
+- 💥 Pensado para usuarios no técnicos. Corre local sin necesidad de comandos ni terminales.
+- 🎬 **Título**: “INSTALA TU PROPIA IA local como si fuera Netflix 😲📲”
+- 🏷️: `ia para todos`, `sin conexión`, `local ai app`, `modelo local`, `imagen desde texto`
 
 
 
