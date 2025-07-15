@@ -116,6 +116,6 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 🔥 Herramientas IA de Texto a Audio – Modo Local (Ampliación)
+## 🔥 Herramientas IA de Texto a Video – Modo Local (Ampliación)
 
 Estas 11 opciones nuevas están probadas, son funcionales y no repiten las anteriores. Perfectas para expandir tus opciones de creación local:
