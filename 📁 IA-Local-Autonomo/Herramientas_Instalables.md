@@ -95,5 +95,22 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 - 🎬 **Título**: “INSTALA TU PROPIA IA local como si fuera Netflix 😲📲”
 - 🏷️: `ia para todos`, `sin conexión`, `local ai app`, `modelo local`, `imagen desde texto`
 
+---
+
+## 11. 🧰 Easy Diffusion
+- 📦 **Qué es**: Instalador todo-en-uno de Stable Diffusion para Windows, Linux y Mac. Solo instalas, ejecutas y creas.
+- 🔗 [https://github.com/easydiffusion/easydiffusion](https://github.com/easydiffusion/easydiffusion)
+- 💥 Fácil para principiantes. Interfaz simple, funciona desde el primer clic.
+- 🎬 **Título**: “INSTALA IA DE IMÁGENES en tu PC en menos de 5 minutos 😳🧠”
+- 🏷️: `easy diffusion`, `text to image`, `instalador estable`, `sin internet`, `pc creativo`
+
+---
+
+## 12. 🐳 Stable Diffusion via Docker
+- 📦 **Qué es**: Paquete dockerizado para correr SD sin instalar dependencias. Rápido, portable y limpio.
+- 🔗 [https://github.com/AUTOMATIC1111/stable-diffusion-webui-docker](https://github.com/AUTOMATIC1111/stable-diffusion-webui-docker)
+- 💥 Ideal para desarrolladores o quienes usan múltiples máquinas.
+- 🎬 **Título**: “No instales nada… ¡Corre IA de imágenes con solo un comando! 🐳🔥”
+- 🏷️: `docker ai`, `imagen sin instalar`, `stable diffusion container`, `portable ai`, `text to image`
 
 
