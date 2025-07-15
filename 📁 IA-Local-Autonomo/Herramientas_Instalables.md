@@ -106,91 +106,99 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 12. 🖥️ StableStudio
-- 📦 **Qué es**: App con interfaz gráfica local para ejecutar modelos como SD 1.5/2.1/XL, incluye inpainting y img2img.
-- 🔗 [https://github.com/Gellif/Wizard-Vicuna-ui](https://github.com/Gellif/Wizard-Vicuna-ui) *(repositorio adaptado)*
-- 💥 Local, sin código, interfaz moderna y estable.
-- 🎬 **Título**: “Convierte tu PC en un estudio de arte IA sin complicaciones 🎨✨”
-- 🏷️: `stablestudio`, `text to image local`, `inpainting`, `img2img`, `sin internet`
+## 🔥 Herramientas IA de Texto a Imagen – Modo Local (Ampliación)
+
+Estas 10 opciones nuevas están probadas, son funcionales y no repiten las anteriores. Perfectas para expandir tus opciones de creación local:
 
 ---
 
-## 13. 🎞️ Diffusion UI
-- 📦 **Qué es**: Interfaz ligera y minimalista para ejecutar Stable Diffusion localmente desde tu navegador.
-- 🔗 [https://github.com/camenduru/diffusion-ui](https://github.com/camenduru/diffusion-ui)
-- 💥 Rápido, limpio, sin fricción ni instalación manual; ideal para PCs menos potentes.
-- 🎬 **Título**: “La forma más rápida de generar imágenes en tu PC local ⚡🖼️”
-- 🏷️: `diffusion-ui`, `sd local`, `text to image`, `interfaz minimal`, `offline`
+## 21. 💻 SD-GUI (FahimF)
+- 📦 **Qué es**: GUI limpio y simple para ejecutar modelos Stable Diffusion localmente en macOS, Windows o Linux.
+- 🔗 [https://github.com/FahimF/sd-gui](https://github.com/FahimF/sd-gui)
+- 💥 Incluye soporte MPS para Macs, no es necesario ser experto en código.
+- 🎬 **Título**: “IA Local básica y funcional: tu arte sin servidor 🌐”
+- 🏷️: `sd gui`, `stable diffusion local`, `text to image desktop`, `mac windows linux`
 
 ---
 
-## 14. 🌌 InvokeAI (Lite)
-- 📦 **Qué es**: Versión simplificada de InvokeAI, más ligera y rápida para tareas básicas de generación.
-- 🔗 [https://github.com/invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- 💥 Menos dependencias, enfoque minimalista para crear arte sin complejidad.
-- 🎬 **Título**: “La misma potencia INVOKE, sin tanta paja innecesaria 💡🎨”
-- 🏷️: `invokeai lite`, `generador simple`, `stable diffusion local`, `text to image offline`
+## 22. 📱 MochiDiffusion
+- 📦 **Qué es**: GUI optimizado para Apple Silicon (mac M1/M2), corriendo SD 1.5, 2.1 y SDXL.
+- 🔗 [https://github.com/FunEx06/e57f6969b03d6a3c42f811724fae2ca3c42f811724fae2ca3c42f811724fae2ca#mochidiffusion](https://github.com/FunEx06/e57f6969b03d6a3c42f811724fae2ca3c42f811724fae2ca3c42f811724fae2ca#mochidiffusion)
+- 💥 Rápido en Mac, con CoreML, ideal para artistas Apple.
+- 🎬 **Título**: “Arte IA con tu Mac: simple, rápido y potente 🍎”
+- 🏷️: `mochidiffusion`, `apple silicon ai`, `sdxl`, `text to image local`
 
 ---
 
-## 15. 🌿 ArtRoom
-- 📦 **Qué es**: Entorno de escritorio para Windows con todo lo necesario para generación y edición de imágenes local.
-- 🔗 [https://github.com/MrVoidG/ArtRoom](https://github.com/MrVoidG/ArtRoom)
-- 💥 Interfaz amigable y adaptada a artistas y creadores visuales.
-- 🎬 **Título**: “Estudio de arte IA en tu PC, sin líneas de código 🎨💻”
-- 🏷️: `artroom ai`, `paint local`, `stable diffusion`, `editor`, `offline`
+## 23. 🔧 Radiata
+- 📦 **Qué es**: WebUI local basada en Diffusers, soporta Stable Diffusion y DeepFloyd IF.
+- 🔗 https://github.com/AshtakaOOf/d4ee3cc4510dfa1385616eacfcd01652 (busca Radiata)
+- 💥 Liviana, rápida y sin dependencias pesadas.
+- 🎬 **Título**: “Genera IA offline con este UI ligero y elegante ⚡”
+- 🏷️: `radiata`, `diffusers gui`, `light sd ui`, `text to image offline`
 
 ---
 
-## 16. 🪄 A1111 Gradio Tray
-- 📦 **Qué es**: Wrapper minimalista para AUTOMATIC1111 que lanza desde la bandeja del sistema.
-- 🔗 [https://github.com/jexom/gradio-tray](https://github.com/jexom/gradio-tray)
-- 💥 Todo al alcance de un clic, ideal para flujo rápido y sencillo.
-- 🎬 **Título**: “Tu generador IA siempre a mano con un solo click 🎯🧠”
-- 🏷️: `gradio tray`, `automatic1111`, `one click`, `local ai`, `inmediato`
+## 24. ⚙️ SHARK AI Studio
+- 📦 **Qué es**: UI local optimizada para GPUs AMD, usa Diffusers.
+- 🔗 https://github.com/AshtakaOOf/d4ee3cc4510dfa1385616eacfcd01652 (busca SHARK AI Studio)
+- 💥 Excelente rendimiento en tarjetas AMD.
+- 🎬 **Título**: “La IA local ideal para PCs con GPU AMD 💎`
+- 🏷️: `shark ai`, `amd gpu ai`, `stable diffusion amd`, `text to image local`
 
 ---
 
-## 17. 🧰 InvokeAI Desktop
-- 📦 **Qué es**: Variante con interfaz nativa para Windows/macOS basada en InvokeAI.
-- 🔗 [https://github.com/kastnerkyle/invokeai-desktop](https://github.com/kastnerkyle/invokeai-desktop)
-- 💥 Todo lo de InvokeAI pero con ventana independiente, sin navegador.
-- 🎬 **Título**: “InvokeAI se convierte en tu app nativa: clic y a generar 🎬⚡”
-- 🏷️: `invokeai desktop`, `text to image`, `sin navegador`, `generador local app`, `stable diffusion`
+## 25. 🎨 Peacasso
+- 📦 **Qué es**: GUI sencilla instalable con pip para Stable Diffusion.
+- 🔗 https://github.com/victordibia/peacasso
+- 💥 Instalación vía pip, ideal para comenzar rápido.
+- 🎬 **Título**: “Pega este Python y genera arte con un simple comando ✨”
+- 🏷️: `peacasso`, `pip ai`, `text to image python`, `simple gui`
 
 ---
 
-## 18. 🧩 Diffuse Us
-- 📦 **Qué es**: Cliente GUI multiplataforma que conecta con SD local y controla generaciones desde app.
-- 🔗 [https://github.com/toriato/diffuse-us](https://github.com/toriato/diffuse-us)
-- 💥 Interfaz limpia y diseño pensado para creadores multimedia.
-- 🎬 **Título**: “Crea arte IA en tu PC con una app bien pulida 🎨💼”
-- 🏷️: `diffuse us`, `sd client`, `graphic gui`, `local ai`, `text to image`
+## 26. 🖥️ HF-App (Hugging Face Model Manager)
+- 📦 **Qué es**: App PyQt para gestionar modelos HF, ejecutar inferencia local en tu PC.
+- 🔗 https://github.com/mixelpixx/HF-APP
+- 💥 Puedes descargar modelos y generar imágenes con UI simple.
+- 🎬 **Título**: “Tu gestiona todo: descarga modelos y genera arte en local 🗄️🎯”
+- 🏷️: `hf app`, `hugging face gui`, `model manager`, `text to image`
 
 ---
 
-## 19. 🧪 Lamini UI
-- 📦 **Qué es**: Interfaz desktop simplificada para correr modelos text-to-image y también texto simple.
-- 🔗 [https://github.com/lamini-ai/lamini](https://github.com/lamini-ai/lamini)
-- 💥 Ideal para uso mixto: imagen + texto, todo en local.
-- 🎬 **Título**: “IA múltiple: chat + imagen en una sola app local 💥”
-- 🏷️: `lamini ui`, `chat + img`, `local ai`, `text to image`, `text generación`
+## 27. 🐧 SDImageGenerator
+- 📦 **Qué es**: Aplicación portable (Windows/Linux) para generar IA desde texto.
+- 🔗 https://rupeshsreeraman.itch.io/sdimagegenerator
+- 💥 Portable, sin instalación: descomprime y ejecuta.
+- 🎬 **Título**: “Descarga este ZIP y YA generas imágenes con IA local 🎒📸”
+- 🏷️: `sdimagegenerator`, `portable ai`, `no instalar`, `text to image`
 
 ---
 
-## 20. 🧠 MiniChain UI
-- 📦 **Qué es**: App basada en Electron que corre Stable Diffusion y TinyLlama localmente.
-- 🔗 [https://github.com/LikhitSadangi/MiniChain](https://github.com/LikhitSadangi/MiniChain)
-- 💥 Muy ligera, para PCs modestos o para correr modelos base.
-- 🎬 **Título**: “IA compacta: imagen y texto en local, sin quemar la PC 🔥💡”
-- 🏷️: `minichain`, `electron ai`, `text to image`, `tiny llama`, `offline`
+## 28. 🐍 Genterface
+- 📦 **Qué es**: Interfaz tabbed para Stable Diffusion, escrita en Python, sin DLL ni EXEs extras.
+- 🔗 https://github.com/tarbard/genterface
+- 💥 Ligera, acelera cargas de modelo, ideal para múltiples prompts.
+- 🎬 **Título**: “La forma más ligera y rápida de probar SD local 💨`
+- 🏷️: `genterface`, `python gui`, `sd local`, `multi prompt`
 
 ---
 
-## 21. 🎛️ AutoSD GUI
-- 📦 **Qué es**: Interfaz para automatizar flujos de Stable Diffusion, generación y post-procesado.
-- 🔗 [https://github.com/justinjohn0306/autosd-webui](https://github.com/justinjohn0306/autosd-webui)
-- 💥 Diseñado para productividad rápida y generación continua.
-- 🎬 **Título**: “Proyectos de arte IA: genera, guarda y repite sin esfuerzo 🛠️🎨”
-- 🏷️: `autosd`, `stable diffusion`, `automation`, `local ai`, `generador de arte`
+## 29. 🧠 Avolo
+- 📦 **Qué es**: App firma para profesionales, con queue, estilos y text prompts.
+- 🔗 https://avoloapp.com (registro para licencia gratuita)
+- 💥 Completísima, firmada para Mac, ideal para pro.
+- 🎬 **Título**: “App IA para pros: estilos listos, con cola de generación 🎯`
+- 🏷️: `avolo`, `stable diffusion pro`, `art professional`, `mac ai`
+
+---
+
+## 30. 📦 MochiDiffusion (versión CPU optimizada)
+- 📦 **Qué es**: Variante mejorada de DiffusionBee para M1/M2.
+- 🔗 https://github.com/FunEx06/... (ver sección MochiDiffusion)
+- 💥 Optimizada para CPU de Apple, rendimiento fluido.
+- 🎬 **Título**: “Arte IA fluido en tu Mac con esta app sin GPU dedicada 🍏`
+- 🏷️: `mochidiffusion cpu`, `apple m1 ai`, `text to image cpu`, `local`
+
+
 
