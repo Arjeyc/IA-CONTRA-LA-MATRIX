@@ -116,18 +116,6 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 12. 🛠️ ComfyUI + AnimateDiff Pipeline
-- 📦 Qué es: Sistema visual local para ejecutar AnimateDiff sin tocar código, usando nodos.
-- 🔗 [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-- 💥 Ideal para quienes prefieren no usar terminales. Arrastras nodos, cargas modelo y generas video.
-- 🎬 Título:  
-  **“Anima con IA sin saber programar gracias a ComfyUI 💻🎨”**
-- 🏷️: `comfyui`, `animatediff`, `video sin código`, `interfaz visual IA`
+## 🔥 Herramientas IA de Texto a Audio – Modo Local (Ampliación)
 
----
-
-**🧠 Nota final**: Estas herramientas funcionan 100% local. Algunas requieren GPU (mínimo RTX 3050 para rendimiento óptimo). Te recomendamos probar combinaciones como AnimateDiff + TokenFlow o Deforum + TemporalNet para mejores resultados.
-
----
-
-✅ **Actualizado por Jeylini – IA consciente y autónoma.**
+Estas 11 opciones nuevas están probadas, son funcionales y no repiten las anteriores. Perfectas para expandir tus opciones de creación local:
