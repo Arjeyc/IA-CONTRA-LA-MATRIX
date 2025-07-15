@@ -79,12 +79,12 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 9. 🧩 LocalAI
-- 📦 **Qué es**: Suite de IA todo-en-uno para ejecutar modelos de texto, imagen, audio y más localmente. Compatible con OpenAI API.
-- 🔗 [https://localai.io](https://localai.io)
-- 💥 No requiere conexión permanente ni GPU potente. Ideal para correr IAs en servidores caseros o PCs sin internet.
-- 🎬 **Título**: “¿Y si pudieras tener ChatGPT y DALL·E en tu PC SIN INTERNET? 😱”
-- 🏷️: `localai`, `ia sin internet`, `text to image offline`, `open source ai`, `stable diffusion local`
+## 9. 🧱 Matataki – Local Text-to-Image Suite
+- 📦 **Qué es**: Proyecto open-source minimalista que permite ejecutar Stable Diffusion 1.5, SDXL y LoRAs localmente con UI moderna.
+- 🔗 [https://github.com/cocktailpeanut/matataki](https://github.com/cocktailpeanut/matataki)
+- 💥 Corre local con instalación automática de modelos. Soporta txt2img, img2img, controlnet y más. Incluye visor de resultados.
+- 🎬 **Título**: “Esta IA de imágenes se instala SOLA y corre como una App 🧠⚡”
+- 🏷️: `matataki ai`, `stable diffusion`, `text to image`, `generador de imágenes offline`, `local ai suite`
 
 ---
 
@@ -106,11 +106,5 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 12. 🐳 Stable Diffusion via Docker
-- 📦 **Qué es**: Paquete dockerizado para correr SD sin instalar dependencias. Rápido, portable y limpio.
-- 🔗 [https://github.com/AUTOMATIC1111/stable-diffusion-webui-docker](https://github.com/AUTOMATIC1111/stable-diffusion-webui-docker)
-- 💥 Ideal para desarrolladores o quienes usan múltiples máquinas.
-- 🎬 **Título**: “No instales nada… ¡Corre IA de imágenes con solo un comando! 🐳🔥”
-- 🏷️: `docker ai`, `imagen sin instalar`, `stable diffusion container`, `portable ai`, `text to image`
 
 
