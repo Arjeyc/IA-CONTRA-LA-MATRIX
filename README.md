@@ -10,7 +10,7 @@ Aquí encontrarás:
 🌐 Explora Más Herramientas de Imagen IA en Hugging Face
 Si quieres seguir descubriendo generadores de imágenes con inteligencia artificial como los que compartimos en esta lista, te recomiendo visitar este enlace:
 
-👉 Explorar más Spaces de Imagen IA en Hugging Face
+👉 Explorar más Spaces de Imagen IA en Hugging Face: https://huggingface.co/spaces?category=image-generation&sort=likes
 
 📚 Qué es: Sección oficial de Hugging Face donde encontrarás cientos de generadores IA categorizados por popularidad, estilo y utilidad.
 
