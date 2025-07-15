@@ -46,53 +46,53 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 5. 🎥 Potat1 (Text to Video Experimental)
-- 📦 Qué es: Proyecto local minimalista que permite generar videos cortos desde texto usando modelos ligeros como Zeroscope y ModelScope.
-- 🔗 [https://github.com/Potat1/Text-to-Video](https://github.com/Potat1/Text-to-Video)
-- 💥 Funciona en Windows y Linux. Usa Hugging Face models con scripts simples.
-- 🎬 Título:  
-  **“IA LIVIANA para generar VIDEO desde TEXTO en tu PC 🤯🎞️”**
-- 🏷️: `text to video local`, `potat1`, `script IA`, `generador offline`
+## 5. 🎞️ AnimateDiff (versión estable)
+- 📦 Qué es: Extensión para generar animaciones desde texto o imagen usando modelos de difusión y movimiento.
+- 🔗 [https://github.com/guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)
+- 💥 Se puede integrar con AUTOMATIC1111 o usar en scripts independientes con modelos Hugging Face.
+- 🎬 Título:
+  **“¡Convierte texto en video ANIMADO con IA en tu PC! 🎨📽️”**
+- 🏷️: `animatediff`, `text to video`, `animación IA`, `diffusion video`
 
 ---
 
-## 6. 🧪 VideoCrafter-Launcher (modificado)
-- 📦 Qué es: Fork optimizado de VideoCrafter para uso más accesible en PC con GPU RTX. Permite video desde texto o imagen.
-- 🔗 [https://github.com/huggingface-projects/videocrafter-launcher](https://github.com/huggingface-projects/videocrafter-launcher)
-- 💥 Usa Diffusers y Transformers para generar clips entre 2–8s de duración.
-- 🎬 Título:  
-  **“Tu PROPIO generador de VIDEO IA local con calidad CINEMATOGRÁFICA 🎬🔥”**
-- 🏷️: `videocrafter`, `text2video`, `video IA PC`, `diffusers`
+## 6. 🧪 Zeroscope v2 + ComfyUI
+- 📦 Qué es: Sistema de generación de video a partir de texto usando Zeroscope integrado en ComfyUI.
+- 🔗 [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+- 💥 Permite usar nodos personalizados para crear clips animados de 2 a 8 segundos desde texto.
+- 🎬 Título:
+  **“Crea videos cortos con texto desde tu PC con ComfyUI y Zeroscope 🧠🎞️”**
+- 🏷️: `zeroscope`, `comfyui`, `generador video IA`, `text2video local`
 
 ---
 
-## 7. 🎞️ InvokeAI con AnimateDiff
-- 📦 Qué es: Suite gráfica de generación IA compatible con AnimateDiff y otros plugins de animación.
-- 🔗 [https://github.com/invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- 💥 Ya incluye soporte para animaciones desde texto o imagenes con interfaz visual.
-- 🎬 Título:  
-  **“TODO en uno: IA para animar, pintar y crear videos desde tu escritorio 🎨💻”**
-- 🏷️: `invoke ai`, `animatediff`, `video desde imágenes`, `generador visual`
+## 7. 🎬 Stable Video Diffusion (SVD)
+- 📦 Qué es: Modelo oficial de StabilityAI para crear video desde imagen o texto con alto realismo.
+- 🔗 [https://github.com/Stability-AI/stable-video-diffusion](https://github.com/Stability-AI/stable-video-diffusion)
+- 💥 Requiere una imagen inicial pero también se puede combinar con texto a imagen (ej. SDXL).
+- 🎬 Título:
+  **“Tu imagen COBRA VIDA: Genera VIDEO con Stable Video Diffusion 😳🎥”**
+- 🏷️: `stability ai`, `video desde imagen`, `svd`, `generador local video`
 
 ---
 
-## 8. 🌀 Animatediff-Evolved
-- 📦 Qué es: Implementación mejorada de AnimateDiff con más efectos de interpolación, profundidad y estilo.
-- 🔗 [https://github.com/continue-revolution/animatediff-evolved](https://github.com/continue-revolution/animatediff-evolved)
-- 💥 Soporte de Loop, cambio de cámaras, interpolación fluida, máscaras, etc.
-- 🎬 Título:  
-  **“¡AnimateDiff llevado al siguiente nivel! 😱✨”**
-- 🏷️: `animatediff evolved`, `text to animation`, `generador video`, `efectos visuales`
+## 8. ⚙️ Deforum (Stable Diffusion Video)
+- 📦 Qué es: Extensión para AUTOMATIC1111 que permite generar video interpolado desde prompts y movimientos de cámara.
+- 🔗 [https://github.com/deforum-art/deforum-for-automatic1111-webui](https://github.com/deforum-art/deforum-for-automatic1111-webui)
+- 💥 Puedes hacer zoom, rotaciones, loops y más con solo texto + parámetros.
+- 🎬 Título:
+  **“¡Haz CINEMÁTICAS en tu PC con IA y solo texto! 😱📹”**
+- 🏷️: `deforum`, `stable diffusion`, `cinemática IA`, `video desde texto`
 
 ---
 
-## 9. 🔁 Flow-Free Animate
-- 📦 Qué es: Framework para integrar AnimateDiff + TokenFlow en una sola ejecución local.
-- 🔗 [https://github.com/lllyasviel/flow-free-animate](https://github.com/lllyasviel/flow-free-animate)
-- 💥 Genera videos fluidos IA con control de fotogramas, loops y mejor interpolación de movimiento.
-- 🎬 Título:  
-  **“VIDEOS IA sin saltos, sin cortes y totalmente local 🎥🔥”**
-- 🏷️: `flow free`, `motion IA`, `anidado animate`, `video fluido local`
+## 9. 🌀 TokenFlow + AnimateDiff
+- 📦 Qué es: Sistema local que combina TokenFlow (flujo de movimiento) con AnimateDiff para lograr interpolación ultra fluida.
+- 🔗 [https://github.com/guoyww/TokenFlow](https://github.com/guoyww/TokenFlow)
+- 💥 Se usa para refinar movimiento cuadro a cuadro en videos generados por IA.
+- 🎬 Título:
+  **“ANIMACIONES FLUIDAS con IA en tu PC: TokenFlow + AnimateDiff 💫🖥️”**
+- 🏷️: `tokenflow`, `video fluido IA`, `interpolación IA`, `text to video local`
 
 ---
 
