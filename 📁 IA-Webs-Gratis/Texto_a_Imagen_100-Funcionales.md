@@ -453,15 +453,15 @@
 
 ---
 
-## 46. [FLUX.1 [schnell] – BlackForestLabs (Hugging Face Space) 🚀
+## 46. [FLUX.1 [schnell] – BlackForestLabs (Hugging Face Space)](https://huggingface.co/spaces/black-forest-labs/FLUX.1-schnell) 🚀
 
-- 📋 **Qué es**: Generador de imágenes IA ultra rápido basado en un **transformer de flujo rectificado de 12 mil millones de parámetros**, diseñado para producir resultados realistas en tan solo 1–4 pasos :contentReference[oaicite:1]{index=1}.
+- 📋 **Qué es**: Generador de imágenes IA ultra rápido basado en un **transformer de flujo rectificado de 12 mil millones de parámetros**, diseñado para producir resultados realistas en tan solo 1–4 pasos.
 - 🔐 **Registro**: NO necesario; puedes probarlo directamente en la demo del Space.
-- ♾️ **Uso**: Ilimitado mientras el Space esté activo. Modelo bajo licencia Apache‑2.0, apto para uso personal, científico y comercial :contentReference[oaicite:2]{index=2}.
+- ♾️ **Uso**: Ilimitado mientras el Space esté activo. Modelo bajo licencia [Apache‑2.0](https://huggingface.co/black-forest-labs/FLUX.1-schnell).
 - 🛠️ **Extras**:
-  - Architecture híbrida transformer + difusión permite **calidad superior a Midjourney v6 y DALL·E 3** :contentReference[oaicite:3]{index=3}.
+  - Arquitectura híbrida Transformer + Difusión permite **calidad superior a Midjourney v6 y DALL·E 3** ([blackforestlabs.io](https://blackforestlabs.io/flux-1/)).
   - Modelos disponibles: **Pro** (más calidad), **Dev** (open‑weight), y **schnell** (rápido y eficiente).
-  - Se integra con Diffusers, ComfyUI y APIs como replicate.com, fal.ai :contentReference[oaicite:4]{index=4}.
+  - Se integra con [Diffusers](https://huggingface.co/docs/diffusers/index), [ComfyUI](https://comfyanonymous.github.io/ComfyUI/), y APIs como [Replicate](https://replicate.com/) y [FAL.ai](https://fal.ai/).
 - 🎯 **Beneficio**: Ideal para generar imágenes **fotorrealistas rápidamente**, con mínimo desgaste de hardware (GPU RTX 3050+), sin registro y sin esperas largas. Supera muchos modelos open‑source en fidelidad al prompt.
 
 ---
