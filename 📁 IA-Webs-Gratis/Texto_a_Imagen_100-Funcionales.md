@@ -364,60 +364,32 @@
 
 ---
 
-## 37. [Raphael AI](https://raphaelai.org/) 🎨
+## 37. [Free AI Image Generator (FreeImgen)](https://freeimgen.com/) 🔥
 
-- 📋 **Qué es**: Generador IA que crea imágenes HD desde texto usando modelos avanzados.
+- 📋 **Qué es**: Plataforma gratuita con modelos como Flux AI y Janus Pro, convierte texto en imágenes realistas y artísticas.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin tokens ni límites diarios :contentReference[oaicite:1]{index=1}.
-- 🛠️ **Extras**: Varios estilos (realista, acuarela, fantasía), ajuste de aspecto, y descarga rápida en PNG/JPEG.
-- 🎯 **Beneficio**: Calidad profesional en una plataforma limpia y directa.
+- ♾️ **Uso**: Ilimitado, sin marcas de agua ni restricciones. :contentReference[oaicite:1]{index=1}
+- 🛠️ **Extras**: Permite cambiar modelo, formatos de resolución, y descarga inmediata.
+- 🎯 **Beneficio**: Imágenes de alta calidad rápidamente, ideal para creatividad libre y sin fricción.
 
 ---
 
-## 38. [AIImageGenerator.io](https://aiimagegenerator.io/) 🎯
+## 38. [ClapTools AI Image Generator](https://claptools.com/ai-image-generator/) 🎨
 
-- 📋 **Qué es**: Plataforma con modelos como DALL·E 3, SD3, SDXL para generar imágenes desde texto.
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin registros ni tokens visibles :contentReference[oaicite:2]{index=2}.
-- 🛠️ **Extras**: Más de 70 estilos, presets, control de modelo y resolución.
-- 🎯 **Beneficio**: Ideal para quienes desean variedad y poder creativo sin fricción.
-
----
-
-## 39. [AImageGen](https://aimagegen.com/) 🖼️
-
-- 📋 **Qué es**: Generador sencillo de texto a imagen, sin necesidad de login.
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, totalmente gratuito :contentReference[oaicite:3]{index=3}.
-- 🛠️ **Extras**: Varios tamaños, descarga directa sin marcas.
-- 🎯 **Beneficio**: Perfecto para creaciones rápidas y limpias sin complicaciones.
+- 📋 **Qué es**: Generador instantáneo de imágenes desde texto, rápido y sin registro.
+- 🔐 **Registro**: NO necesario. :contentReference[oaicite:3]{index=3}
+- ♾️ **Uso**: Ilimitado; varios estilos y tamaños.
+- 🛠️ **Extras**: Estilos predefinidos (foto, dibujo, cartoon) y descarga en segundos.
+- 🎯 **Beneficio**: Perfecto para ideas visuales express sin procesos extras.
 
 ---
 
-## 40. [WriteCream Free AI Image Generator](https://www.writecream.com/free-ai-image-generator-from-text/) ✍️
+## 39. [Arting.AI](https://arting.ai/) 🖌️
 
-- 📋 **Qué es**: Herramienta que convierte texto en imágenes con varios formatos (16:9, social, retrato).
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin registro :contentReference[oaicite:4]{index=4}.
-- 🛠️ **Extras**: Selección de aspecto ratio para thumbnails, redes sociales, presentaciones.
-- 🎯 **Beneficio**: Útil para contenido audiovisual enfocado en creación social media y formatos específicos.
-
----
-
-## 41. [Magic Studio AI Art Generator](https://magicstudio.com/ai-art-generator/) 🌟
-
-- 📋 **Qué es**: Crea arte IA a partir de texto, sin login requerido, rápido y profesional.
-- 🔐 **Registro**: NO necesario :contentReference[oaicite:5]{index=5}.
-- ♾️ **Uso**: Ilimitado.
-- 🛠️ **Extras**: Editor para headshots, fondos, upscaling y recorte.
-- 🎯 **Beneficio**: Ideal para crear imágenes y mejorarlas sin salir del sitio.
+- 📋 **Qué es**: Web completa de generación IA (texto → imagen, imagen → imagen, texto → video).
+- 🔐 **Registro**: NO necesario. :contentReference[oaicite:4]{index=4}
+- ♾️ **Uso**: Ilimitado, sin límites detectados.
+- 🛠️ **Extras**: Múltiples formatos, generador de video e imagen, exportación directa.
+- 🎯 **Beneficio**: Toolkit visual todo‑en‑uno para YouTube, redes y más.
 
 ---
-
-## 42. [Pixmind AI](https://www.pixmindai.com/) 🧠
-
-- 📋 **Qué es**: Generador IA gratuito que soporta texto a imagen e imagen a imagen, sin login.
-- 🔐 **Registro**: NO necesario :contentReference[oaicite:6]{index=6}.
-- ♾️ **Uso**: Ilimitado.
-- 🛠️ **Extras**: Múltiples estilos (realista, anime, sci‑fi), ajustes de color y composición, descarga HD.
-- 🎯 **Beneficio**: Gran variedad visual y resultados de calidad profesional sin cuentas.
