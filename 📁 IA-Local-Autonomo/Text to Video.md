@@ -46,53 +46,53 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 5. 🎬 VideoCrafter2
-- 📦 Qué es: Modelo de difusión para generar video de alta calidad desde texto, imagen o ruido.
-- 🔗 [https://github.com/VideoCrafter/VideoCrafter2](https://github.com/VideoCrafter/VideoCrafter2)
-- 💥 Entrenado para crear clips cortos y coherentes con buena fluidez visual.
+## 5. 🎥 Potat1 (Text to Video Experimental)
+- 📦 Qué es: Proyecto local minimalista que permite generar videos cortos desde texto usando modelos ligeros como Zeroscope y ModelScope.
+- 🔗 [https://github.com/Potat1/Text-to-Video](https://github.com/Potat1/Text-to-Video)
+- 💥 Funciona en Windows y Linux. Usa Hugging Face models con scripts simples.
 - 🎬 Título:  
-  **“¡Esta IA genera VIDEO desde CERO! 😳🎞️”**
-- 🏷️: `videocrafter2`, `text to video`, `ia local`, `generador open source`
+  **“IA LIVIANA para generar VIDEO desde TEXTO en tu PC 🤯🎞️”**
+- 🏷️: `text to video local`, `potat1`, `script IA`, `generador offline`
 
 ---
 
-## 6. 🔁 TokenFlow (IA Inter-frame)
-- 📦 Qué es: Modelo que suaviza y enlaza frames IA para generar movimiento fluido en video.
-- 🔗 [https://github.com/google-research/tokenflow](https://github.com/google-research/tokenflow)
-- 💥 Se usa junto a AnimateDiff para crear secuencias más realistas y sin saltos.
+## 6. 🧪 VideoCrafter-Launcher (modificado)
+- 📦 Qué es: Fork optimizado de VideoCrafter para uso más accesible en PC con GPU RTX. Permite video desde texto o imagen.
+- 🔗 [https://github.com/huggingface-projects/videocrafter-launcher](https://github.com/huggingface-projects/videocrafter-launcher)
+- 💥 Usa Diffusers y Transformers para generar clips entre 2–8s de duración.
 - 🎬 Título:  
-  **“IA de Google hace que tus videos IA SE VEAN REALES 🔥📹”**
-- 🏷️: `tokenflow`, `fluidez IA`, `motion smoothing`, `video desde imágenes`
+  **“Tu PROPIO generador de VIDEO IA local con calidad CINEMATOGRÁFICA 🎬🔥”**
+- 🏷️: `videocrafter`, `text2video`, `video IA PC`, `diffusers`
 
 ---
 
-## 7. 📹 TemporalNet
-- 📦 Qué es: Extensión de ControlNet enfocada en mantener coherencia temporal entre frames.
-- 🔗 [https://github.com/OpenMotionLab/TemporalNet](https://github.com/OpenMotionLab/TemporalNet)
-- 💥 Evita glitches entre imágenes animadas. Útil en combinaciones con AnimateDiff o Deforum.
+## 7. 🎞️ InvokeAI con AnimateDiff
+- 📦 Qué es: Suite gráfica de generación IA compatible con AnimateDiff y otros plugins de animación.
+- 🔗 [https://github.com/invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- 💥 Ya incluye soporte para animaciones desde texto o imagenes con interfaz visual.
 - 🎬 Título:  
-  **“Adiós a los fallos en tus animaciones IA 🚫🌀”**
-- 🏷️: `temporalnet`, `controlnet video`, `coherencia temporal`, `sin parpadeos`
+  **“TODO en uno: IA para animar, pintar y crear videos desde tu escritorio 🎨💻”**
+- 🏷️: `invoke ai`, `animatediff`, `video desde imágenes`, `generador visual`
 
 ---
 
-## 8. 🧠 Zeroscope V2 (video desde texto)
-- 📦 Qué es: Modelo open-source para generar pequeños clips desde texto, estilo RunwayML.
-- 🔗 [https://huggingface.co/cerspense/zeroscope-v2](https://huggingface.co/cerspense/zeroscope-v2)
-- 💥 Crea videos cortos de 2–4 segundos con buena fidelidad y estética tipo film.
+## 8. 🌀 Animatediff-Evolved
+- 📦 Qué es: Implementación mejorada de AnimateDiff con más efectos de interpolación, profundidad y estilo.
+- 🔗 [https://github.com/continue-revolution/animatediff-evolved](https://github.com/continue-revolution/animatediff-evolved)
+- 💥 Soporte de Loop, cambio de cámaras, interpolación fluida, máscaras, etc.
 - 🎬 Título:  
-  **“¿Texto a video en segundos? Esta IA te sorprenderá 🎬✨”**
-- 🏷️: `zeroscope`, `generar video IA`, `open source`, `huggingface models`
+  **“¡AnimateDiff llevado al siguiente nivel! 😱✨”**
+- 🏷️: `animatediff evolved`, `text to animation`, `generador video`, `efectos visuales`
 
 ---
 
-## 9. 📼 ModelScope T2V
-- 📦 Qué es: Modelo de texto a video entrenado por DAMO Vision (Alibaba) con resultados estilizados.
-- 🔗 [https://github.com/damo-vilab/modelscope-text-to-video](https://github.com/damo-vilab/modelscope-text-to-video)
-- 💥 Genera secuencias realistas desde texto sin imágenes previas.
+## 9. 🔁 Flow-Free Animate
+- 📦 Qué es: Framework para integrar AnimateDiff + TokenFlow en una sola ejecución local.
+- 🔗 [https://github.com/lllyasviel/flow-free-animate](https://github.com/lllyasviel/flow-free-animate)
+- 💥 Genera videos fluidos IA con control de fotogramas, loops y mejor interpolación de movimiento.
 - 🎬 Título:  
-  **“Alibaba lanzó su propia IA de video… ¡Y FUNCIONA! 🧠🎞️”**
-- 🏷️: `modelscope`, `text to video`, `open ai tools`, `video sin nube`
+  **“VIDEOS IA sin saltos, sin cortes y totalmente local 🎥🔥”**
+- 🏷️: `flow free`, `motion IA`, `anidado animate`, `video fluido local`
 
 ---
 
