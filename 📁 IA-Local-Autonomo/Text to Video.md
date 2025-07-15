@@ -6,23 +6,23 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 1. 🧩 Pinokio App
-- 📦 Qué es: Instalador automatizado de herramientas IA. Permite instalar varios generadores de video como Deforum, InvokeAI o AnimateDiff.
-- 🔗 [https://pinokio.computer](https://pinokio.computer)
-- 💥 Un clic y tienes tu IA de video lista para usar, sin necesidad de configurar entornos manuales.
-- 🎬 Título:  
-  **“Este programa instala TODAS las IAs en tu PC con UN CLIC 😱”**
-- 🏷️: `pinokio ai`, `text to video local`, `sin internet`, `libertad creativa`, `video generator offline`
+## 1. 💥 Wan2.1-T2V – Modelo potente de texto a video (14B)
+- 📦 **Qué es**: Suite de modelos T2V (1.3B y 14B parámetros) desarrollada por Wan-AI, con demo local y soporte multi-GPU.
+- 🔗 [https://github.com/Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1)
+- 💥 Capaz de generar videos 480P/720P, incluso sin GPU top-end — requiere al menos ~8 GB VRAM.  
+- 🎬 **Título**:  
+  **“Wan2.1: Text‑to‑Video potente directo en tu PC 🚀🎬”**
+- 🏷️: `wan2.1`, `text to video local`, `multigpu`, `wan ai`, `video 14b`
 
 ---
 
-## 2. 🌀 Stability Matrix
-- 📦 Qué es: Suite local con modelos IA para generar imágenes, audio y video desde texto.
-- 🔗 [https://lykos.ai](https://lykos.ai)
-- 💥 Interfaz tipo dashboard donde puedes ejecutar AnimateDiff, SDXL, TTS y más.
-- 🎬 Título:  
-  **“LIBÉRATE de la nube con esta IA que se instala sola 💻⚡”**
-- 🏷️: `stability matrix`, `crear videos local`, `generador texto a video`, `sin conexión`
+## 2. 🎥 Text2Video-Zero – Zero‑Shot desde Diffusion IA
+- 📦 **Qué es**: Herramienta sin entrenamiento que convierte texto en video usando modelos de imagen (Stable Diffusion) y atención cruzada entre frames.
+- 🔗 [https://github.com/Picsart-AI-Research/Text2Video-Zero](https://github.com/Picsart-AI-Research/Text2Video-Zero)
+- 💥 Aprovecha modelos ya entrenados para generar clips cortos sin costo de entrenamiento.
+- 🎬 **Título**:  
+  **“Text‑to‑Video sin entrenar, usando solo difusores y frescura IA 🎞️✨”**
+- 🏷️: `text2video zero`, `stable diffusion`, `sin entrenamiento`, `video light`
 
 ---
 
