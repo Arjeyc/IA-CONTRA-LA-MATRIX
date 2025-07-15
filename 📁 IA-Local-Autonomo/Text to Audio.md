@@ -6,13 +6,13 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 1. 🧩 Pinokio App
-- 📦 **Qué es**: Un instalador de herramientas IA con 1 solo clic, entre ellas varios sistemas de texto a voz.
-- 🔗 [https://pinokio.computer](https://pinokio.computer)
-- 💥 Puedes instalar: Bark, Tortoise TTS, Coqui, OpenVoice, entre otros.
-- 🎬 **Título**:
-  **“Instala todas las voces IA LOCAMENTE con un solo clic 😱🧠”**
-- 🏷️: `pinokio ai`, `tts offline`, `voz IA en PC`, `local AI launcher`
+## 1. 🐤 Nix-TTS – Vocalización ultraligera
+- 📦 **Qué es**: Modelo TTS minimalista con solo ~5 M parámetros, ideal para CPUs o dispositivos limitados.
+- 🔗 [https://github.com/rendchevi/nix-tts](https://github.com/rendchevi/nix-tts)
+- 💥 Funciona 10× más rápido que tiempo real en CPU, incluso en Raspberry Pi :contentReference[oaicite:2]{index=2}.
+- 🎬 **Título**:  
+  **“Voz IA ultraligera y rápida: corre incluso en Raspberry Pi 🐢”**
+- 🏷️: `nix-tts`, `lightweight tts`, `cpu tts`, `offline voice`
 
 ---
 
