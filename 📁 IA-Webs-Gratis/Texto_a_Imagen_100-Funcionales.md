@@ -463,23 +463,23 @@
 
 ---
 
-## 47. [GetIMG.ai](https://getimg.ai/) 🧠
+## 47. [Realistic Image Generator (themohammedml) — Hugging Face Space](https://huggingface.co/spaces/themohammedml/Realistic-Image-Generator-Model) 📷
 
-- 📋 **Qué es**: Plataforma completa para generación de imágenes desde texto, imagen a imagen, edición y expansión IA.
-- 🔐 Registro: SÍ necesario (admite correos desechables).
-- 🎟️ Créditos: Te otorgan **100 créditos gratis** al registrarte. Cada imagen consume entre 1 y 4 créditos según resolución y función.
-- 🛠️ Extras: Modelos SDXL, Realistic Vision, Playground V2, edición con IA (Inpainting), expandir imagen (Outpainting), modo Turbo y control de aspecto.
-- 🎯 Beneficio: Ideal para creadores que buscan precisión, edición avanzada o producción visual para marcas y contenido profesional.
+- 📋 **Qué es**: Generador IA que crea imágenes **fotorrealistas de alta calidad** a partir de texto, usando Stable Diffusion.
+- 🔐 **Registro**: NO necesario; funciona directo en el navegador.  
+- ♾️ **Uso**: Ilimitado mientras el Space esté activo.  
+- 🛠️ **Extras**: Interfaz sencilla, enfocada en resultados realistas sin complejidad. :contentReference[oaicite:1]{index=1}  
+- 🎯 **Beneficio**: Ideal para contenido visual realista, miniaturas detalladas y narrativas fotográficas sin cuentas ni instalación.
 
 ---
 
-## 48. [CF Spark Art – Creative Fabrica](https://www.creativefabrica.com/spark/art/) ✨
+## 48. [PixNova AI – Free Realistic Image Generator](https://pixnova.ai/free-realistic-ai-image-generator/) 🌟
 
-- 📋 **Qué es**: Generador IA orientado a diseño artístico, ilustraciones y recursos gráficos. Pertenece a la red de Creative Fabrica.
-- 🔐 Registro: SÍ necesario (puedes usar correo temporal). Login muy rápido.
-- ♾️ Uso: Ilimitado, sin créditos ni límites visibles en versión gratuita.
-- 🛠️ Extras: Estilos artísticos, prompts sugeridos, herramientas para crear fondos, patrones, y contenido imprimible. Permite compartir creaciones públicas.
-- 🎯 Beneficio: Genial para diseñadores, artistas, creadores de recursos imprimibles o digitales. Comunidad activa y resultados de calidad sin marcas.
+- 📋 **Qué es**: Generador IA orientado a imágenes fotorealistas (paisaje, retrato, producto, anime).
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin marcas de agua y sin límites conocidos.
+- 🛠️ **Extras**: Soporta múltiples estilos; también ofrece herramientas de face swap, logo generator, background remover.
+- 🎯 **Beneficio**: Perfecto para creaciones visuales proceso rápido, realistas y versátiles.
 
 ---
 
