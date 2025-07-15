@@ -106,13 +106,13 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 10. 🎤 WhaleTTS (Lightweight Fast TTS)
-- 📦 **Qué es**: Motor de texto a voz ultra rápido con modelos livianos y soporte multilenguaje.
-- 🔗 [https://github.com/whaleloops/whale-tts](https://github.com/whaleloops/whale-tts)
-- 💥 Perfecto para generar voz en tiempo real desde texto sin consumir mucha memoria.
+# 10. 🎙️ Rupu TTS – App sencilla con GUI (Coqui‑based)
+- 📦 **Qué es**: Aplicación de escritorio liviana para generar audio desde texto sin necesidad de instalar dependencias complejas.
+- 🔗 [https://github.com/ruputron/rupu_tts](https://github.com/ruputron/rupu_tts)
+- 💥 Basada en Coqui TTS, permite exportar archivos .wav/.mp3/.flac y funciona completamente offline en Windows.
 - 🎬 **Título**:  
-  **“La VOZ IA más rápida y ligera para tu PC 🐳⚡”**
-- 🏷️: `whaletts`, `voz rápida`, `tts low resource`, `offline voice ai`, `tts multilenguaje`
+  **“Tu voz IA local con un clic: texto a audio rápido y fácil 🎧”**
+- 🏷️: `rupu tts`, `coqui gui`, `text to speech desktop`, `voz sin internet`
 
 ---
 
