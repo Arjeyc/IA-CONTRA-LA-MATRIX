@@ -100,8 +100,7 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 - 📦 **Qué es**: Proyecto de voz sintética que permite usar múltiples voces IA clonadas localmente desde texto.
 - 🔗 [https://github.com/resemble-ai/Resemble-VoiceFusion](https://github.com/resemble-ai/Resemble-VoiceFusion)
 - 💥 Soporta creación de audios realistas con control emocional y variaciones por personaje.
-- 🎬 **Título**:  
-  **“¡Haz hablar a todos tus personajes con esta VOZ IA en tu PC! 🎭💬”**
+- 🎬 **Título**:  **“¡Haz hablar a todos tus personajes con esta VOZ IA en tu PC! 🎭💬”**
 - 🏷️: `voz por personajes`, `tts local`, `voicefusion`, `resemble ai`, `voz IA sin internet`
 
 ---
@@ -110,8 +109,7 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 - 📦 **Qué es**: Aplicación de escritorio liviana para generar audio desde texto sin necesidad de instalar dependencias complejas.
 - 🔗 [https://github.com/ruputron/rupu_tts](https://github.com/ruputron/rupu_tts)
 - 💥 Basada en Coqui TTS, permite exportar archivos .wav/.mp3/.flac y funciona completamente offline en Windows.
-- 🎬 **Título**:  
-  **“Tu voz IA local con un clic: texto a audio rápido y fácil 🎧”**
+- 🎬 **Título**:  **“Tu voz IA local con un clic: texto a audio rápido y fácil 🎧”**
 - 🏷️: `rupu tts`, `coqui gui`, `text to speech desktop`, `voz sin internet`
 
 ---
