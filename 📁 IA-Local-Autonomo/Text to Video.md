@@ -76,37 +76,7 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 8. 🎞️ CogVideoX – Modelo base text‑to‑video
-- 📦 **Qué es**: Modelo open-source de texto y/o imagen a video, desarrollado por THUDM, usado dentro de CogVideoUI o manualmente.
-- 🔗 [https://github.com/THUDM/CogVideo](https://github.com/THUDM/CogVideo)
-- 💥 Clips de 4 segundos coherentes, funciona local con GPU decente.
-- 🎬 **Título**:  
-  **“CogVideoX: controla tus clips IA con modelo Transformers localmente 💻✨”**
-- 🏷️: `cogvideox`, `transformer video`, `text to video ai`, `local execution`
-
----
-
-## 9. 🎬 genai-video-generation – Wrappers Modelo‑rápido
-- 📦 **Qué es**: Wrappers estandarizados para varios modelos T2V, simplificando su uso local.
-- 🔗 [https://github.com/matyasbohacek/genai-video-generation](https://github.com/matyasbohacek/genai-video-generation)
-- 💥 Unifica VideoCrafter, CogVideoX, Animatediff… todo desde línea de comando o script Python.
-- 🎬 **Título**:  
-  **“Unifica todos los modelos T2V en un solo lanzador fácil 🔧📹”**
-- 🏷️: `genai video`, `text to video wrapper`, `pipeline unificado`, `model inference`
-
----
-
-## 10. 🎥 TextToVideoAI (Phenaki‑PyTorch)
-- 📦 **Qué es**: Library que implementa Phenaki (Meta) + CViViT, permitiendo generar videos largos por texto.
-- 🔗 [https://github.com/TextToVideoAI/TextToVideoAI](https://github.com/TextToVideoAI/TextToVideoAI)
-- 💥 Genera videos de hasta ~1 min en partes secuenciales, usando notebooks o CLI.
-- 🎬 **Título**:  
-  **“Crea videos más largos con IA, directo desde tu PC 💡🎞️”**
-- 🏷️: `phenaki`, `cvivit`, `text to video long`, `video sequence`
-
----
-
-## 11. 🧠 ControlVideo – ControlNet para Video
+## 8. 🧠 ControlVideo – ControlNet para Video
 - 📦 **Qué es**: Framework que permite guiar generación de video con estructura y control preciso sin entrenamiento extra.
 - 🔗 [https://github.com/YBYBZhang/ControlVideo](https://github.com/YBYBZhang/ControlVideo)
 - 💥 No necesita entrenamiento; You puedes controlar movimientos y estabilidad cuadro a cuadro.
@@ -116,7 +86,7 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 12. ⚡ On‑device Sora – Video en móviles y PC
+## 9. ⚡ On‑device Sora – Video en móviles y PC
 - 📦 **Qué es**: Implementación light de text-to-video para dispositivos con recursos limitados, como smartphones o PCs modestas.
 - 🔗 [https://github.com/eai-lab/On-device-Sora](https://github.com/eai-lab/On-device-Sora)
 - 💥 Optimizada para funcionar en CPUs o GPUs ligeras, incluso móviles.
@@ -126,7 +96,7 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 13. 🧮 LTX-Video (Lightricks) – Modelo 13B
+## 10. 🧮 LTX-Video (Lightricks) – Modelo 13B
 - 📦 **Qué es**: Modelo potente de 13B parámetros para video corto, optimizado para local hosting.
 - 🔗 [https://github.com/Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)
 - 💥 Genera video o animate imágenes con buena calidad. Requiere GPU potente.
@@ -136,7 +106,7 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 10. 🔮 MagicAnimate
+## 11. 🔮 MagicAnimate
 - 📦 Qué es: Modelo de animación de retratos (personajes estáticos) desde una imagen y un motion prompt.
 - 🔗 [https://github.com/magic-research/magic-animate](https://github.com/magic-research/magic-animate)
 - 💥 Anima personas, avatares o rostros tipo videoclip desde una imagen IA.
@@ -146,7 +116,7 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 11. 🛠️ ComfyUI + AnimateDiff Pipeline
+## 12. 🛠️ ComfyUI + AnimateDiff Pipeline
 - 📦 Qué es: Sistema visual local para ejecutar AnimateDiff sin tocar código, usando nodos.
 - 🔗 [https://github.com/comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 - 💥 Ideal para quienes prefieren no usar terminales. Arrastras nodos, cargas modelo y generas video.
