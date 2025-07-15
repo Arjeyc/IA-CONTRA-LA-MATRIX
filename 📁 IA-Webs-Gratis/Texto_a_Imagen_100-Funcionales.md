@@ -354,70 +354,10 @@
 
 ---
 
-## 36. [Perchance](https://perchance.org/ai-text-to-image-generator) ✨
+## 36. [TextToImage.org](https://www.texttoimage.org/) 🖋️
 
-- 📋 **Qué es**: Generador IA sin login que permite crear imágenes (animé, arte, cómic, realismo) desde texto.
-- 🔐 **Registro**: NO necesario; entras y generas de inmediato.
-- ♾️ **Uso**: Ilimitado, sin tokens ni bloqueos.
-- 🛠️ **Extras**: Genera lotes de hasta 4 imágenes por prompt en alta calidad.
-- 🎯 **Beneficio**: Ideal para brainstorming visual al instante, sin fricción técnica. 
-
----
-
-## 37. [Botlore AI Image Generator](https://botlore.com/ai-image-generator) 🤖
-
-- 📋 **Qué es**: Herramienta fiable que convierte texto en imágenes (fotografía, arte digital, anime) sin registro.
+- 📋 **Qué es**: Plataforma muy sencilla que convierte texto en imágenes con resolución de 1024×1024 vía IA.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin marcas de agua ni anuncios.
-- 🛠️ **Extras**: Permite elegir proporción y resolución, descarga HD directamente.
-- 🎯 **Beneficio**: Perfecto para creadores que buscan calidad rápida y sin registros. 
-
----
-
-## 38. [TextToImage.org](https://www.texttoimage.org/) 🖋️
-
-- 📋 **Qué es**: Sitio ultra simple que transforma texto en imágenes 1024×1024 con IA.
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Hasta 10 imágenes gratuitas al día, luego recarga.
-- 🛠️ **Extras**: Ajustes básicos como tamaño, rapidez, sin opciones avanzadas — simple y directo.
-- 🎯 **Beneficio**: Excelente comienzo para principiantes o tests rápidos de contenido visual. 
-
----
-
-## 39. [AIImageGenerator.io](https://aiimagegenerator.io/) 🎯
-
-- 📋 **Qué es**: Plataforma que integra modelos como DALL·E 3, SD3 y SDXL para text → imagen sin registro.
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin tokens, sin límites por día.
-- 🛠️ **Extras**: Más de 70 estilos, presets variados, control de modelo, aspecto y cantidad.
-- 🎯 **Beneficio**: Versátil y poderosa, perfecta para creadores que desean variedad y calidad.
-
----
-
-## 40. [GenFreeAI](https://genfreeai.com/) 🆓
-
-- 📋 **Qué es**: Herramienta de texto a imagen simple con IA, sin login ni límites.
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado y totalmente gratuito.
-- 🛠️ **Extras**: Genera en distintos tamaños y permite descarga inmediata.
-- 🎯 **Beneficio**: Ideal para creaciones rápidas, bocetos visuales o primeros planteamientos. 
-
----
-
-## 41. [Halfmoon AI](https://halfmoon-ai.com/) 🌙
-
-- 📋 **Qué es**: Generador AI potente, rápido y sin login (modelo Halfmoon Image 1.0).
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado, sin tokens ni restricciones.
-- 🛠️ **Extras**: Permite distintos formatos (16:9, 9:16, 1:1, 4:3), varios estilos (fantasía, sketch, foto).
-- 🎯 **Beneficio**: Super completo para usuarios que quieren control con cero fricción.
----
-
-## 42. [MagicHour AI Image Generator](https://magichour.ai/products/ai-image-generator) 🌌
-
-- 📋 **Qué es**: Herramienta de texto a imagen que funciona sin login, con estilos creativos.
-- 🔐 **Registro**: NO necesario para generar resultados.
-- 🎟️ **Créditos**: Puedes generar varias imágenes gratis; incluye límite diario antes de pedir registro.
-- 🛠️ **Extras**: Estilos variados (anime, logo, mapa, etc.), generan dos por prompt.
-- 🎯 **Beneficio**: Perfecto para crear contenido temático diario y explorar géneros variados. 
-
+- ♾️ **Uso**: Hasta 10 imágenes gratis por IP al día; luego se recarga con cada nueva sesión.
+- 🛠️ **Extras**: Parámetros ajustar tamaño y velocidad, sin configuraciones extensas.
+- 🎯 **Beneficio**: Genial para tests rápidos o primeros bocetos visuales.
