@@ -463,23 +463,23 @@
 
 ---
 
-# 47. [ThinkDiffusion AI Lab](https://thinkdiffusion.com/demos) 🧪
+## 47. [GetIMG.ai](https://getimg.ai/) 🧠
 
-- 📋 **Qué es**: Plataforma web avanzada para generar imágenes con modelos como SDXL, Realistic Vision y más, con previews instantáneas.
-- 🔐 Registro: NO necesario para usar demos.
-- ♾️ Uso: Ilimitado en modo de demostración (sin personalización de cuenta).
-- 🛠️ Extras: Control de resolución, modelo, estilo, referencias visuales e incluso variantes de imagen.
-- 🎯 Beneficio: Gran punto de partida para explorar modelos avanzados sin necesidad de instalar nada ni registrarse.
+- 📋 **Qué es**: Plataforma completa para generación de imágenes desde texto, imagen a imagen, edición y expansión IA.
+- 🔐 Registro: SÍ necesario (admite correos desechables).
+- 🎟️ Créditos: Te otorgan **100 créditos gratis** al registrarte. Cada imagen consume entre 1 y 4 créditos según resolución y función.
+- 🛠️ Extras: Modelos SDXL, Realistic Vision, Playground V2, edición con IA (Inpainting), expandir imagen (Outpainting), modo Turbo y control de aspecto.
+- 🎯 Beneficio: Ideal para creadores que buscan precisión, edición avanzada o producción visual para marcas y contenido profesional.
 
 ---
 
-## 48. [Leonardo AI](https://leonardo.ai/) 💡
+## 48. [CF Spark Art – Creative Fabrica](https://www.creativefabrica.com/spark/art/) ✨
 
-- 📋 **Qué es**: Plataforma profesional para imágenes realistas, concept art y más.
-- 🔐 **Registro**: SÍ (requisitos mínimos, puedes usar email temporal).
-- 🎟️ **Créditos**: 150 tokens diarios gratis, se renuevan cada 24 h.
-- 🛠️ **Extras**: Canvas editable, estilos variados, escala HD, imagen-a-imagen y comunidad.  
-- 🎯 **Beneficio**: Calidad profesional y control total, ideal para contenido visual premium.
+- 📋 **Qué es**: Generador IA orientado a diseño artístico, ilustraciones y recursos gráficos. Pertenece a la red de Creative Fabrica.
+- 🔐 Registro: SÍ necesario (puedes usar correo temporal). Login muy rápido.
+- ♾️ Uso: Ilimitado, sin créditos ni límites visibles en versión gratuita.
+- 🛠️ Extras: Estilos artísticos, prompts sugeridos, herramientas para crear fondos, patrones, y contenido imprimible. Permite compartir creaciones públicas.
+- 🎯 Beneficio: Genial para diseñadores, artistas, creadores de recursos imprimibles o digitales. Comunidad activa y resultados de calidad sin marcas.
 
 ---
 
