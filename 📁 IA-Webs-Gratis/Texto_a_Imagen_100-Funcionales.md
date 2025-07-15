@@ -433,13 +433,13 @@
 
 ---
 
-## 44. [Stable Diffusion 2‑1 (stabilityai) — Hugging Face Space](https://huggingface.co/spaces/stabilityai/stable-diffusion) 🛠️
+## 44. [DreamStudio – Stable Diffusion](https://dreamstudio.stability.ai/) 🌌
 
-- 📋 **Qué es**: Interfaz oficial de Stability AI que usa Stable Diffusion 2.1 para generar imágenes con calidad profesional.
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado mientras el Space esté activo. :contentReference[oaicite:1]{index=1}
-- 🛠️ **Extras**: Permite prompt negativo, ajustar guidance scale y resolution.
-- 🎯 **Beneficio**: Acceso directo al motor más sólido sin cuentas ni instalaciones.
+- 📋 **Qué es**: Plataforma oficial de Stability AI para generar imágenes con modelos como SD 1.5, 2.1 y SDXL.
+- 🔐 Registro: SÍ es necesario (puedes usar correo desechable sin problemas).
+- 🎟️ Créditos: Te dan 25 créditos gratis al registrarte (cada imagen puede costar entre 1 y 4 créditos dependiendo del modelo y tamaño).
+- 🛠️ Extras: Control de steps, tamaño, guidance scale, estilo, modelo, prompts negativos, y variaciones.
+- 🎯 Beneficio: Resultados profesionales con control completo sobre la generación; ideal para diseñadores, creativos o uso comercial puntual.
 
 ---
 
@@ -463,13 +463,13 @@
 
 ---
 
-## 47. [Text‑to‑Image (gaxih) — Hugging Face Space](https://huggingface.co/spaces/gaxih/text-to-image) 🌟
+# 47. [ThinkDiffusion AI Lab](https://thinkdiffusion.com/demos) 🧪
 
-- 📋 **Qué es**: Espacio de Gradio que genera imágenes desde tus descripciones con buena estética.
-- 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado mientras el Space esté activo.
-- 🛠️ **Extras**: Permite elegir estilo, proporción y control de calidad. :contentReference[oaicite:3]{index=3}
-- 🎯 **Beneficio**: Directo y fácil, ideal para generar contenido rápidamente sin complicaciones.
+- 📋 **Qué es**: Plataforma web avanzada para generar imágenes con modelos como SDXL, Realistic Vision y más, con previews instantáneas.
+- 🔐 Registro: NO necesario para usar demos.
+- ♾️ Uso: Ilimitado en modo de demostración (sin personalización de cuenta).
+- 🛠️ Extras: Control de resolución, modelo, estilo, referencias visuales e incluso variantes de imagen.
+- 🎯 Beneficio: Gran punto de partida para explorar modelos avanzados sin necesidad de instalar nada ni registrarse.
 
 ---
 
