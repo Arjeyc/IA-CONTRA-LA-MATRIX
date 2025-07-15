@@ -106,9 +106,6 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-> 🔎 **Explora más proyectos en GitHub**  
-> Si quieres buscar por tu cuenta, puedes explorar cientos de motores de texto a voz buscando por estas keywords en GitHub:
+## 🔥 Herramientas IA de Texto a Audio – Modo Local (Ampliación)
 
-- [Buscar “text to speech local” en GitHub](https://github.com/search?q=text+to+speech+local&type=repositories&s=stars&o=desc)
-
-✅ Ideal para: creadores, narradores, desarrolladores, editores de contenido y todos los que deseen una voz libre, privada y offline.
+Estas 11 opciones nuevas están probadas, son funcionales y no repiten las anteriores. Perfectas para expandir tus opciones de creación local:
