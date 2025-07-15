@@ -354,72 +354,70 @@
 
 ---
 
-## 36. [Dreamlike.art](https://dreamlike.art/create) 🌙
+## 36. [Perchance](https://perchance.org/ai-text-to-image-generator) ✨
 
-- 📋 **Qué es**: Plataforma creativa que permite generar imágenes de alta calidad a partir de texto. Usa modelos propios como Dreamlike Diffusion para lograr estilos únicos (realismo, anime, arte conceptual).
-- 🔐 **Registro**: NO necesario para probar; con cuenta puedes generar más imágenes.
-- 🎟️ **Créditos**: 5 imágenes gratis por IP sin registro; si te registras (puede ser con correo desechable), recibes 24 créditos cada 24h.
-- 🛠️ **Extras**: Selección de modelos (SD 1.5, 2.1, etc.), control de pasos, resolución, seed, y estilo.
-- 🎯 **Beneficio**: Ideal para artistas o creadores que quieren calidad y control total sin pagar.
+- 📋 **Qué es**: Generador IA sin login que permite crear imágenes (animé, arte, cómic, realismo) desde texto.
+- 🔐 **Registro**: NO necesario; entras y generas de inmediato.
+- ♾️ **Uso**: Ilimitado, sin tokens ni bloqueos.
+- 🛠️ **Extras**: Genera lotes de hasta 4 imágenes por prompt en alta calidad.
+- 🎯 **Beneficio**: Ideal para brainstorming visual al instante, sin fricción técnica. 
 
 ---
 
-## 37. [RoboArt AI](https://roboart.ai) 🤖
+## 37. [Botlore AI Image Generator](https://botlore.com/ai-image-generator) 🤖
 
-- 📋 **Qué es**: Web IA muy directa y funcional para generar imágenes desde texto en segundos. Ofrece múltiples estilos como retrato, dibujo, paisaje y arte digital.
+- 📋 **Qué es**: Herramienta fiable que convierte texto en imágenes (fotografía, arte digital, anime) sin registro.
 - 🔐 **Registro**: NO necesario.
-- ♾️ **Uso**: Ilimitado. No hay créditos, ni límite de prompts diarios.
-- 🛠️ **Extras**: Estilos predefinidos, opción de guardar imagen en alta resolución, sin marcas de agua.
-- 🎯 **Beneficio**: Muy útil para quienes quieren resultados rápidos y sin complicaciones.
+- ♾️ **Uso**: Ilimitado, sin marcas de agua ni anuncios.
+- 🛠️ **Extras**: Permite elegir proporción y resolución, descarga HD directamente.
+- 🎯 **Beneficio**: Perfecto para creadores que buscan calidad rápida y sin registros. 
 
 ---
 
-## 38. [ImgCreator.AI](https://imgcreator.ai) 🧠
+## 38. [TextToImage.org](https://www.texttoimage.org/) 🖋️
 
-- 📋 **Qué es**: Herramienta de generación de imágenes con IA desarrollada por DeepBrain AI. Ofrece calidad premium para arte digital.
-- 🔐 **Registro**: NO obligatorio. Puedes generar con restricciones mínimas sin cuenta. Si creas una, mejor aún (acepta correos temporales).
-- 🎟️ **Créditos**: 3 imágenes gratis sin cuenta; con cuenta gratuita puedes conseguir más.
-- 🛠️ **Extras**: Estilos (realismo, cómic, anime, etc.), soporte de imagen a imagen, y editor visual.
-- 🎯 **Beneficio**: Recomendado para creadores que buscan resultados estilizados y una plataforma seria.
-
----
-
-## 39. [ClipDrop – Stable Diffusion](https://clipdrop.co/stable-diffusion) 📦
-
-- 📋 **Qué es**: Interfaz web gratuita para usar el modelo original de Stable Diffusion sin necesidad de instalación.
-- 🔐 **Registro**: NO necesario para probar; con cuenta (incluso temporal) accedes a más funciones.
-- 🎟️ **Créditos**: 50 imágenes mensuales gratis sin cuenta. Con cuenta, más beneficios.
-- 🛠️ **Extras**: Imagen a imagen, upscaler, fondo transparente, remoción de objetos, edición de rostros.
-- 🎯 **Beneficio**: Potente para diseño rápido y herramientas visuales complementarias en una sola web.
+- 📋 **Qué es**: Sitio ultra simple que transforma texto en imágenes 1024×1024 con IA.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Hasta 10 imágenes gratuitas al día, luego recarga.
+- 🛠️ **Extras**: Ajustes básicos como tamaño, rapidez, sin opciones avanzadas — simple y directo.
+- 🎯 **Beneficio**: Excelente comienzo para principiantes o tests rápidos de contenido visual. 
 
 ---
 
-## 40. [Hotpot AI – Editor Libre](https://hotpot.ai/art-generator) 🔥
+## 39. [AIImageGenerator.io](https://aiimagegenerator.io/) 🎯
 
-- 📋 **Qué es**: Aunque su generador principal es de pago, el editor de arte básico permite crear imágenes gratis con pocos clics.
-- 🔐 **Registro**: NO obligatorio para herramientas simples; acepta correos desechables si decides registrarte.
-- ♾️ **Uso**: Ilimitado en la zona libre, aunque funciones avanzadas requieren plan pago.
-- 🛠️ **Extras**: Upscaler, background remover, colorizador de fotos, arte digital rápido.
-- 🎯 **Beneficio**: Excelente para mejorar imágenes o crear artes básicos sin esfuerzo.
-
----
-
-## 41. [MageMaker AI](https://www.magemaker.io/) 🔮
-
-- 📋 **Qué es**: Generador IA enfocado en estilos mágicos, fantasía y ciencia ficción. Muy útil para storytelling visual.
-- 🔐 **Registro**: NO necesario para el generador básico.
-- ♾️ **Uso**: Ilimitado sin cuenta. Con registro (opcional) puedes guardar y compartir.
-- 🛠️ **Extras**: Estilos predefinidos, resolución personalizable y biblioteca de inspiración.
-- 🎯 **Beneficio**: Perfecto para creadores de cuentos, universos visuales o juegos indie.
+- 📋 **Qué es**: Plataforma que integra modelos como DALL·E 3, SD3 y SDXL para text → imagen sin registro.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin tokens, sin límites por día.
+- 🛠️ **Extras**: Más de 70 estilos, presets variados, control de modelo, aspecto y cantidad.
+- 🎯 **Beneficio**: Versátil y poderosa, perfecta para creadores que desean variedad y calidad.
 
 ---
 
-## 42. [Dream Studio Lite (Stable Diffusion)](https://stability.ai/blog/stable-studio) 🧪
+## 40. [GenFreeAI](https://genfreeai.com/) 🆓
 
-- 📋 **Qué es**: La versión oficial y ligera del entorno de Stable Diffusion por Stability AI. Interfaz simplificada y directa al modelo original.
-- 🔐 **Registro**: SÍ necesario (acepta correos temporales).
-- 🎟️ **Créditos**: 25 imágenes gratis mensuales; se pueden renovar con nuevos correos.
-- 🛠️ **Extras**: Imagen a imagen, control de estilos, tamaño, pasos, orientación, prompt negativo.
-- 🎯 **Beneficio**: Acceso directo al motor más famoso de texto a imagen desde una fuente oficial, ideal para entusiastas.
+- 📋 **Qué es**: Herramienta de texto a imagen simple con IA, sin login ni límites.
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado y totalmente gratuito.
+- 🛠️ **Extras**: Genera en distintos tamaños y permite descarga inmediata.
+- 🎯 **Beneficio**: Ideal para creaciones rápidas, bocetos visuales o primeros planteamientos. 
 
+---
+
+## 41. [Halfmoon AI](https://halfmoon-ai.com/) 🌙
+
+- 📋 **Qué es**: Generador AI potente, rápido y sin login (modelo Halfmoon Image 1.0).
+- 🔐 **Registro**: NO necesario.
+- ♾️ **Uso**: Ilimitado, sin tokens ni restricciones.
+- 🛠️ **Extras**: Permite distintos formatos (16:9, 9:16, 1:1, 4:3), varios estilos (fantasía, sketch, foto).
+- 🎯 **Beneficio**: Super completo para usuarios que quieren control con cero fricción.
+---
+
+## 42. [MagicHour AI Image Generator](https://magichour.ai/products/ai-image-generator) 🌌
+
+- 📋 **Qué es**: Herramienta de texto a imagen que funciona sin login, con estilos creativos.
+- 🔐 **Registro**: NO necesario para generar resultados.
+- 🎟️ **Créditos**: Puedes generar varias imágenes gratis; incluye límite diario antes de pedir registro.
+- 🛠️ **Extras**: Estilos variados (anime, logo, mapa, etc.), generan dos por prompt.
+- 🎯 **Beneficio**: Perfecto para crear contenido temático diario y explorar géneros variados. 
 
