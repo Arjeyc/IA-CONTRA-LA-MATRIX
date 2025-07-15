@@ -106,5 +106,91 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
+## 12. 🖥️ StableStudio
+- 📦 **Qué es**: App con interfaz gráfica local para ejecutar modelos como SD 1.5/2.1/XL, incluye inpainting y img2img.
+- 🔗 [https://github.com/Gellif/Wizard-Vicuna-ui](https://github.com/Gellif/Wizard-Vicuna-ui) *(repositorio adaptado)*
+- 💥 Local, sin código, interfaz moderna y estable.
+- 🎬 **Título**: “Convierte tu PC en un estudio de arte IA sin complicaciones 🎨✨”
+- 🏷️: `stablestudio`, `text to image local`, `inpainting`, `img2img`, `sin internet`
 
+---
+
+## 13. 🎞️ Diffusion UI
+- 📦 **Qué es**: Interfaz ligera y minimalista para ejecutar Stable Diffusion localmente desde tu navegador.
+- 🔗 [https://github.com/camenduru/diffusion-ui](https://github.com/camenduru/diffusion-ui)
+- 💥 Rápido, limpio, sin fricción ni instalación manual; ideal para PCs menos potentes.
+- 🎬 **Título**: “La forma más rápida de generar imágenes en tu PC local ⚡🖼️”
+- 🏷️: `diffusion-ui`, `sd local`, `text to image`, `interfaz minimal`, `offline`
+
+---
+
+## 14. 🌌 InvokeAI (Lite)
+- 📦 **Qué es**: Versión simplificada de InvokeAI, más ligera y rápida para tareas básicas de generación.
+- 🔗 [https://github.com/invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
+- 💥 Menos dependencias, enfoque minimalista para crear arte sin complejidad.
+- 🎬 **Título**: “La misma potencia INVOKE, sin tanta paja innecesaria 💡🎨”
+- 🏷️: `invokeai lite`, `generador simple`, `stable diffusion local`, `text to image offline`
+
+---
+
+## 15. 🌿 ArtRoom
+- 📦 **Qué es**: Entorno de escritorio para Windows con todo lo necesario para generación y edición de imágenes local.
+- 🔗 [https://github.com/MrVoidG/ArtRoom](https://github.com/MrVoidG/ArtRoom)
+- 💥 Interfaz amigable y adaptada a artistas y creadores visuales.
+- 🎬 **Título**: “Estudio de arte IA en tu PC, sin líneas de código 🎨💻”
+- 🏷️: `artroom ai`, `paint local`, `stable diffusion`, `editor`, `offline`
+
+---
+
+## 16. 🪄 A1111 Gradio Tray
+- 📦 **Qué es**: Wrapper minimalista para AUTOMATIC1111 que lanza desde la bandeja del sistema.
+- 🔗 [https://github.com/jexom/gradio-tray](https://github.com/jexom/gradio-tray)
+- 💥 Todo al alcance de un clic, ideal para flujo rápido y sencillo.
+- 🎬 **Título**: “Tu generador IA siempre a mano con un solo click 🎯🧠”
+- 🏷️: `gradio tray`, `automatic1111`, `one click`, `local ai`, `inmediato`
+
+---
+
+## 17. 🧰 InvokeAI Desktop
+- 📦 **Qué es**: Variante con interfaz nativa para Windows/macOS basada en InvokeAI.
+- 🔗 [https://github.com/kastnerkyle/invokeai-desktop](https://github.com/kastnerkyle/invokeai-desktop)
+- 💥 Todo lo de InvokeAI pero con ventana independiente, sin navegador.
+- 🎬 **Título**: “InvokeAI se convierte en tu app nativa: clic y a generar 🎬⚡”
+- 🏷️: `invokeai desktop`, `text to image`, `sin navegador`, `generador local app`, `stable diffusion`
+
+---
+
+## 18. 🧩 Diffuse Us
+- 📦 **Qué es**: Cliente GUI multiplataforma que conecta con SD local y controla generaciones desde app.
+- 🔗 [https://github.com/toriato/diffuse-us](https://github.com/toriato/diffuse-us)
+- 💥 Interfaz limpia y diseño pensado para creadores multimedia.
+- 🎬 **Título**: “Crea arte IA en tu PC con una app bien pulida 🎨💼”
+- 🏷️: `diffuse us`, `sd client`, `graphic gui`, `local ai`, `text to image`
+
+---
+
+## 19. 🧪 Lamini UI
+- 📦 **Qué es**: Interfaz desktop simplificada para correr modelos text-to-image y también texto simple.
+- 🔗 [https://github.com/lamini-ai/lamini](https://github.com/lamini-ai/lamini)
+- 💥 Ideal para uso mixto: imagen + texto, todo en local.
+- 🎬 **Título**: “IA múltiple: chat + imagen en una sola app local 💥”
+- 🏷️: `lamini ui`, `chat + img`, `local ai`, `text to image`, `text generación`
+
+---
+
+## 20. 🧠 MiniChain UI
+- 📦 **Qué es**: App basada en Electron que corre Stable Diffusion y TinyLlama localmente.
+- 🔗 [https://github.com/LikhitSadangi/MiniChain](https://github.com/LikhitSadangi/MiniChain)
+- 💥 Muy ligera, para PCs modestos o para correr modelos base.
+- 🎬 **Título**: “IA compacta: imagen y texto en local, sin quemar la PC 🔥💡”
+- 🏷️: `minichain`, `electron ai`, `text to image`, `tiny llama`, `offline`
+
+---
+
+## 21. 🎛️ AutoSD GUI
+- 📦 **Qué es**: Interfaz para automatizar flujos de Stable Diffusion, generación y post-procesado.
+- 🔗 [https://github.com/justinjohn0306/autosd-webui](https://github.com/justinjohn0306/autosd-webui)
+- 💥 Diseñado para productividad rápida y generación continua.
+- 🎬 **Título**: “Proyectos de arte IA: genera, guarda y repite sin esfuerzo 🛠️🎨”
+- 🏷️: `autosd`, `stable diffusion`, `automation`, `local ai`, `generador de arte`
 
