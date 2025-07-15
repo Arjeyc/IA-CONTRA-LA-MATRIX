@@ -66,33 +66,73 @@ Son 100% gratis, sin conexión a internet una vez instaladas.
 
 ---
 
-## 7. 🎞️ VideoCrafter2 (Text to Video desde cero)
-- 📦 Qué es: Modelo avanzado de generación de video desde texto, creado por OpenGVLab. Funciona en local con instrucciones claras.
-- 🔗 [https://github.com/OpenGVLab/VideoCrafter](https://github.com/OpenGVLab/VideoCrafter)
-- 💥 Capaz de crear clips de video de 4 a 8 segundos desde un prompt, sin imagen previa.
-- 🎬 Título:
-  **“¿Texto a video sin conexión? Prueba VideoCrafter2 en tu PC 😮🎬”**
-- 🏷️: `videocrafter2`, `generador video local`, `text to video`, `video ai offline`
+## 7. 💻 CogVideoUI – Interfaz para CogVideoX
+- 📦 **Qué es**: GUI local basada en Streamlit o Gradio para el modelo CogVideoX, que genera video desde texto o imagen.
+- 🔗 [https://github.com/TanaroSch/CogVideoUI](https://github.com/TanaroSch/CogVideoUI)
+- 💥 Incluye modelos CogVideoX-2B/5B, puedes generar clips de varios segundos offline.
+- 🎬 **Título**:  
+  **“Mira tu texto convertirse en video con CogVideoX – todo en tu PC 😱🎥”**
+- 🏷️: `cogvideo ui`, `streamlit video`, `text to video local`, `cogvideo offline`
 
 ---
 
-## 8. 🛠️ SVD Turbo (HuggingFace + local)
-- 📦 Qué es: Implementación optimizada del modelo SVD-Turbo para generar videos más rápido en local.
-- 🔗 [https://github.com/Dao-AILab/svd-turbo](https://github.com/Dao-AILab/svd-turbo)
-- 💥 Convierte una imagen (hecha por texto o no) en un video corto y fluido con pocos recursos.
-- 🎬 Título:
-  **“¡Crea video animado desde una imagen con IA LOCAL! 🚀📸”**
-- 🏷️: `svd turbo`, `video desde imagen`, `generador video pc`, `text to video fusion`
+## 8. 🎞️ CogVideoX – Modelo base text‑to‑video
+- 📦 **Qué es**: Modelo open-source de texto y/o imagen a video, desarrollado por THUDM, usado dentro de CogVideoUI o manualmente.
+- 🔗 [https://github.com/THUDM/CogVideo](https://github.com/THUDM/CogVideo)
+- 💥 Clips de 4 segundos coherentes, funciona local con GPU decente.
+- 🎬 **Título**:  
+  **“CogVideoX: controla tus clips IA con modelo Transformers localmente 💻✨”**
+- 🏷️: `cogvideox`, `transformer video`, `text to video ai`, `local execution`
 
 ---
 
-## 9. 🧱 InvokeAI + Motion Plugin
-- 📦 Qué es: Sistema completo tipo AUTOMATIC1111 con plugin de animación para crear video desde texto + imagen.
-- 🔗 [https://github.com/invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI)
-- 💥 Interfaz limpia, con extensiones para animaciones interpoladas. Puedes usar imágenes creadas por SDXL o prompt directo.
-- 🎬 Título:
-  **“¡Tu IA local de imagen ahora también crea VIDEO! 😲🎥”**
-- 🏷️: `invokeai`, `video desde texto`, `stable diffusion motion`, `text to video local`
+## 9. 🎬 genai-video-generation – Wrappers Modelo‑rápido
+- 📦 **Qué es**: Wrappers estandarizados para varios modelos T2V, simplificando su uso local.
+- 🔗 [https://github.com/matyasbohacek/genai-video-generation](https://github.com/matyasbohacek/genai-video-generation)
+- 💥 Unifica VideoCrafter, CogVideoX, Animatediff… todo desde línea de comando o script Python.
+- 🎬 **Título**:  
+  **“Unifica todos los modelos T2V en un solo lanzador fácil 🔧📹”**
+- 🏷️: `genai video`, `text to video wrapper`, `pipeline unificado`, `model inference`
+
+---
+
+## 10. 🎥 TextToVideoAI (Phenaki‑PyTorch)
+- 📦 **Qué es**: Library que implementa Phenaki (Meta) + CViViT, permitiendo generar videos largos por texto.
+- 🔗 [https://github.com/TextToVideoAI/TextToVideoAI](https://github.com/TextToVideoAI/TextToVideoAI)
+- 💥 Genera videos de hasta ~1 min en partes secuenciales, usando notebooks o CLI.
+- 🎬 **Título**:  
+  **“Crea videos más largos con IA, directo desde tu PC 💡🎞️”**
+- 🏷️: `phenaki`, `cvivit`, `text to video long`, `video sequence`
+
+---
+
+## 11. 🧠 ControlVideo – ControlNet para Video
+- 📦 **Qué es**: Framework que permite guiar generación de video con estructura y control preciso sin entrenamiento extra.
+- 🔗 [https://github.com/YBYBZhang/ControlVideo](https://github.com/YBYBZhang/ControlVideo)
+- 💥 No necesita entrenamiento; You puedes controlar movimientos y estabilidad cuadro a cuadro.
+- 🎬 **Título**:  
+  **“Control total del movimiento en tus videos IA 📐🎬”**
+- 🏷️: `controlvideo`, `controlnet video`, `stable video`, `motion control`
+
+---
+
+## 12. ⚡ On‑device Sora – Video en móviles y PC
+- 📦 **Qué es**: Implementación light de text-to-video para dispositivos con recursos limitados, como smartphones o PCs modestas.
+- 🔗 [https://github.com/eai-lab/On-device-Sora](https://github.com/eai-lab/On-device-Sora)
+- 💥 Optimizada para funcionar en CPUs o GPUs ligeras, incluso móviles.
+- 🎬 **Título**:  
+  **“Video IA en tu celular… ¡sin internet! 📱🎞️”**
+- 🏷️: `sora video`, `mobile video ia`, `text to video low‑res`, `on‑device`
+
+---
+
+## 13. 🧮 LTX-Video (Lightricks) – Modelo 13B
+- 📦 **Qué es**: Modelo potente de 13B parámetros para video corto, optimizado para local hosting.
+- 🔗 [https://github.com/Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)
+- 💥 Genera video o animate imágenes con buena calidad. Requiere GPU potente.
+- 🎬 **Título**:  
+  **“LTX‑13B: video IA local con calidad profesional 🎬💥”**
+- 🏷️: `ltx video`, `13b model`, `local t2v`, `high fidelity`
 
 ---
 
