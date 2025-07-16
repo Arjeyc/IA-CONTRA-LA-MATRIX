@@ -86,82 +86,73 @@
 
 ---
 
-## 11. 🌊 Pika Labs
+## 11. 🌊 [Pika Labs](https://www.pika.art)
 - 📦 Qué es: Plataforma avanzada de generación de video desde texto (text-to-video) y animación de imágenes.
-- 🔗 [https://www.pika.art](https://www.pika.art)
 - 💥 Genera videos ultra fluidos en segundos con IA + control de estilo.
 - 🎬 Título:
   **“¡ESTA IA convierte tus ideas en videos ANIMADOS alucinantes! 🎥🔥”**
 - 🏷️: `text to video`, `pika labs`, `crear videos con IA`, `animaciones IA`, `generador IA`
 
-## 12. 🎞️ Runway ML (Gen-2)
+## 12. 🎞️ [Runway ML (Gen-2)](https://runwayml.com)
 - 📦 Qué es: IA profesional de video que convierte texto en video, imagen en video o extiende videos.
-- 🔗 [https://runwayml.com](https://runwayml.com)
 - 💥 Usada en películas y campañas reales. Gen-2 es líder en el mercado.
 - 🎬 Título:
   **“La IA de HOLLYWOOD que convierte texto en video 🎬✨”**
 - 🏷️: `runwayml`, `gen-2`, `text to video`, `video profesional`, `inteligencia artificial creativa`
 
-## 13. 🔮 Kling AI
+## 13. 🔮 [Kling AI](https://kling.zhiyuan.ai)
 - 📦 Qué es: Potente IA china de generación de video a partir de texto o imagen, con calidad cinematográfica.
-- 🔗 [https://kling.zhiyuan.ai](https://kling.zhiyuan.ai)
 - 💥 Genera videos hiperrealistas y efectos especiales desde texto.
 - 🎬 Título:
   **“¡Esta IA hace películas con solo una frase! 😳🎥”**
 - 🏷️: `kling ai`, `video desde texto`, `cine IA`, `crear cortos IA`, `generador chino`
 
-## 14. 🧠 Haiper
+## 14. 🧠 [Haiper](https://haiper.ai)
 - 📦 Qué es: Herramienta de generación de video a partir de texto, imagen y estilo. De los creadores de DeepMind.
-- 🔗 [https://haiper.ai](https://haiper.ai)
 - 💥 Produce clips estilizados, rápidos y personalizables.
 - 🎬 Título:
   **“La nueva IA de DeepMind crea VIDEOS con tu IMAGINACIÓN 💡🎥”**
 - 🏷️: `haiper`, `deepmind video`, `generador de clips`, `text to video`, `video IA`
 
-## 15. 🤖 Luma AI (Dream Machine)
+## 15. 🤖 [Luma AI (Dream Machine)](https://lumalabs.ai)
 - 📦 Qué es: Generador de video 4K desde texto con IA basada en reconstrucción 3D.
-- 🔗 [https://lumalabs.ai](https://lumalabs.ai)
 - 💥 Enfocada en crear escenas con profundidad realista y motion natural.
 - 🎬 Título:
   **“¡Crea mundos reales con solo escribir una frase! 🪐📽️”**
 - 🏷️: `luma ai`, `dream machine`, `video en 3d`, `realidad IA`, `escenarios IA`
 
-## 16. ⚡ Veo by Google DeepMind
+## 16. ⚡ [Veo by Google DeepMind](https://deepmind.google/technologies/veo)
 - 📦 Qué es: Generador de video ultra avanzado (1080p, 30fps, coherente) desde texto, imagen o edición guiada.
-- 🔗 [https://deepmind.google/technologies/veo](https://deepmind.google/technologies/veo)
 - 💥 Aún en acceso limitado, pero es el futuro del cine IA.
 - 🎬 Título:
   **“GOOGLE creó la IA de video MÁS POTENTE del mundo 🔥🎬”**
 - 🏷️: `veo`, `deepmind`, `video IA`, `generador futurista`, `cine digital`
 
-## 17. 🗣️ HeyGen (con AI Video)
+## 17. 🗣️ [HeyGen (con AI Video)](https://www.heygen.com)
 - 📦 Qué es: Plataforma de avatares parlantes que ahora incluye video desde texto con IA generativa.
-- 🔗 [https://www.heygen.com](https://www.heygen.com)
 - 💥 De texto a video animado con voz realista e intérprete visual.
 - 🎬 Título:
   **“Habla con un avatar que CREA videos desde tu texto 😱🎤🎬”**
 - 🏷️: `heygen`, `avatar IA`, `text to video`, `voz generativa`, `video corto AI`
 
-## 18. 💻 Sora (OpenAI)
+## 18. 💻 [Sora (OpenAI)](https://openai.com/sora)
 - 📦 Qué es: Modelo experimental de OpenAI para convertir texto en video largo, coherente y realista.
-- 🔗 [https://openai.com/sora](https://openai.com/sora)
 - 💥 Aún en acceso cerrado, pero es la visión completa de cine IA.
 - 🎬 Título:
   **“OPENAI presenta la IA que reemplazará a Hollywood 😳🎬”**
 - 🏷️: `sora`, `openai video`, `cine con IA`, `crear películas IA`, `video realista`
 
-## 19. 🎥 Animoto AI
+## 19. 🎥 [Animoto AI](https://animoto.com)
 - 📦 Qué es: Plataforma de creación de videos automática con plantillas, música y estilo desde prompts.
-- 🔗 [https://animoto.com](https://animoto.com)
 - 💥 Para marketing, educación y contenido rápido desde texto o ideas.
 - 🎬 Título:
   **“Crea VIDEOS con estilo sin saber editar ¡solo con IA! 😍📹”**
 - 🏷️: `animoto`, `generador de videos`, `text to video`, `video rápido`, `plantillas IA`
 
-## 20. 🌀 Visla AI
+## 20. 🌀 [Visla AI](https://www.visla.us)
 - 📦 Qué es: Generador de video y presentación tipo storytelling desde texto, usando imágenes, subtítulos y música.
-- 🔗 [https://www.visla.us](https://www.visla.us)
 - 💥 Ideal para creadores que necesitan impacto visual desde una idea escrita.
 - 🎬 Título:
   **“Conviértete en CREADOR VISUAL con esta IA de storytelling 🎤📽️”**
 - 🏷️: `visla ai`, `storytelling video`, `creador de contenido IA`, `text to video`, `video viral`
+
