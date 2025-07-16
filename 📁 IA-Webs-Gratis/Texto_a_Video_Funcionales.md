@@ -264,3 +264,109 @@
   **“Haz VIDEOS increíbles desde texto sin experiencia técnica 🚀🎞️”**
 - 🏷️: `flexclip`, `text to video`, `editor video online`, `videos rápidos`, `plantillas video`
 
+---
+
+## 31. 🎬 [ClipWise](https://www.clipwise.ai)
+- 📦 Qué es: Plataforma para crear videos cortos virales automáticamente desde contenido largo.
+- 💥 Ideal para transformar streams, webinars o videos largos en clips atractivos para redes.
+- 🎮 Título:  
+  **“Convierte videos largos en Shorts virales con esta IA automática 🔥🎥”**
+- 🏷️: `clipwise`, `videos cortos`, `edición automática`, `contenido viral`, `shorts`
+
+---
+
+## 32. ⚡ [SmartShort](https://www.smartshort.co)
+- 📦 Qué es: Generador de videos cortos para marketing y redes sociales con IA.
+- 💥 Crea videos optimizados para captar atención en segundos.
+- 🎮 Título:  
+  **“Crea Shorts para redes sociales en segundos con esta IA súper rápida ⚡🎬”**
+- 🏷️: `smartshort`, `video marketing`, `shorts`, `redes sociales`, `IA video`
+
+---
+
+## 33. 🎥 [EasyVid](https://easyvid.app)
+- 📦 Qué es: Plataforma para crear videos promocionales y sociales con plantillas personalizables.
+- 💥 Genera videos con texto, imágenes y clips en minutos sin experiencia previa.
+- 🎮 Título:  
+  **“Haz videos promocionales rápidos y profesionales con IA fácil de usar 🚀🎞️”**
+- 🏷️: `easyvid`, `videos promocionales`, `plantillas IA`, `marketing digital`, `video fácil`
+
+## 34. 🎞️ [ShortX](https://shortx.ai)
+- 📦 Qué es: Plataforma para crear y editar videos cortos automáticamente para TikTok, YouTube y más.
+- 💥 Automatiza el proceso de edición para maximizar impacto en redes.
+- 🎮 Título:  
+  **“Corta y edita videos para TikTok y YouTube en automático con IA 🎯📲”**
+- 🏷️: `shortx`, `edición automática`, `videos cortos`, `tiktok`, `youtube shorts`
+
+---
+
+## 35. 🔍 [SimilarVideo](https://similarvideo.ai/es)
+- 📦 Qué es: Herramienta IA para encontrar videos similares y crear contenido derivado rápidamente.
+- 💥 Facilita la creación de videos relacionados para aumentar alcance y retención.
+- 🎮 Título:  
+  **“Encuentra videos similares y crea contenido derivado con esta IA inteligente 🔄🎥”**
+- 🏷️: `similarvideo`, `videos similares`, `contenido derivado`, `retención`, `IA video`
+
+---
+
+## 36. ✂️ [Revid](https://www.revid.ai/)
+- 📦 Qué es: Plataforma de edición automática de videos para crear clips cortos y resúmenes.
+- 💥 Ideal para creadores que quieren contenido rápido y profesional sin esfuerzo.
+- 🎮 Título:  
+  **“Edita y crea clips cortos de forma automática con esta IA 🔥✂️”**
+- 🏷️: `revid`, `edición automática`, `clips cortos`, `video resumen`, `IA edición`
+
+---
+
+## 37. 🛠️ [AutoShorts](https://autoshorts.ai)
+- 📦 Qué es: Generador automático de videos cortos para YouTube, TikTok y redes sociales.
+- 💥 Convierte cualquier video largo en shorts optimizados para cada plataforma.
+- 🎮 Título:  
+  **“Genera Shorts automáticos para YouTube y TikTok con un solo clic 🎬⚡”**
+- 🏷️: `autoshorts`, `youtube shorts`, `tiktok`, `videos cortos`, `automatización`
+
+---
+
+## 38. 🎨 [AICut](https://www.aicut.pro)
+- 📦 Qué es: Herramienta IA para cortar y editar videos automáticamente con enfoque en contenido viral.
+- 💥 Automatiza la edición para mejorar engagement y vistas en redes sociales.
+- 🎮 Título:  
+  **“Corta y edita videos virales automáticamente con IA en segundos 🔥✂️”**
+- 🏷️: `aicut`, `edición automática`, `videos virales`, `engagement`, `redes sociales`
+
+---
+
+## 39. 🚀 [SendShort](https://app.sendshort.ai/)
+- 📦 Qué es: Plataforma para crear y distribuir videos cortos para marketing y redes sociales.
+- 💥 Genera contenido listo para publicar y compartir en minutos.
+- 🎮 Título:  
+  **“Crea y comparte Shorts para marketing en segundos con esta IA 🚀🎥”**
+- 🏷️: `sendshort`, `videos cortos`, `marketing digital`, `social media`, `IA video`
+
+## 40. ⚙️ [Short AI](https://www.short.ai/es)
+- 📦 Qué es: Plataforma que transforma texto en videos cortos animados para redes sociales.
+- 💥 Ideal para crear clips atractivos a partir de guiones y textos simples.
+- 🎮 Título:  
+  **“Convierte texto en videos animados cortos para redes con esta IA ⚙️✨”**
+- 🏷️: `short ai`, `texto a video`, `videos animados`, `redes sociales`, `clips cortos`
+
+---
+
+## 41. 🤖 [Crayo](https://crayo.ai/)
+- 📦 Qué es: Plataforma todo en uno para creación de videos IA desde texto, imágenes y audio.
+- 💥 Combina diferentes modalidades para contenido multimedia completo y creativo.
+- 🎮 Título:  
+  **“Crea videos impresionantes desde texto, imagen y audio con esta IA 🤖🎬”**
+- 🏷️: `crayo ai`, `texto a video`, `multimedia IA`, `creación de contenido`, `video creativo`
+
+---
+
+## 42. 🎥 [Vidio AI](https://www.vidio.ai/)
+- 📦 Qué es: Plataforma para crear videos cortos y presentaciones animadas con IA.
+- 💥 Fácil para marketing, educación o redes sociales con resultados profesionales.
+- 🎮 Título:  
+  **“Haz videos cortos y animados para cualquier propósito con esta IA fácil 🎥✨”**
+- 🏷️: `vidio ai`, `videos cortos`, `presentaciones animadas`, `marketing`, `IA video`
+
+---
+
