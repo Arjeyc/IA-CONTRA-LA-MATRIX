@@ -167,13 +167,13 @@
 
 ---
 
-## 20. 🌀 [Visla AI](https://www.visla.us)
-- 📦 Qué es: Generador de video y presentación tipo storytelling desde texto, usando imágenes, subtítulos y música.
-- 💥 Ideal para creadores que necesitan impacto visual desde una idea escrita.
-- 🎬 Título:
+## 63. 🎯 [Vidgo AI](https://vidgo.ai/text-to-video)
+- 📦 Qué es: Generador gratuito que crea videos de cualquier estilo desde texto. :contentReference[oaicite:9]{index=9}
+- 💥 Permite elegir orientación de video (landscape, portrait).
+- 🎮 Título:  
   **“Conviértete en CREADOR VISUAL con esta IA de storytelling 🎤📽️”**
-- 🏷️: `visla ai`, `storytelling video`, `creador de contenido IA`, `text to video`, `video viral`
-
+- 🏷️: `vidgo ai`, `text to video`, `video a estilo`, `social format`
+  
 ---
 
 ## 21. 📊 [DeepBrain AI](https://www.deepbrain.io)
