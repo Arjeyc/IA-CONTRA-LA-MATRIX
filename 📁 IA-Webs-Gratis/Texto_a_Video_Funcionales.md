@@ -430,4 +430,18 @@
 ## 50. 🏗️ [Cuzi AI](https://cuzi.ai/dashboard/ai-video/text-to-video)  
 - 📦 Qué es: Generador de video desde texto con herramienta gratuita en línea .  
 - 💥 Perfecto para creadores e historias cortas.  
-- 🏷️: `cuzi ai`, `text to video`, `short story video`  
+- 🏷️: `cuzi ai`, `text to video`, `short story video`
+
+ ---
+
+- ## 51. 🌊 [MiniMax Hailuo AI](https://minimaxai.video/playground)  
+- 📦 Qué es: Text & image-to-video gratis, sin login, estilo Hailuo/Veo .  
+- 💥 Genera videos cortos con audio sincronizado.  
+- 🏷️: `hailuo ai`, `text to video`, `image to video`, `no login`
+
+---
+
+## 52. 🔄 [Clipfly AI](https://www.clipfly.ai/video-ai/text-to-video/)  
+- 📦 Qué es: Convierte texto en clips profesionales dinamizados, sin watermark .  
+- 💥 Bueno para promociones y redes.  
+- 🏷️: `clipfly`, `text to video`, `promo clips`, `no watermark`  
