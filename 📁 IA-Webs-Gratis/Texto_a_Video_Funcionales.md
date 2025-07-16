@@ -100,7 +100,7 @@
   **“La IA de HOLLYWOOD que convierte texto en video 🎬✨”**
 - 🏷️: `runwayml`, `gen-2`, `text to video`, `video profesional`, `inteligencia artificial creativa`
 
-## 13. 🔮 [Kling AI](https://kling.zhiyuan.ai)
+## 13. 🔮 [Kling AI](https://klingai.com/global/)
 - 📦 Qué es: Potente IA china de generación de video a partir de texto o imagen, con calidad cinematográfica.
 - 💥 Genera videos hiperrealistas y efectos especiales desde texto.
 - 🎬 Título:
