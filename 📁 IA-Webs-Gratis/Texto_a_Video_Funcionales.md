@@ -388,21 +388,27 @@
 
 ---
 
-## 45. 🚀 [Flexclip](https://www.flexclip.com/)
-- 📦 Qué es: Editor online con opción de transformar texto en videos con música y voz en off.
-- 💥 Perfecto para marketing, educación y videos personales con audio sincronizado.
+## 45. 🎞️ [Seedance AI](https://www.seedance.ai/)
+- 📦 Qué es: Plataforma de generación de video a partir de texto o voz, con estilo cinematográfico realista y dinámico.
+- 💥 Ideal para crear cortos, intros, escenas de fantasía o ciencia ficción con solo escribir una historia.
 - 🎬 Título:  
-  **“Convierte tus ideas en videos con texto y voz en una plataforma sencilla 🚀🎬”**
-- 🏷️: `flexclip`, `texto a video`, `voz en off`, `editor online`
+  **“Esta IA convierte tu texto en PELÍCULAS con movimiento real 🎥🌌”**
+- 🏷️: `seedance ai`, `text to video`, `video realista`, `películas IA`, `imagen en movimiento`
 
 ---
 
-## 46. 🎬 [Magisto](https://www.magisto.com/)
-- 📦 Qué es: Plataforma que usa IA para crear videos a partir de texto e imágenes, incluyendo audio y música.
-- 💥 Automatiza edición y narrativa audiovisual para redes sociales y presentaciones.
+## 46. 🧠 [LeiaPix AI](https://convert.leiapix.com/)
+- 📦 Qué es: Herramienta que transforma imágenes 2D en videos 3D con efecto de profundidad y movimiento.
+- 💥 Perfecta para darle vida a retratos, ilustraciones o paisajes sin necesidad de animarlos manualmente.
 - 🎬 Título:  
-  **“Crea videos con audio y efectos automáticamente desde texto o fotos 🎬🎵”**
-- 🏷️: `magisto`, `texto a video`, `audio automático`, `video inteligente`
+  **“Convierte FOTOS en VIDEOS 3D con esta IA mágica ✨📸”**
+- 🏷️: `leiapix`, `imagen a video`, `efecto 3d`, `motion ai`, `visual depth`
 
 ---
 
+## 47. 🔁 [Captions AI](https://www.captions.ai/)
+- 📦 Qué es: Plataforma de generación de video con voz sincronizada, subtítulos automáticos, edición y animación de rostro.
+- 💥 Ideal para contenido tipo TikTok, reels o educativos hablados con texto como base.
+- 🎬 Título:  
+  **“Esta IA te hace hablar en VIDEO con solo escribir 🗣️🎥”**
+- 🏷️: `captions ai`, `text to speech video`, `crear reels`, `subtítulos IA`, `face sync`
