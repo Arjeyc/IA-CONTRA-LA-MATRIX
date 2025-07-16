@@ -397,18 +397,37 @@
 
 ---
 
-## 46. 🧠 [LeiaPix AI](https://convert.leiapix.com/)
-- 📦 Qué es: Herramienta que transforma imágenes 2D en videos 3D con efecto de profundidad y movimiento.
-- 💥 Perfecta para darle vida a retratos, ilustraciones o paisajes sin necesidad de animarlos manualmente.
+## 46. 🌀 [Dreamina by CapCut](https://dreamina.capcut.com/)
+- 📦 Qué es: Generador de video IA de Bytedance (creadores de TikTok), convierte texto en video animado estilo storytelling.
+- 💥 Crea visuales fluidos, coloridos y de alta calidad directamente desde prompts.
 - 🎬 Título:  
-  **“Convierte FOTOS en VIDEOS 3D con esta IA mágica ✨📸”**
-- 🏷️: `leiapix`, `imagen a video`, `efecto 3d`, `motion ai`, `visual depth`
+  **“CapCut lanza la IA que convierte texto en HISTORIAS animadas 🎨🎬”**
+- 🏷️: `dreamina`, `capcut ai`, `text to animation`, `storytelling video`, `bytedance ai`
 
 ---
 
-## 47. 🔁 [Captions AI](https://www.captions.ai/)
-- 📦 Qué es: Plataforma de generación de video con voz sincronizada, subtítulos automáticos, edición y animación de rostro.
-- 💥 Ideal para contenido tipo TikTok, reels o educativos hablados con texto como base.
-- 🎬 Título:  
-  **“Esta IA te hace hablar en VIDEO con solo escribir 🗣️🎥”**
-- 🏷️: `captions ai`, `text to speech video`, `crear reels`, `subtítulos IA`, `face sync`
+# 47. 🎞️ [Vidful.ai](https://vidful.ai/features/text-to-video-generator)  
+- 📦 Qué es: Transforma texto en videos visualmente atractivos, con estilo realista o artístico .  
+- 💥 Bueno para marketing, educación y contenido creativo.  
+- 🏷️: `vidful ai`, `text to video`, `video marketing`
+
+---
+
+## 48. 🌐 [GizAI Video Generator](https://www.giz.ai/ai-video-generator/)  
+- 📦 Qué es: Generador IA gratuito con funciones de face swap, texto a video y varios modelos .  
+- 💥 Versátil y potente, sin necesidad de cuenta.  
+- 🏷️: `gizai`, `text to video`, `face swap`, `multi model`
+
+---
+
+## 49. 💡 [AnyVideo.ai](https://anyvideo.ai/text-to-video)  
+- 📦 Qué es: Crea videos a partir de texto con interfaz clara y descarga directa .  
+- 💥 Excelente para presentaciones visuales.  
+- 🏷️: `anyvideo ai`, `text to video`, `visual presentation`
+
+---
+
+## 50. 📘 [MioCreate](https://www.miocreate.com/text-to-video-ai.html)  
+- 📦 Qué es: Transforma texto en videos animados con BGM y subtítulos, sin registro .  
+- 💥 Sus videos son aptos para uso comercial gratuito.  
+- 🏷️: `miocreate`, `text to video`, `bgm`, `subtítulos` 
