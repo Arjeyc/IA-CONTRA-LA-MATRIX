@@ -158,81 +158,71 @@
 
 ---
 
-## 21. 📊 DeepBrain AI
+## 21. 📊 [DeepBrain AI](https://www.deepbrain.io)
 - 📦 Qué es: Plataforma de generación de video con avatares hiperrealistas y presentadores de noticias animados desde texto.
-- 🔗 [https://www.deepbrain.io](https://www.deepbrain.io)
 - 💥 Produce videos con presentadores virtuales que leen tu guion de manera natural.
 - 🎮 Título:  
   **“Este presentador NO es humano, es una IA que lee tu texto 😳🎥”**
 - 🏷️: `deepbrain ai`, `presentador virtual`, `text to video`, `noticias IA`, `avatar realista`
 
-## 22. 🔗 Kaiber AI
+## 22. 🔗 [Kaiber AI](https://kaiber.ai)
 - 📦 Qué es: Plataforma de video IA estilo música, arte o animación a partir de texto o imagen.
-- 🔗 [https://kaiber.ai](https://kaiber.ai)
 - 💥 Crea videoclips con estilo artístico, movimiento fluido y sincronía con audio.
 - 🎮 Título:  
   **“Haz tu videoclip con esta IA que transforma texto en ARTE animado 🌟🎧”**
 - 🏷️: `kaiber ai`, `video estilo arte`, `music video`, `text to animation`, `clip visual IA`
 
-## 23. 🌌 Pictory
+## 23. 🌌 [Pictory](https://pictory.ai)
 - 📦 Qué es: Herramienta de video automático para convertir blogs, textos o ideas en videos con narrador y visuales.
-- 🔗 [https://pictory.ai](https://pictory.ai)
 - 💥 Ideal para contenido educativo, redes sociales o marketing.
 - 🎮 Título:  
   **“Convierte cualquier texto en video LISTO para YouTube con IA 🎥🚀”**
 - 🏷️: `pictory`, `crear videos`, `blog a video`, `educación IA`, `text to video`
 
-## 24. ✨ Synthesia
+## 24. ✨ [Synthesia](https://www.synthesia.io)
 - 📦 Qué es: Plataforma para crear videos con avatares profesionales que hablan a cámara en más de 120 idiomas.
-- 🔗 [https://www.synthesia.io](https://www.synthesia.io)
 - 💥 Puedes crear cursos, presentaciones o tutoriales sin necesidad de grabarte.
 - 🎮 Título:  
   **“No necesitas cámara, esta IA habla por ti en cualquier idioma 🌐🎥”**
 - 🏷️: `synthesia`, `avatar IA`, `video multilenguaje`, `educación IA`, `videos automáticos`
 
-## 25. 🚀 Steve AI
+## 25. 🚀 [Steve AI](https://www.steve.ai)
 - 📦 Qué es: Generador de videos animados y explicativos a partir de texto o ideas.
-- 🔗 [https://www.steve.ai](https://www.steve.ai)
 - 💥 Crea personajes, escenas y locuciones automáticamente.
 - 🎮 Título:  
   **“Haz un VIDEO animado en 2 minutos con solo escribir un texto 🚀🎥”**
 - 🏷️: `steve ai`, `videos explicativos`, `video educativo IA`, `video animado`, `presentación con IA`
 
-## 26. 🕹️ Colossyan
+## 26. 🕹️ [Colossyan](https://www.colossyan.com)
 - 📦 Qué es: Plataforma de video educativo y corporativo desde texto con avatares y voces realistas.
-- 🔗 [https://www.colossyan.com](https://www.colossyan.com)
 - 💥 Perfecta para capacitaciones, onboarding y presentaciones internas.
 - 🎮 Título:  
   **“CAPACITA a tu equipo con esta IA que habla como humano 🤝🎥”**
 - 🏷️: `colossyan`, `video empresarial`, `text to video`, `avatar profesional`, `corporativo IA`
 
-## 27. 🔥 Hour One
+## 27. 🔥 [Hour One](https://www.hourone.ai)
 - 📦 Qué es: Plataforma para crear avatares digitales realistas desde texto, ideal para cursos y videos de empresa.
-- 🔗 [https://www.hourone.ai](https://www.hourone.ai)
 - 💥 Utiliza actores digitales hiperrealistas.
 - 🎮 Título:  
   **“Esta IA es como un actor de cine que lee tu texto 🎬🎥”**
 - 🏷️: `hour one`, `avatar digital`, `curso IA`, `actor virtual`, `empresa IA`
 
-## 28. 🧪 D-ID Creative Reality Studio
+## 28. 🧪 [D-ID Creative Reality Studio](https://www.d-id.com)
 - 📦 Qué es: Plataforma que convierte fotos en avatares hablantes con texto o voz.
-- 🔗 [https://www.d-id.com](https://www.d-id.com)
 - 💥 Crea presentaciones, saludos o videos virales desde una imagen fija.
 - 🎮 Título:  
   **“Tu foto puede HABLAR y contar historias con esta IA 😱🎥”**
 - 🏷️: `d-id`, `foto a video`, `hablar con IA`, `avatar animado`, `video con imagen fija`
 
-## 29. 🔄 Rephrase.ai
+## 29. 🔄 [Rephrase.ai](https://www.rephrase.ai)
 - 📦 Qué es: Generador de videos con actores digitales realistas desde texto.
-- 🔗 [https://www.rephrase.ai](https://www.rephrase.ai)
 - 💥 Usado por marcas para crear publicidad personalizada a escala.
 - 🎮 Título:  
   **“Crea anuncios con esta IA que actúa como un influencer 🌟🎥”**
 - 🏷️: `rephrase ai`, `actor IA`, `video marketing`, `influencer digital`, `anuncios IA`
 
-## 30. 🍊 Vidds AI
+## 30. 🍊 [Vidds AI](https://vidds.co)
 - 📦 Qué es: Plataforma de edición de video online asistida por IA, ideal para transformar texto en presentaciones visuales atractivas.
-- 🔗 [https://vidds.co](https://vidds.co)
 - 💥 Integra texto, animaciones, transiciones y clips.
 - 🎮 Título:  
   **“Transforma tus ideas en VIDEOS estilo Canva con esta IA 🚀🎬”**
