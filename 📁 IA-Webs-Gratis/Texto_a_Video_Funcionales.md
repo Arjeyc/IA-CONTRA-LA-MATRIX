@@ -93,12 +93,16 @@
   **“¡ESTA IA convierte tus ideas en videos ANIMADOS alucinantes! 🎥🔥”**
 - 🏷️: `text to video`, `pika labs`, `crear videos con IA`, `animaciones IA`, `generador IA`
 
+---
+
 ## 12. 🎞️ [Runway ML (Gen-2)](https://runwayml.com)
 - 📦 Qué es: IA profesional de video que convierte texto en video, imagen en video o extiende videos.
 - 💥 Usada en películas y campañas reales. Gen-2 es líder en el mercado.
 - 🎬 Título:
   **“La IA de HOLLYWOOD que convierte texto en video 🎬✨”**
 - 🏷️: `runwayml`, `gen-2`, `text to video`, `video profesional`, `inteligencia artificial creativa`
+
+---
 
 ## 13. 🔮 [Kling AI](https://klingai.com/global/)
 - 📦 Qué es: Potente IA china de generación de video a partir de texto o imagen, con calidad cinematográfica.
@@ -107,12 +111,16 @@
   **“¡Esta IA hace películas con solo una frase! 😳🎥”**
 - 🏷️: `kling ai`, `video desde texto`, `cine IA`, `crear cortos IA`, `generador chino`
 
+---
+
 ## 14. 🧠 [Haiper](https://haiper.ai)
 - 📦 Qué es: Herramienta de generación de video a partir de texto, imagen y estilo. De los creadores de DeepMind.
 - 💥 Produce clips estilizados, rápidos y personalizables.
 - 🎬 Título:
   **“La nueva IA de DeepMind crea VIDEOS con tu IMAGINACIÓN 💡🎥”**
 - 🏷️: `haiper`, `deepmind video`, `generador de clips`, `text to video`, `video IA`
+
+---
 
 ## 15. 🤖 [Luma AI (Dream Machine)](https://lumalabs.ai)
 - 📦 Qué es: Generador de video 4K desde texto con IA basada en reconstrucción 3D.
@@ -121,12 +129,16 @@
   **“¡Crea mundos reales con solo escribir una frase! 🪐📽️”**
 - 🏷️: `luma ai`, `dream machine`, `video en 3d`, `realidad IA`, `escenarios IA`
 
+---
+
 ## 16. ⚡ [Veo by Google DeepMind](https://deepmind.google/technologies/veo)
 - 📦 Qué es: Generador de video ultra avanzado (1080p, 30fps, coherente) desde texto, imagen o edición guiada.
 - 💥 Aún en acceso limitado, pero es el futuro del cine IA.
 - 🎬 Título:
   **“GOOGLE creó la IA de video MÁS POTENTE del mundo 🔥🎬”**
 - 🏷️: `veo`, `deepmind`, `video IA`, `generador futurista`, `cine digital`
+
+---
 
 ## 17. 🗣️ [HeyGen (con AI Video)](https://www.heygen.com)
 - 📦 Qué es: Plataforma de avatares parlantes que ahora incluye video desde texto con IA generativa.
@@ -135,6 +147,8 @@
   **“Habla con un avatar que CREA videos desde tu texto 😱🎤🎬”**
 - 🏷️: `heygen`, `avatar IA`, `text to video`, `voz generativa`, `video corto AI`
 
+---
+
 ## 18. 💻 [Sora (OpenAI)](https://openai.com/sora)
 - 📦 Qué es: Modelo experimental de OpenAI para convertir texto en video largo, coherente y realista.
 - 💥 Aún en acceso cerrado, pero es la visión completa de cine IA.
@@ -142,12 +156,16 @@
   **“OPENAI presenta la IA que reemplazará a Hollywood 😳🎬”**
 - 🏷️: `sora`, `openai video`, `cine con IA`, `crear películas IA`, `video realista`
 
+---
+
 ## 19. 🎥 [InVideo](https://invideo.io)
 - 📦 Qué es: Plataforma potente para crear videos desde texto, con plantillas y editor fácil.
 - 💥 Ideal para videos sociales, marketing, y contenido educativo.
 - 🎮 Título:  
   **“Crea VIDEOS profesionales desde texto en minutos con IA 💥🎬”**
 - 🏷️: `invideo`, `text to video`, `editor de video`, `videos sociales`, `plantillas IA`
+
+---
 
 ## 20. 🌀 [Visla AI](https://www.visla.us)
 - 📦 Qué es: Generador de video y presentación tipo storytelling desde texto, usando imágenes, subtítulos y música.
@@ -165,12 +183,16 @@
   **“Este presentador NO es humano, es una IA que lee tu texto 😳🎥”**
 - 🏷️: `deepbrain ai`, `presentador virtual`, `text to video`, `noticias IA`, `avatar realista`
 
+---
+
 ## 22. 🔗 [Kaiber AI](https://kaiber.ai)
 - 📦 Qué es: Plataforma de video IA estilo música, arte o animación a partir de texto o imagen.
 - 💥 Crea videoclips con estilo artístico, movimiento fluido y sincronía con audio.
 - 🎮 Título:  
   **“Haz tu videoclip con esta IA que transforma texto en ARTE animado 🌟🎧”**
 - 🏷️: `kaiber ai`, `video estilo arte`, `music video`, `text to animation`, `clip visual IA`
+
+---
 
 ## 23. 🌌 [Pictory](https://pictory.ai)
 - 📦 Qué es: Herramienta de video automático para convertir blogs, textos o ideas en videos con narrador y visuales.
@@ -179,12 +201,16 @@
   **“Convierte cualquier texto en video LISTO para YouTube con IA 🎥🚀”**
 - 🏷️: `pictory`, `crear videos`, `blog a video`, `educación IA`, `text to video`
 
+---
+
 ## 24. ✨ [Synthesia](https://www.synthesia.io)
 - 📦 Qué es: Plataforma para crear videos con avatares profesionales que hablan a cámara en más de 120 idiomas.
 - 💥 Puedes crear cursos, presentaciones o tutoriales sin necesidad de grabarte.
 - 🎮 Título:  
   **“No necesitas cámara, esta IA habla por ti en cualquier idioma 🌐🎥”**
 - 🏷️: `synthesia`, `avatar IA`, `video multilenguaje`, `educación IA`, `videos automáticos`
+
+---
 
 ## 25. 🚀 [Steve AI](https://www.steve.ai)
 - 📦 Qué es: Generador de videos animados y explicativos a partir de texto o ideas.
@@ -193,12 +219,16 @@
   **“Haz un VIDEO animado en 2 minutos con solo escribir un texto 🚀🎥”**
 - 🏷️: `steve ai`, `videos explicativos`, `video educativo IA`, `video animado`, `presentación con IA`
 
+---
+
 ## 26. 🕹️ [Colossyan](https://www.colossyan.com)
 - 📦 Qué es: Plataforma de video educativo y corporativo desde texto con avatares y voces realistas.
 - 💥 Perfecta para capacitaciones, onboarding y presentaciones internas.
 - 🎮 Título:  
   **“CAPACITA a tu equipo con esta IA que habla como humano 🤝🎥”**
 - 🏷️: `colossyan`, `video empresarial`, `text to video`, `avatar profesional`, `corporativo IA`
+
+---
 
 ## 27. 🔥 [Hour One](https://www.hourone.ai)
 - 📦 Qué es: Plataforma para crear avatares digitales realistas desde texto, ideal para cursos y videos de empresa.
@@ -207,6 +237,8 @@
   **“Esta IA es como un actor de cine que lee tu texto 🎬🎥”**
 - 🏷️: `hour one`, `avatar digital`, `curso IA`, `actor virtual`, `empresa IA`
 
+---
+
 ## 28. 🧪 [D-ID Creative Reality Studio](https://www.d-id.com)
 - 📦 Qué es: Plataforma que convierte fotos en avatares hablantes con texto o voz.
 - 💥 Crea presentaciones, saludos o videos virales desde una imagen fija.
@@ -214,12 +246,16 @@
   **“Tu foto puede HABLAR y contar historias con esta IA 😱🎥”**
 - 🏷️: `d-id`, `foto a video`, `hablar con IA`, `avatar animado`, `video con imagen fija`
 
-## 29. 🔄 [Synths.Video](https://synths.video)
-- 📦 Qué es: Transforma artículos o scripts en videos con avatares digitales y voz generada por IA.
-- 💥 Gran enfoque en contenido de YouTube y redes sociales.
+---
+
+## 29. 🔄 [Synthesys.io](https://synthesys.io/ai-video-generator/)
+- 📦 Qué es: Plataforma de generación de videos con avatares realistas y voz en más de 140 idiomas.
+- 💥 Permite crear videos profesionales sin necesidad de grabaciones tradicionales.
 - 🎮 Título:  
-  **“Convierte cualquier texto en VIDEO con avatar que habla por ti 🤖🎥”**
-- 🏷️: `synths.video`, `avatar IA`, `text to video`, `video automatizado`, `contenido redes`
+  **“Genera videos con avatares realistas y voz en más de 140 idiomas con esta IA 🎬🌍”**
+- 🏷️: `synthesys.io`, `avatar IA`, `voz IA`, `video profesional`, `text to video`
+
+---
 
 ## 30. 🍊 [FlexClip](https://www.flexclip.com)
 - 📦 Qué es: Editor online con funciones para crear videos rápidos desde texto, con efectos y música.
