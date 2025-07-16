@@ -6,82 +6,82 @@
 
 ---
 
-### 1. 📹 VEED – AI Text‑to‑Video
-- 📋 **Qué es**: Plataforma online que convierte texto en video con voz, subtítulos y plantillas.
-- 🔐 **Registro**: Opcional; puedes usar plan gratuito.
-- 🛠️ **Extras**: Incluye generador de scripts, voz IA, automatización de edición, formatos para TikTok/Reels :contentReference[oaicite:1]{index=1}.
-- 🎯 **Beneficio**: Ideal para crear shorts educativos o presentaciones sin editar.
+### 1. [VEED – AI Text‑to‑Video](https://www.veed.io/tools/ai-video/text-to-video) 🎥
+- 📋 Qué es: Plataforma online para convertir texto en video con subtítulos, voz IA y plantillas.
+- 🔐 Registro: Opcional.
+- 🛠️ Extras: Plantillas para TikTok, reels, intros, comerciales.
+- 🎯 Beneficio: Perfecta para crear shorts con voz automática desde texto.
 
 ---
 
-### 2. 🎞️ VideoTube.AI
-- 📋 **Qué es**: Herramienta online que genera videos cortos (unas pocas frases) desde texto en minutos.
-- 🔐 **Registro**: NO necesario para funciones básicas.
-- 🛠️ **Extras**: Simple paso-paso: escribir, generar y descargar :contentReference[oaicite:2]{index=2}.
-- 🎯 **Beneficio**: Perfecta para transformaciones rápidas de guiones en clips.
+### 2. [VideoTube.AI](https://videotube.ai/text-to-video) 🎞️
+- 📋 Qué es: Herramienta rápida que transforma texto corto en videos atractivos.
+- 🔐 Registro: NO necesario.
+- 🛠️ Extras: Generación automática desde párrafos.
+- 🎯 Beneficio: Útil para creadores que quieren transformar ideas en clips virales.
 
 ---
 
-### 3. 🌀 PixNova – Text to Video
-- 📋 **Qué es**: Crea videos profesionales desde ideas o guiones sin necesidad de editar.
-- 🔐 **Registro**: NO necesario para versión limitada :contentReference[oaicite:3]{index=3}.
-- 🛠️ **Extras**: Transiciones automáticas, escenas, estilo limpio.
-- 🎯 **Beneficio**: Genial para marketing, intros y contenido social fácil.
+### 3. [PixNova – AI Text‑to‑Video](https://pixnova.ai/text-to-video/) 🌀
+- 📋 Qué es: Web IA que convierte guiones o frases en videos de calidad sin editar nada.
+- 🔐 Registro: NO necesario.
+- 🛠️ Extras: Música de fondo, escenas automáticas, export fácil.
+- 🎯 Beneficio: Crea videos en segundos, ideal para reels.
 
 ---
 
-### 4. 💡 Arting.ai – Text‑to‑Video sin login
-- 📋 **Qué es**: Generador rápido de videos desde texto, sin registro ni marca de agua :contentReference[oaicite:4]{index=4}.
-- 🔐 **Registro**: NO necesario.
-- 🛠️ **Extras**: Estilos variados y salidas instantáneas.
-- 🎯 **Beneficio**: Útil para pilotos rápidos o pruebas de concepto visual.
+### 4. [Arting.ai – Video Generator](https://arting.ai/text-to-video) 💡
+- 📋 Qué es: Generador IA de video sin login ni marca de agua.
+- 🔐 Registro: NO necesario.
+- 🛠️ Extras: Diferentes estilos visuales, simple y rápido.
+- 🎯 Beneficio: Genera contenido sin fricciones ni cuentas.
 
 ---
 
-### 5. 🎬 MioCreate – Text‑to‑Video Free
-- 📋 **Qué es**: Convierte texto en video con música y subtítulos automáticamente :contentReference[oaicite:5]{index=5}.
-- 🔐 **Registro**: NO necesario.
-- 🛠️ **Extras**: Añade BGM, voz en off, descarga directa.
-- 🎯 **Beneficio**: Perfecto para educadores y creadores de contenido.
+### 5. [MioCreate – Text to Video](https://www.miocreate.com/text-to-video-ai.html) 🎬
+- 📋 Qué es: Plataforma IA para crear video desde texto, con música y narración.
+- 🔐 Registro: NO necesario.
+- 🛠️ Extras: BGM, voz IA, descarga directa.
+- 🎯 Beneficio: Ideal para docentes, creadores y marketers.
 
 ---
 
-### 6. 📺 Kapwing – AI Video Generator
-- 📋 **Qué es**: Editor online con generador de video por IA desde texto/guiones :contentReference[oaicite:6]{index=6}.
-- 🔐 **Registro**: Sí, con plan básico gratuito.
-- 🛠️ **Extras**: Redimensionable, voz IA, plantillas para redes.
-- 🎯 **Beneficio**: Ideal para creadores de contenido multiplataforma.
+### 6. [Kapwing – AI Video Generator](https://www.kapwing.com/ai-video-generator) 📺
+- 📋 Qué es: Editor en línea con generador de video desde texto/guiones.
+- 🔐 Registro: Requerido (plan gratuito disponible).
+- 🛠️ Extras: Formatos sociales, textos animados, voz IA.
+- 🎯 Beneficio: Excelente para producción en redes y marketing.
 
 ---
 
-### 7. 🖥️ Supawork AI – Video sin login
-- 📋 **Qué es**: Generador IA de video basado en prompts, sin marca de agua ni registro :contentReference[oaicite:7]{index=7}.
-- 🔐 **Registro**: NO necesario.
-- 🛠️ **Extras**: Enfoque visual narrativo, personajes y escenas variadas.
-- 🎯 **Beneficio**: Excelente para storytelling rápido y sin líos.
+### 7. [Supawork AI – Text to Video](https://supawork.ai/ai-text-to-video) 🖥️
+- 📋 Qué es: Generador IA de video sin marca de agua ni login.
+- 🔐 Registro: NO necesario.
+- 🛠️ Extras: Diseño narrativo visual.
+- 🎯 Beneficio: Storytelling rápido sin esfuerzo.
 
 ---
 
-### 8. 🪄 Saifs.ai – Text‑to‑Video narrativo
-- 📋 **Qué es**: Convierte descripciones en videos visuales con sonido y transiciones :contentReference[oaicite:8]{index=8}.
-- 🔐 **Registro**: NO necesario.
-- 🛠️ **Extras**: Ajuste de escenas, música, estilos narrativos.
-- 🎯 **Beneficio**: Ideal para vídeos con atmósfera o ambientación emocional.
+### 8. [Saifs AI – Text to Video](https://saifs.ai/text-to-video) 🪄
+- 📋 Qué es: Plataforma para convertir descripciones en video.
+- 🔐 Registro: NO necesario.
+- 🛠️ Extras: Música, transiciones, escenas automáticas.
+- 🎯 Beneficio: Genial para generar ambientaciones visuales con texto.
 
 ---
 
-### 9. 🌟 YesChat – Text‑to‑Video IA
-- 📋 **Qué es**: Herramienta dentro de YesChat para generar video desde descripción :contentReference[oaicite:9]{index=9}.
-- 🔐 **Registro**: No se necesita registre para demo.
-- 🛠️ **Extras**: Estilos realistas o creativos, exportable fácilmente.
-- 🎯 **Beneficio**: Útil para creatividad visual y prototipos.
+### 9. [YesChat – Text to Video](https://www.yeschat.ai/features/text-to-video-generator) 🌟
+- 📋 Qué es: Parte del ecosistema YesChat para generar videos IA.
+- 🔐 Registro: NO requerido para demo.
+- 🛠️ Extras: Estilos realistas, creativos, exportación rápida.
+- 🎯 Beneficio: Prototipa ideas visuales desde prompts.
 
 ---
 
-### 10. 🔥 Midjourney‑Video AI
-- 📋 **Qué es**: Generador inspirado en Midjourney, permite video sin registro ni agua :contentReference[oaicite:10]{index=10}.
-- 🔐 **Registro**: NO necesario.
-- 🛠️ **Extras**: Estética visual tipo Midjourney, resultados rápidos.
-- 🎯 **Beneficio**: Perfecto para creadores de contenido visual que aman estética IA.
+### 10. [Midjourney‑Video AI](https://www.midjourney-video.org/) 🔥
+- 📋 Qué es: Web con estética Midjourney para generar clips desde descripciones.
+- 🔐 Registro: NO necesario.
+- 🛠️ Extras: Generación visual artística.
+- 🎯 Beneficio: Crea contenido visualmente impactante sin conocimientos técnicos.
 
 ---
