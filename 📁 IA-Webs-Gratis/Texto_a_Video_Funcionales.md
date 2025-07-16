@@ -142,12 +142,12 @@
   **“OPENAI presenta la IA que reemplazará a Hollywood 😳🎬”**
 - 🏷️: `sora`, `openai video`, `cine con IA`, `crear películas IA`, `video realista`
 
-## 19. 🎥 [Animoto AI](https://animoto.com)
-- 📦 Qué es: Plataforma de creación de videos automática con plantillas, música y estilo desde prompts.
-- 💥 Para marketing, educación y contenido rápido desde texto o ideas.
-- 🎬 Título:
-  **“Crea VIDEOS con estilo sin saber editar ¡solo con IA! 😍📹”**
-- 🏷️: `animoto`, `generador de videos`, `text to video`, `video rápido`, `plantillas IA`
+## 19. 🎥 [InVideo](https://invideo.io)
+- 📦 Qué es: Plataforma potente para crear videos desde texto, con plantillas y editor fácil.
+- 💥 Ideal para videos sociales, marketing, y contenido educativo.
+- 🎮 Título:  
+  **“Crea VIDEOS profesionales desde texto en minutos con IA 💥🎬”**
+- 🏷️: `invideo`, `text to video`, `editor de video`, `videos sociales`, `plantillas IA`
 
 ## 20. 🌀 [Visla AI](https://www.visla.us)
 - 📦 Qué es: Generador de video y presentación tipo storytelling desde texto, usando imágenes, subtítulos y música.
@@ -214,17 +214,17 @@
   **“Tu foto puede HABLAR y contar historias con esta IA 😱🎥”**
 - 🏷️: `d-id`, `foto a video`, `hablar con IA`, `avatar animado`, `video con imagen fija`
 
-## 29. 🔄 [Rephrase.ai](https://www.rephrase.ai)
-- 📦 Qué es: Generador de videos con actores digitales realistas desde texto.
-- 💥 Usado por marcas para crear publicidad personalizada a escala.
+## 29. 🔄 [Synths.Video](https://synths.video)
+- 📦 Qué es: Transforma artículos o scripts en videos con avatares digitales y voz generada por IA.
+- 💥 Gran enfoque en contenido de YouTube y redes sociales.
 - 🎮 Título:  
-  **“Crea anuncios con esta IA que actúa como un influencer 🌟🎥”**
-- 🏷️: `rephrase ai`, `actor IA`, `video marketing`, `influencer digital`, `anuncios IA`
+  **“Convierte cualquier texto en VIDEO con avatar que habla por ti 🤖🎥”**
+- 🏷️: `synths.video`, `avatar IA`, `text to video`, `video automatizado`, `contenido redes`
 
-## 30. 🍊 [Vidds AI](https://vidds.co)
-- 📦 Qué es: Plataforma de edición de video online asistida por IA, ideal para transformar texto en presentaciones visuales atractivas.
-- 💥 Integra texto, animaciones, transiciones y clips.
+## 30. 🍊 [FlexClip](https://www.flexclip.com)
+- 📦 Qué es: Editor online con funciones para crear videos rápidos desde texto, con efectos y música.
+- 💥 Fácil para principiantes, no requiere instalación.
 - 🎮 Título:  
-  **“Transforma tus ideas en VIDEOS estilo Canva con esta IA 🚀🎬”**
-- 🏷️: `vidds ai`, `editor de video IA`, `text to video`, `presentaciones IA`, `crear contenido visual`
+  **“Haz VIDEOS increíbles desde texto sin experiencia técnica 🚀🎞️”**
+- 🏷️: `flexclip`, `text to video`, `editor video online`, `videos rápidos`, `plantillas video`
 
