@@ -370,3 +370,39 @@
 
 ---
 
+## 43. 🍗 [Pollo AI](https://pollo.ai/)
+- 📦 Qué es: Plataforma de creación de videos automáticos desde texto, con generación de audio sincronizado.
+- 💥 Convierte guiones en videos con voz natural y elementos visuales atractivos.
+- 🎬 Título:  
+  **“Crea videos COMPLETOS desde texto con audio integrado en minutos 🍗🎥”**
+- 🏷️: `pollo ai`, `texto a video`, `video con audio`, `generador automático`
+
+---
+
+## 44. 🌀 [Lumen5](https://lumen5.com/)
+- 📦 Qué es: Herramienta que transforma texto o artículos en videos animados con música y voz.
+- 💥 Ideal para contenido educativo, marketing y redes sociales con audio incluido.
+- 🎬 Título:  
+  **“Convierte blogs y textos en videos dinámicos con audio y música en segundos 🎥🎶”**
+- 🏷️: `lumen5`, `texto a video`, `video animado`, `audio integrado`
+
+---
+
+## 45. 🚀 [Flexclip](https://www.flexclip.com/)
+- 📦 Qué es: Editor online con opción de transformar texto en videos con música y voz en off.
+- 💥 Perfecto para marketing, educación y videos personales con audio sincronizado.
+- 🎬 Título:  
+  **“Convierte tus ideas en videos con texto y voz en una plataforma sencilla 🚀🎬”**
+- 🏷️: `flexclip`, `texto a video`, `voz en off`, `editor online`
+
+---
+
+## 46. 🎬 [Magisto](https://www.magisto.com/)
+- 📦 Qué es: Plataforma que usa IA para crear videos a partir de texto e imágenes, incluyendo audio y música.
+- 💥 Automatiza edición y narrativa audiovisual para redes sociales y presentaciones.
+- 🎬 Título:  
+  **“Crea videos con audio y efectos automáticamente desde texto o fotos 🎬🎵”**
+- 🏷️: `magisto`, `texto a video`, `audio automático`, `video inteligente`
+
+---
+
