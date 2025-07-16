@@ -427,7 +427,7 @@
 
 ---
 
-## 50. 📘 [MioCreate](https://www.miocreate.com/text-to-video-ai.html)  
-- 📦 Qué es: Transforma texto en videos animados con BGM y subtítulos, sin registro .  
-- 💥 Sus videos son aptos para uso comercial gratuito.  
-- 🏷️: `miocreate`, `text to video`, `bgm`, `subtítulos` 
+## 50. 🏗️ [Cuzi AI](https://cuzi.ai/dashboard/ai-video/text-to-video)  
+- 📦 Qué es: Generador de video desde texto con herramienta gratuita en línea .  
+- 💥 Perfecto para creadores e historias cortas.  
+- 🏷️: `cuzi ai`, `text to video`, `short story video`  
