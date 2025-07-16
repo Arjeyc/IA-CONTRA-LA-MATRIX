@@ -408,35 +408,40 @@
 
 # 47. 🎞️ [Vidful.ai](https://vidful.ai/features/text-to-video-generator)  
 - 📦 Qué es: Transforma texto en videos visualmente atractivos, con estilo realista o artístico .  
-- 💥 Bueno para marketing, educación y contenido creativo.  
+- 💥 Bueno para marketing, educación y contenido creativo.
+- 🎬 Título:  
 - 🏷️: `vidful ai`, `text to video`, `video marketing`
 
 ---
 
 ## 48. 🌐 [GizAI Video Generator](https://www.giz.ai/ai-video-generator/)  
 - 📦 Qué es: Generador IA gratuito con funciones de face swap, texto a video y varios modelos .  
-- 💥 Versátil y potente, sin necesidad de cuenta.  
+- 💥 Versátil y potente, sin necesidad de cuenta.
+- 🎬 Título:  
 - 🏷️: `gizai`, `text to video`, `face swap`, `multi model`
 
 ---
 
 ## 49. 💡 [AnyVideo.ai](https://anyvideo.ai/text-to-video)  
 - 📦 Qué es: Crea videos a partir de texto con interfaz clara y descarga directa .  
-- 💥 Excelente para presentaciones visuales.  
+- 💥 Excelente para presentaciones visuales.
+- 🎬 Título:  
 - 🏷️: `anyvideo ai`, `text to video`, `visual presentation`
 
 ---
 
 ## 50. 🏗️ [Cuzi AI](https://cuzi.ai/dashboard/ai-video/text-to-video)  
 - 📦 Qué es: Generador de video desde texto con herramienta gratuita en línea .  
-- 💥 Perfecto para creadores e historias cortas.  
+- 💥 Perfecto para creadores e historias cortas.
+- 🎬 Título:  
 - 🏷️: `cuzi ai`, `text to video`, `short story video`
 
  ---
 
 - ## 51. 🌊 [MiniMax Hailuo AI](https://minimaxai.video/playground)  
 - 📦 Qué es: Text & image-to-video gratis, sin login, estilo Hailuo/Veo .  
-- 💥 Genera videos cortos con audio sincronizado.  
+- 💥 Genera videos cortos con audio sincronizado.
+- 🎬 Título:  
 - 🏷️: `hailuo ai`, `text to video`, `image to video`, `no login`
 
 ---
@@ -444,4 +449,67 @@
 ## 52. 🔄 [Clipfly AI](https://www.clipfly.ai/video-ai/text-to-video/)  
 - 📦 Qué es: Convierte texto en clips profesionales dinamizados, sin watermark .  
 - 💥 Bueno para promociones y redes.  
-- 🏷️: `clipfly`, `text to video`, `promo clips`, `no watermark`  
+- 🏷️: `clipfly`, `text to video`, `promo clips`, `no watermark`
+
+---
+
+## 53. 🌊 [Hailuo AI](https://hailuoai.video/)
+- 📦 Qué es: Plataforma que convierte texto o imágenes en clips de video (5–10 s) con realismo cinematográfico y control de cámara.
+- 💥 Generas visuales dinámicos estilo Veo 3 — incluye movimiento corporal, cámara, efectos, y próximamente audio sincronizado :contentReference[oaicite:1]{index=1}.
+- 🎬 Título:  
+  **“Esta IA hace videos hiperrealistas de exploración, acción… ¡como Hollywood! 🎥😱”**
+- 🏷️: `hailuo ai`, `text to video`, `image to video`, `multimodal`, `free credits`
+
+---
+
+## 54. 🎬 [CraftClips](https://www.craftclips.ai/)  
+- 📦 Qué es: Genera videos en minutos con voces, música y stock sin signup .  
+- 💥 Ideal para contenido de actualidad o redes.
+- 🎬 Título:  
+- 🏷️: `craftclips`, `text to video`, `voiceover`, `stock footage`
+
+---
+
+## 55. 🌠 [Galaxy AI](https://galaxy.ai/ai-text-to-video-generator)  
+- 📦 Qué es: Convierte texto en videos cortos (5–10s) sin registro .  
+- 💥 Perfecto para teasers o intros rápidas.  
+- 🏷️: `galaxy ai`, `short video`, `text to video`, `teaser`
+
+---
+
+## 56. 🎯 [VideoMaker.me](https://videomaker.me)  
+- 📦 Qué es: Plataforma que integra Veo 3 para crear videos con audio desde texto o imágenes .  
+- 💥 Clones de Google Veo accesible sin login.
+- 🎬 Título:  
+- 🏷️: `videomaker`, `veo3`, `text to video`, `audio included`  
+
+## 57. 💡 [Artguru AI Video](https://www.artguru.ai/blogs/ai-video-generator-from-text/)  
+- 📦 Qué es: Herramienta orientada a generar shorts temáticos (cocina, DIY) desde texto .  
+- 💥 Útil para inspiración o contenido temático.
+- 🎬 Título:  
+- 🏷️: `artguru ai`, `short video`, `text to video`, `theme video`
+
+---
+
+## 58. 🎥 [Dreamlux](https://dreamlux.ai/)
+- 📦 Qué es: Generador online que crea videos desde texto o imagen, libre de marca de agua. :contentReference[oaicite:4]{index=4}
+- 💥 Plantillas predefinidas para escenas artísticas o realistas rápidas.
+- 🎬 Título:  
+- 🏷️: `dreamlux ai`, `text to video`, `image to video`, `no watermark`
+
+---
+
+## 59. 🎬 [Media.io Text-to-Video](https://www.media.io/text-to-video.html)
+- 📦 Qué es: Generador de video simplificado desde texto, online y gratuito. :contentReference[oaicite:6]{index=6}
+- 💥 Ideal para marketing, tutoriales o videos cortos sociales.
+- 🎬 Título:  
+- 🏷️: `media io`, `text to video`, `editor online`
+
+---
+
+## 60. 💡 [Simplified Chinese AI Video Generator](https://simplified.com/gb/ai-video-generator/chinese)
+- 📦 Qué es: Herramienta para crear videos en chino con voz, plantillas y subtítulos automáticos. :contentReference[oaicite:8]{index=8}
+- 💥 Perfecta para contenidos multilingües, con voz auténtica en chino.
+- 🎬 Título:  
+- 🏷️: `simplified ai`, `text to video`, `voz china`, `plantillas`
+
