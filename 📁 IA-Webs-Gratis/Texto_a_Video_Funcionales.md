@@ -597,7 +597,6 @@
 
 ## [71. 🧠 ChatGLM (IA Multimodal China)](https://chatglm.cn/)
 - 📦 Qué es: Plataforma avanzada de inteligencia artificial multimodal desarrollada en China, permite generar conversaciones, imágenes y videos a partir de texto.
-- 🔗 [https://chatglm.cn/](https://chatglm.cn/)
 - 💥 Ideal para experimentar con herramientas de IA integradas tipo ChatGPT + generadores de contenido multimedia.
 - 🎮 Título:  **“Una IA CHINA que combina CHAT, IMÁGENES y VIDEO en un solo lugar 😱🇨🇳”**
 - 🏷️: `chatglm`, `china ai`, `ia multimodal`, `generador de video`, `texto a imagen`, `alternativa a ChatGPT`
