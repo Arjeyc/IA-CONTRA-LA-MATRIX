@@ -92,6 +92,24 @@ Descubre herramientas locales de IA que puedes instalar en tu propia PC para man
 
 **✅ Beneficio:** Videos generados sin conexión, con estilo único, sin censura ni restricciones de uso.
 
+---
+
+## 📱 Servicios de Números Temporales (SMS Online)
+
+Lista de páginas para recibir códigos SMS de verificación sin necesidad de usar tu número real. Útil para pruebas, registros anónimos o cuentas temporales.
+
+| 🌐 Sitio | Descripción |
+|---------|-------------|
+| [sms24.me](https://sms24.me) | Recibe SMS desde varios países. Interfaz directa. |
+| [sms-online.co](https://sms-online.co) | Números internacionales actualizados constantemente. |
+| [receivesms.co](https://receivesms.co/) | Rápido y sin registro. Buena disponibilidad. |
+| [7sim.cc](https://7sim.cc/) | Enfocado en números rusos y europeos. Con historial. |
+| [receive-smss.com](https://receive-smss.com/) | Mensajes en tiempo real. Interfaz limpia. |
+| [sms24.me/en](https://sms24.me/en) | Versión en inglés de sms24.me para usuarios globales. |
+| [temp-number.com](https://temp-number.com/) | Ideal para cuentas rápidas o verificaciones de apps. |
+
+> ⚠️ **Recomendación**: Úsalas solo para cuentas temporales o pruebas. No coloques información personal importante. Algunas plataformas podrían bloquear estos números.
+
 
 ---
 
