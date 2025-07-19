@@ -110,6 +110,23 @@ Lista de páginas para recibir códigos SMS de verificación sin necesidad de us
 
 > ⚠️ **Recomendación**: Úsalas solo para cuentas temporales o pruebas. No coloques información personal importante. Algunas plataformas podrían bloquear estos números.
 
+---
+
+## 📧 Correos Temporales (Temp Email Services)
+
+Lista de servicios para generar correos electrónicos temporales, anónimos y desechables. Útiles para evitar spam, registrarse en sitios o testear herramientas sin usar tu email real.
+
+| 🌐 Sitio | Descripción |
+|---------|-------------|
+| [temp-mail.org](https://temp-mail.org/es/) | Uno de los más populares. Cambia dominio y recibe adjuntos. |
+| [mail.tm](https://mail.tm/es/) | Servicio rápido, privado y con API. Ideal para desarrolladores. |
+| [temp-mail.io](https://temp-mail.io/es) | Similar a temp-mail.org pero con más dominios disponibles. |
+| [tempail.com](https://tempail.com/es/) | Interfaz minimalista, sin publicidad invasiva. |
+| [yopmail.com](https://yopmail.com/es/) | Clásico y confiable. Ideal para pruebas y acceso rápido. |
+| [internxt.com - Temporary Email](https://internxt.com/es/temporary-email) | Enfocado en privacidad total y cifrado. |
+| [correotemporal.org](https://correotemporal.org/) | En español completo. Práctico y directo al punto. |
+
+> 💡 **Nota**: Revisa siempre si el servicio permite recibir mensajes con enlaces o códigos, ya que algunos los bloquean. Usa solo para pruebas, registros no sensibles o evitar el spam.
 
 ---
 
