@@ -513,3 +513,84 @@
 - 🎬 Título:  
 - 🏷️: `simplified ai`, `text to video`, `voz china`, `plantillas`
 
+---
+
+## 61. 🎭 [Talking Avatar AI](https://www.talkingavatar.ai/)
+- 📦 Qué es: Herramienta online para crear avatares parlantes a partir de texto, imagen o voz.
+- 💥 Puedes generar presentaciones, narraciones o personajes virtuales que hablan en múltiples idiomas.
+- 🎮 Título: **“¡Tu avatar puede hablar como tú! 😲🗣️ Prueba esta IA ahora”**
+- 🏷️: `talking avatar`, `text to video`, `avatar parlante`, `voz IA`, `video AI`
+
+---
+
+## 62. 🧠 [Morph Studio](https://app.morphstudio.com/board/5c049e277144433a9f4cf1b47d86bcac)
+- 📦 Qué es: Plataforma para crear animaciones con personajes y escenas completas usando texto o prompts.
+- 💥 Ideal para storytelling, cortos animados o contenido viral.
+- 🎮 Título: **“Crea animaciones de otro nivel con solo texto 😳🎬”**
+- 🏷️: `morphstudio`, `animaciones IA`, `imagen a video`, `text to animation`, `storytelling IA`
+
+---
+
+## 63. 🔮 [Digen AI](https://digen.ai/)
+- 📦 Qué es: Plataforma creativa que transforma tus prompts o conceptos en videos o personajes visuales.
+- 💥 Útil para branding, marketing o contenido creativo tipo TikTok.
+- 🎮 Título: **“Esta IA convierte tus ideas en VIDEOS impactantes 🎥✨”**
+- 🏷️: `digen ai`, `creatividad IA`, `video AI`, `text to video`, `imagen a video`
+
+---
+
+## 64. 🛰️ [Hedra](https://www.hedra.com/)
+- 📦 Qué es: Plataforma colaborativa para crear mundos visuales, clips y storytelling con IA.
+- 💥 Ideal para empresas, creadores y marcas que necesitan contenido rápido y dinámico.
+- 🎮 Título: **“Crea mundos visuales con un prompt 🤯🌌”**
+- 🏷️: `hedra`, `storytelling IA`, `visual content`, `video AI`, `imagen a video`
+
+---
+
+## 65. 🌊 [Video Ocean](https://video-ocean.com/en)
+- 📦 Qué es: Generador de video desde texto e imagen para creación de reels, shorts o anuncios llamativos.
+- 💥 Muy visual, moderno y con plantillas rápidas.
+- 🎮 Título: **“Haz reels virales con esta IA secreta 🌊📱”**
+- 🏷️: `video ocean`, `text to video`, `shorts AI`, `reels IA`, `video marketing`
+
+---
+
+## 66. 🎨 [SeaArt AI](https://www.seaart.ai/es)
+- 📦 Qué es: Plataforma de arte visual con opción de crear animaciones tipo video a partir de tus imágenes IA.
+- 💥 Puedes transformar tus dibujos o renders en clips animados muy potentes.
+- 🎮 Título: **“De imagen a video artístico en 1 clic 🎨🎥”**
+- 🏷️: `seaart`, `imagen a video`, `arte animado`, `AI video`, `video creativo`
+
+---
+
+## 67. 🧬 [Magi Sand](https://magi.sand.ai/app/login)
+- 📦 Qué es: Plataforma emergente tipo laboratorio creativo IA para generar contenido visual avanzado.
+- 💥 Ideal para experimentar con IA generativa de video y escenas.
+- 🎮 Título: **“Esta IA china te deja crear escenas increíbles con texto 😱🎥”**
+- 🏷️: `magi sand`, `ai china`, `text to scene`, `imagen a video`, `laboratorio creativo`
+
+---
+
+## 68. 🌙 [Yuewen Video](https://yuewen.cn/videos)
+- 📦 Qué es: Plataforma china para generar video desde historia, texto o cómic estilo manga.
+- 💥 Única en convertir novelas o cómics en motion video.
+- 🎮 Título: **“Convierte tu historia en un anime con IA 🎌📖”**
+- 🏷️: `yuewen`, `video anime`, `novela visual`, `manga AI`, `text to animation`
+
+---
+
+## 69. 🔮 [Hunyuan Tencent](https://hunyuan.tencent.com/)
+- 📦 Qué es: Motor de IA de Tencent con módulos avanzados para generación de texto a imagen y video.
+- 💥 Permite crear personajes, escenas y clips directamente desde prompts complejos.
+- 🎮 Título: **“Tencent lo hizo: IA que crea todo tu video con texto 🧠🔥”**
+- 🏷️: `hunyuan`, `tencent ai`, `text to video`, `prompt video`, `AI potente china`
+
+---
+
+## 70. 🎬 [CapCut Creator AI](https://www.capcut.com/ai-creator/start?from_page=work_space&start_tab=video&enter_from=project&position=my_draft&__action_from=my_draft&__from_page=work_space)
+- 📦 Qué es: Herramienta oficial de CapCut para crear videos con IA, texto, plantillas y efectos automáticos.
+- 💥 Perfecta para hacer contenido viral y editado automáticamente.
+- 🎮 Título: **“CapCut ahora tiene su propia IA 🤖🎞️ ¡Mira lo que hace!”**
+- 🏷️: `capcut`, `editor video IA`, `text to video`, `shorts automáticos`, `capcut AI`
+
+
